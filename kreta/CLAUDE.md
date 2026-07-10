@@ -1,131 +1,73 @@
-# CLAUDE.md
+# Agent Instructions
 
-This file provides guidance to Claude Code when working with code in this repository.
+You're working inside the **WAT framework** (Workflows, Agents, Tools). This architecture separates concerns so that probabilistic AI handles reasoning while deterministic code handles execution. That separation is what makes this system reliable.
 
----
+## The WAT Architecture
 
-> **Template state:** This is the vanilla scaffold — not yet initialised as a project. Type `init` to begin the 9-step setup. The sections below contain `[PLACEHOLDER]` values that `init` will fill in. Do not fill them manually.
->
-> For context on the system design, read `introduction.md`.
+**Layer 1: Workflows (The Instructions)**
+- Markdown SOPs stored in `workflows/`
+- Each workflow defines the objective, required inputs, which tools to use, expected outputs, and how to handle edge cases
+- Written in plain language, the same way you'd brief someone on your team
 
----
+**Layer 2: Agents (The Decision-Maker)**
+- This is your role. You're responsible for intelligent coordination.
+- Read the relevant workflow, run tools in the correct sequence, handle failures gracefully, and ask clarifying questions when needed
+- You connect intent to execution without trying to do everything yourself
+- Example: If you need to pull data from a website, don't attempt it directly. Read `workflows/scrape_website.md`, figure out the required inputs, then execute `tools/scrape_single_site.py`
 
-## [PROJECT_NAME] — Claude Code Briefing
+**Layer 3: Tools (The Execution)**
+- Python scripts in `tools/` that do the actual work
+- API calls, data transformations, file operations, database queries
+- Credentials and API keys are stored in `.env`
+- These scripts are consistent, testable, and fast
 
-> Also read `README.md` immediately after this file — it describes the project folder structure and how to maintain it.
+**Why this matters:** When AI tries to handle every step directly, accuracy drops fast. If each step is 90% accurate, you're down to 59% success after just five steps. By offloading execution to deterministic scripts, you stay focused on orchestration and decision-making where you excel.
 
-## Project overview
+## How to Operate
 
-This is a proprietary [project description]. It is designed to produce [one or more products / deliverables], for [target audience or market].
+**1. Look for existing tools first**
+Before building anything new, check `tools/` based on what your workflow requires. Only create new scripts when nothing exists for that task.
 
-### Workstrands
+**2. Learn and adapt when things fail**
+When you hit an error:
+- Read the full error message and trace
+- Fix the script and retest (if it uses paid API calls or credits, check with me before running again)
+- Document what you learned in the workflow (rate limits, timing quirks, unexpected behavior)
+- Example: You get rate-limited on an API, so you dig into the docs, discover a batch endpoint, refactor the tool to use it, verify it works, then update the workflow so this never happens again
 
-Workstrands are self-contained units of work, each with its own inputs, tools, and specifications. A workstrand can serve a specific product or the entire project.
+**3. Keep workflows current**
+Workflows should evolve as you learn. When you find better methods, discover constraints, or encounter recurring issues, update the workflow. That said, don't create or overwrite workflows without asking unless I explicitly tell you to. These are your instructions and need to be preserved and refined, not tossed after one use.
 
-`wrk-project/` — Project Management: milestone plans, risk registers, cross-workstrand coordination.
+## The Self-Improvement Loop
 
-`wrk-[name]/` — [Workstrand name]: [One-sentence description of what this workstrand produces and why.]
+Every failure is a chance to make the system stronger:
+1. Identify what broke
+2. Fix the tool
+3. Verify the fix works
+4. Update the workflow with the new approach
+5. Move on with a more robust system
 
-`wrk-[name]/` — [Workstrand name]: [One-sentence description of what this workstrand produces and why.]
+This loop is how the framework improves over time.
 
-Planned workstrands (not yet started):
+## File Structure
 
-- [Workstrand name]: [Brief description]
+**What goes where:**
+- **Deliverables**: Final outputs go to cloud services (Google Sheets, Slides, etc.) where I can access them directly
+- **Intermediates**: Temporary processing files that can be regenerated
 
-## The WAT Framework
+**Directory layout:**
+```
+.tmp/           # Temporary files (scraped data, intermediate exports). Regenerated as needed.
+tools/          # Python scripts for deterministic execution
+workflows/      # Markdown SOPs defining what to do and how
+.env            # API keys and environment variables (NEVER store secrets anywhere else)
+credentials.json, token.json  # Google OAuth (gitignored)
+```
 
-Probabilistic AI handles reasoning; deterministic code handles execution. Applied in all workstrand folders only.
+**Core principle:** Local files are just for processing. Anything I need to see or use lives in cloud services. Everything in `.tmp/` is disposable.
 
-- **Layer 1 — Workflows (Instructions):** `<workstrand>/workflows/`. `tplan-*.md` files are pre-build agreement documents — objective, inputs, agreed logic, expected outputs, edge cases; no implementation code. Read the relevant tplan before any tool development.
-- **Layer 2 — Agent (Decision-Maker):** Your layer. Coordinate: read workflows, run tools in sequence, handle failures, ask clarifying questions. Perspective varies by document type — see Agent Roles.
-- **Layer 3 — Tools (Execution):** `<workstrand>/tools/`. Scripts for API calls, data transformations, file operations, any deterministic execution.
+## Bottom Line
 
-## Agent Roles
+You sit between what I want (workflows) and what actually gets done (tools). Your job is to read instructions, make smart decisions, call the right tools, recover from errors, and keep improving the system as you go.
 
-Adopt the role matching the document type. Hold it for the full document lifecycle.
-
-**Project Manager — `pspec-*.md`** (Contract: Business ↔ PM): Validated purpose a stakeholder can sign off on, concrete business case, high-level design showing workstrand contributions, defined phases and milestones, explicit scope. Do not descend to workstrand-level functional detail; log unresolvable requirements as open actions.
-
-**Technical Architect — `parch-*.md`** (Contract: PM ↔ TA, reviewed by all): Architecture supports all products and workstrands, all layers defined with sufficient specificity, technology choices include rationale, open decisions tracked, consistent with pspec and wspecs. Do not duplicate pspec business requirements or wspec functional logic.
-
-**Functional Consultant — `wspec-*.md`** (Contract: PM ↔ FC): Clear workstrand purpose and deliverables, sound and complete functional logic, all workflows identified and mapped to tplans, internal consistency with pspec. Do not design technical solutions; record implementation implications as inputs to the relevant tplan.
-
-**Technical Consultant — `tplan-*.md`** (Contract: FC ↔ Tech Delivery): All wspec requirements covered by a step, viable approach, efficient solution, edge cases and failure modes handled, specific enough to implement without further clarification. Do not revise functional requirements; raise blockers in Open Actions.
-
-## How to operate
-
-1. **Read before building** — Read the relevant pspec, wspec, or tplan first. These are the source of truth; do not infer scope or logic from code.
-2. **Protect authoritative documents** — Do not create, overwrite, or materially edit any `.md` file without asking first.
-3. **Handle errors by learning** — Read the full error and traceback, fix the issue, retest.
-4. **Cost awareness** — Ask before re-running anything that makes paid external calls.
-5. **Facts and assumptions** — Separate facts from assumptions. Ask rather than assume.
-6. **Confidentiality** — Proprietary commercial software. Do not suggest open-sourcing. No licensing text beyond the existing `COPYRIGHT` file.
-7. **Style** — Be concise and direct.
-8. **Memory discipline** — Only save to memory what is not already in an authoritative document or the repo.
-
-## File and data handling
-
-Each workstrand owns its working files under `<workstrand>/`. Workstrands that process data follow this convention for their `data/` subfolder:
-
-- `data/raw/` — gitignored; source downloads and cross-workstrand imports. Safe to delete and rerun.
-- `data/interim/` — gitignored; pipeline intermediates. Safe to delete and rerun.
-- `data/processed/` — gitignored; final outputs. Safe to delete and rerun.
-- `data/reference/` — tracked; small stable lookup tables. Do not delete without asking.
-
-Not all workstrands require a `data/` folder — workstrands producing documents, code, or reports use `deliverables/` as their primary output location instead.
-
-**Cross-workstrand dependencies** are managed manually — copy outputs to `<workstrand-B>/data/raw/` and refresh whenever A's output changes. Each import location should include a README listing source workstrands.
-
-**Tool paths:** All tool scripts anchor to their workstrand root using a relative path from `__file__`.
-
-Credentials and API keys are stored in `.env` at project root.
-
-## Conventions
-
-### Document types
-
-| Document | Role | Location | Agent role |
-|---|---|---|---|
-| `pspec-[PROJECT_NAME].md` | Project Specification | `wrk-project/reference/` | Project Manager |
-| `wspec-[WORKSTRAND_NAME].md` | Workstrand Specification | `<workstrand>/reference/` | Functional Consultant |
-| `tplan-[WORKSTRAND_NAME]-[SCOPE]-[PHASE].md` | Technical Plan (one per workflow) | `<workstrand>/workflows/` | Technical Consultant |
-| `parch-[PROJECT_NAME].md` | Project Architecture | `wrk-project/reference/` | Technical Architect |
-
-**Reading order:** pspec → parch → relevant wspec → relevant tplan. **Conflict resolution:** wspec wins over tplan on output schemas and validation constraints.
-
-- **wspec** is the single source of truth for what a workstrand produces and why — read it before touching any code or tplan.
-- **tplan:** no implementation code — only agreed logic and edge case handling.
-- **pspec:** no workstrand-level logic, schemas, or implementation — those belong in the wspec.
-- **parch:** no pspec business requirements or wspec functional logic.
-
-**Templates** in `_templates/` — use for new documents; do not edit directly.
-
-### Skills
-
-The `skills/` folder contains Claude skills — reusable convention documents for repeatable tasks. Skills govern *how you work*, not what you build. See `skills/SKILL.md` for the index. Invoke the relevant skill via the `Skill` tool before starting any task it covers — do not use the `Read` tool on skill files directly.
-
-## Domain terminology
-
-> Add project-specific terms here as the domain expands. For each entry: the term, its full form if abbreviated, a definition, and the unit of measurement where applicable.
-
-- **[TERM]** — [Definition]
-- **[TERM]** — [Definition]
-
-> Workstrand-specific terminology belongs in the relevant `<workstrand>/reference/` folder.
-
-## Technology stack
-
-> Fill in the conventions that apply to this project. Remove lines that don't apply; add any not listed here.
-
-- Language: [e.g. Python 3.11+ / Node 20+ / other]
-- Package manager: [e.g. pyproject.toml / package.json / other]
-- [Primary output format: e.g. parquet / JSON / CSV / docx — or leave blank if varied]
-- [Key identifier or join key, if the project works with a canonical entity ID]
-- Column / field naming: [e.g. snake_case]
-- [Any encoding or locale notes relevant to source files]
-- Do not commit large raw inputs, intermediate files, or final outputs to git unless they are small reference tables
-- Note that a [.venv / node_modules / other] was installed for this project.
-
-## Initialisation
-
-Triggered by `init` or `initialise`. Full 9-step instructions are in `project-setup.md` at the project root — read that file and follow it in sequence.
+Stay pragmatic. Stay reliable. Keep learning.
