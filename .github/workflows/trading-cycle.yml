@@ -1,0 +1,51 @@
+# Automaticky obchodni cyklus - "set and forget".
+# Bezi 1x denne; po merge do main se planovani aktivuje samo
+# (GitHub spousti scheduled workflows jen z default branche).
+# Rucni spusteni: zalozka Actions -> Trading Cycle -> Run workflow.
+name: Trading Cycle
+
+on:
+  schedule:
+    - cron: "15 6 * * *"   # kazdy den 06:15 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: trading-cycle
+  cancel-in-progress: false
+
+jobs:
+  trade:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run trading cycle
+        env:
+          GEMINI_API_KEYS: ${{ secrets.GEMINI_API_KEYS }}
+        run: python trading/tools/run_cycle.py
+
+      - name: Build dashboard
+        run: |
+          python trading/tools/build_dashboard.py
+          mkdir -p docs
+          cp trading/dashboard/index.html docs/index.html
+
+      - name: Commit results
+        run: |
+          git config user.name "trading-bot"
+          git config user.email "trading-bot@users.noreply.github.com"
+          git add trading/data trading/dashboard docs
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Trading cycle $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi

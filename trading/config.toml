@@ -1,0 +1,37 @@
+# =============================================================
+# AI Paper Trading — strategie "set and forget"
+# Vse podstatne je definovano zde predem. Zmena strategie = zmena
+# tohoto souboru, nic jineho se neupravuje.
+# =============================================================
+
+[strategy]
+# Obchodovane symboly (krypto — trh bezi 24/7, data zdarma bez API klice)
+symbols = ["BTC", "ETH", "SOL"]
+# Kolik dni denni historie dostane AI k rozhodnuti
+history_days = 30
+# Mandat pro AI — vlozi se do promptu jako neporusitelny ramec
+mandate = """
+Jsi konzervativni portfolio manazer. Obchodujes pomalu a malo -
+rozhodujes jednou denne. Preferuj drzeni pozic (HOLD) pred akci;
+obchoduj jen kdyz vidis jasny trend nebo jasne riziko. Zadny day
+trading, zadne panicke reakce na jednodenni vykyvy. Cilem je
+dlouhodobe zhodnoceni s nizkym obratem.
+"""
+
+[portfolio]
+# Pocatecni virtualni kapital (USD)
+starting_cash = 10000.0
+
+[risk]
+# Deterministicka pojistka - AI ji nemuze obejit, aplikuje se v kodu.
+max_position_pct = 0.35    # max podil jedne pozice na hodnote portfolia
+max_trade_pct = 0.15       # max velikost jednoho obchodu vuci portfoliu
+min_cash_pct = 0.10        # minimalni hotovostni rezerva
+max_trades_per_cycle = 2   # max poctu obchodu za jeden cyklus
+min_trade_usd = 25.0       # obchody mensi nez toto se zahazuji
+
+[ai]
+# Gemini model a parametry. Klice jsou v env GEMINI_API_KEYS (rotace automaticky).
+model = "gemini-2.5-flash"
+temperature = 0.2
+max_output_tokens = 2048

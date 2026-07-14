@@ -1,0 +1,166 @@
+<!doctype html>
+<html lang="cs">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Paper Trading</title>
+<style>
+:root {
+  color-scheme: light;
+  --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink-2:#52514e;
+  --muted:#898781; --grid:#e1e0d9; --axis:#c3c2b7;
+  --series:#2a78d6; --good:#006300; --bad:#d03b3b;
+  --border:rgba(11,11,11,.10);
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink-2:#c3c2b7;
+    --muted:#898781; --grid:#2c2c2a; --axis:#383835;
+    --series:#3987e5; --good:#0ca30c; --bad:#e66767;
+    --border:rgba(255,255,255,.10);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink-2:#c3c2b7;
+  --muted:#898781; --grid:#2c2c2a; --axis:#383835;
+  --series:#3987e5; --good:#0ca30c; --bad:#e66767;
+  --border:rgba(255,255,255,.10);
+}
+* { box-sizing:border-box; margin:0; }
+body {
+  background:var(--page); color:var(--ink);
+  font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;
+  padding:24px; max-width:1060px; margin:0 auto;
+}
+h1 { font-size:22px; margin-bottom:2px; }
+.sub { color:var(--ink-2); margin-bottom:20px; }
+.tiles { display:grid; grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
+  gap:12px; margin-bottom:16px; }
+.tile { background:var(--surface); border:1px solid var(--border);
+  border-radius:10px; padding:14px 16px; }
+.tile-label { font-size:12px; color:var(--muted); text-transform:uppercase;
+  letter-spacing:.04em; }
+.tile-value { font-size:26px; font-weight:600; margin-top:2px; }
+.delta { font-size:13px; margin-top:2px; }
+.good { color:var(--good); } .bad { color:var(--bad); }
+.card { background:var(--surface); border:1px solid var(--border);
+  border-radius:10px; padding:18px 20px; margin-bottom:16px; }
+h2 { font-size:15px; margin-bottom:12px; }
+.meta { font-weight:400; font-size:12px; color:var(--muted); }
+svg { width:100%; height:auto; display:block; }
+.grid { stroke:var(--grid); stroke-width:1; }
+.axis { stroke:var(--axis); stroke-width:1; }
+.startline { stroke:var(--axis); stroke-width:1; stroke-dasharray:4 4; }
+.tick { font:11px system-ui,sans-serif; fill:var(--muted); }
+.series { stroke:var(--series); stroke-width:2; stroke-linejoin:round; }
+.series-dot { fill:var(--series); stroke:var(--surface); stroke-width:2; }
+.crosshair { stroke:var(--muted); stroke-width:1; stroke-dasharray:3 3; }
+#tooltip { position:fixed; pointer-events:none; background:var(--surface);
+  border:1px solid var(--border); border-radius:8px; padding:6px 10px;
+  font-size:12px; box-shadow:0 2px 8px rgba(0,0,0,.15); display:none; z-index:9; }
+#tooltip .tt-v { font-weight:600; font-variant-numeric:tabular-nums; }
+table { width:100%; border-collapse:collapse; font-size:13.5px; }
+th { text-align:left; font-size:11px; color:var(--muted);
+  text-transform:uppercase; letter-spacing:.04em; padding:6px 10px;
+  border-bottom:1px solid var(--grid); }
+th.num-h { text-align:right; }
+td { padding:7px 10px; border-bottom:1px solid var(--grid); vertical-align:middle; }
+tr:last-child td { border-bottom:none; }
+td.num { text-align:right; font-variant-numeric:tabular-nums; white-space:nowrap; }
+td.sym { font-weight:600; }
+td.reason { color:var(--ink-2); font-size:12.5px; }
+.side { font-size:11px; font-weight:700; padding:2px 8px; border-radius:99px;
+  border:1px solid currentColor; }
+.side.buy { color:var(--good); } .side.sell { color:var(--bad); }
+.allocbar-track { background:var(--grid); border-radius:4px; height:8px;
+  width:120px; display:inline-block; vertical-align:middle; }
+.allocbar { background:var(--series); border-radius:4px; height:8px; }
+.allocbar.cash { background:var(--muted); }
+.alloc-num { font-size:12px; color:var(--ink-2); margin-left:8px;
+  font-variant-numeric:tabular-nums; }
+.empty { color:var(--muted); padding:24px 0; text-align:center; }
+.analysis { color:var(--ink-2); }
+.risk-title { font-size:12px; color:var(--muted); margin-top:10px; }
+ul { margin:4px 0 0 18px; color:var(--ink-2); font-size:13px; }
+footer { color:var(--muted); font-size:12px; margin-top:8px; }
+</style>
+
+<h1>AI Paper Trading</h1>
+<p class="sub">Virtualni portfolio rizene AI · strategie set&nbsp;and&nbsp;forget
+· BTC, ETH, SOL</p>
+
+<div class="tiles"><div class="tile"><div class="tile-label">Hodnota portfolia</div><div class="tile-value">$10,000</div><div class="delta good">+0.00 % od startu</div></div><div class="tile"><div class="tile-label">Hotovost</div><div class="tile-value">$10,000</div></div><div class="tile"><div class="tile-label">Pocet obchodu</div><div class="tile-value">0</div></div><div class="tile"><div class="tile-label">Posledni cyklus</div><div class="tile-value">zatim zadny</div></div></div>
+
+<section class="card">
+  <h2>Vyvoj hodnoty portfolia (USD)</h2>
+  <div class="empty">Zatim malo dat pro graf - kazdy obchodni cyklus prida jeden bod.</div>
+</section>
+
+<section class="card">
+  <h2>Pozice a alokace</h2>
+  <table><thead><tr><th>Aktivum</th><th class="num-h">Mnozstvi</th>
+    <th class="num-h">Cena</th><th class="num-h">Hodnota</th>
+    <th class="num-h">Nerealizovany P/L</th><th>Alokace</th></tr></thead>
+  <tbody><tr>
+      <td class="sym">Hotovost</td><td class="num">–</td><td class="num">–</td>
+      <td class="num">$10,000</td><td class="num">–</td>
+      <td><div class="allocbar-track"><div class="allocbar cash" style="width:100.0%"></div></div>
+          <span class="alloc-num">100.0 %</span></td>
+    </tr></tbody></table>
+</section>
+
+<section class="card">
+  <h2>Obchody <span class="meta">poslednich 0
+    z 0</span></h2>
+  <div class="empty">Zatim zadne obchody.</div>
+</section>
+
+<footer>Paper trading – zadne realne penize. Generovano automaticky
+po kazdem obchodnim cyklu.</footer>
+<div id="tooltip"></div>
+
+<script>
+(function () {
+  var data = [];
+  var svg = document.getElementById("equity-svg");
+  if (!svg || data.length < 2) return;
+  var hit = document.getElementById("hit"),
+      cross = document.getElementById("crosshair"),
+      dot = document.getElementById("hover-dot"),
+      tip = document.getElementById("tooltip");
+  var PL = 64, PR = 16, PT = 14, PB = 30,
+      W = 960, H = 300;
+  var vals = data.map(function (d) { return d.equity; });
+  var sc = 10000.0;
+  var lo = Math.min(Math.min.apply(null, vals), sc),
+      hi = Math.max(Math.max.apply(null, vals), sc);
+  var m = (hi - lo) * 0.08 || hi * 0.02; lo -= m; hi += m;
+  function xi(i) { return PL + i * (W - PL - PR) / (data.length - 1); }
+  function yv(v) { return PT + (hi - v) * (H - PT - PB) / (hi - lo); }
+  function fmt(v) { return "$" + v.toLocaleString("en-US",
+    {maximumFractionDigits: 0}); }
+  hit.addEventListener("mousemove", function (ev) {
+    var pt = svg.createSVGPoint(); pt.x = ev.clientX; pt.y = ev.clientY;
+    var p = pt.matrixTransform(svg.getScreenCTM().inverse());
+    var i = Math.round((p.x - PL) / ((W - PL - PR) / (data.length - 1)));
+    i = Math.max(0, Math.min(data.length - 1, i));
+    var cx = xi(i), cy = yv(data[i].equity);
+    cross.setAttribute("x1", cx); cross.setAttribute("x2", cx);
+    cross.setAttribute("visibility", "visible");
+    dot.setAttribute("cx", cx); dot.setAttribute("cy", cy);
+    dot.setAttribute("visibility", "visible");
+    tip.style.display = "block";
+    tip.innerHTML = data[i].ts + " UTC<br><span class='tt-v'>" +
+      fmt(data[i].equity) + "</span>";
+    tip.style.left = (ev.clientX + 14) + "px";
+    tip.style.top = (ev.clientY - 10) + "px";
+  });
+  hit.addEventListener("mouseleave", function () {
+    cross.setAttribute("visibility", "hidden");
+    dot.setAttribute("visibility", "hidden");
+    tip.style.display = "none";
+  });
+})();
+</script>
+</html>
