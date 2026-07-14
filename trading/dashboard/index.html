@@ -90,17 +90,31 @@ footer { color:var(--muted); font-size:12px; margin-top:8px; }
 <p class="sub">Virtualni portfolio rizene AI · strategie set&nbsp;and&nbsp;forget
 · BTC, ETH, SOL</p>
 
-<div class="tiles"><div class="tile"><div class="tile-label">Hodnota portfolia</div><div class="tile-value">$10,000</div><div class="delta good">+0.00 % od startu</div></div><div class="tile"><div class="tile-label">Hotovost</div><div class="tile-value">$10,000</div></div><div class="tile"><div class="tile-label">Pocet obchodu</div><div class="tile-value">0</div></div><div class="tile"><div class="tile-label">Posledni cyklus</div><div class="tile-value">2026-07-14 06:01 UTC</div></div></div>
+<div class="tiles"><div class="tile"><div class="tile-label">Hodnota portfolia</div><div class="tile-value">$10,000</div><div class="delta good">+0.00 % od startu</div></div><div class="tile"><div class="tile-label">Hotovost</div><div class="tile-value">$10,000</div></div><div class="tile"><div class="tile-label">Pocet obchodu</div><div class="tile-value">0</div></div><div class="tile"><div class="tile-label">Posledni cyklus</div><div class="tile-value">2026-07-14 06:13 UTC</div></div></div>
 
 <section class="card">
   <h2>Vyvoj hodnoty portfolia (USD)</h2>
-  <div class="empty">Zatim malo dat pro graf - kazdy obchodni cyklus prida jeden bod.</div>
+  
+<svg id="equity-svg" viewBox="0 0 960 300" role="img"
+     aria-label="Vyvoj hodnoty portfolia v case">
+  <line x1="64" y1="206.0" x2="944" y2="206.0" class="grid"/><line x1="64" y1="142.0" x2="944" y2="142.0" class="grid"/><line x1="64" y1="78.0" x2="944" y2="78.0" class="grid"/><line x1="64" y1="14.0" x2="944" y2="14.0" class="grid"/>
+  <line x1="64" y1="270" x2="944" y2="270" class="axis"/>
+  <line x1="64" y1="142.0" x2="944" y2="142.0" class="startline"/><text x="944" y="137.0" class="tick" text-anchor="end">start $10,000</text>
+  <path d="M64.0,142.0 L944.0,142.0" class="series" fill="none"/>
+  <circle cx="944.0" cy="142.0" r="4" class="series-dot"/>
+  <text x="56" y="210.0" class="tick" text-anchor="end">$9,900</text><text x="56" y="146.0" class="tick" text-anchor="end">$10,000</text><text x="56" y="82.0" class="tick" text-anchor="end">$10,100</text><text x="56" y="18.0" class="tick" text-anchor="end">$10,200</text><text x="64.0" y="292" class="tick" text-anchor="middle">2026-07-14</text><text x="944.0" y="292" class="tick" text-anchor="middle">2026-07-14</text>
+  <line id="crosshair" x1="0" y1="14" x2="0" y2="270"
+        class="crosshair" visibility="hidden"/>
+  <circle id="hover-dot" r="4" class="series-dot" visibility="hidden"/>
+  <rect id="hit" x="64" y="14" width="880"
+        height="256" fill="transparent"/>
+</svg>
 </section>
 
   <section class="card">
-    <h2>Posledni rozhodnuti AI <span class="meta">2026-07-14 06:01 UTC
+    <h2>Posledni rozhodnuti AI <span class="meta">2026-07-14 06:13 UTC
       · model gemini-2.5-flash</span></h2>
-    <p class="analysis">Trh nevykazuje jasné býčí trendy pro konzervativní investici. BTC a SOL vykazují krátkodobou slabost, zatímco ETH je stabilní, ale bez silného růstového impulsu. Vzhledem k absenci jasných signálů pro vstup do pozice je nejlepší strategií vyčkat.</p>
+    <p class="analysis">BTC a ETH vykazují spíše stagnaci nebo mírný pokles v posledních týdnech, bez jasného býčího trendu. SOL zaznamenal výrazný pokles za posledních 7 dní, což signalizuje riziko. Vzhledem k absenci jasných nákupních signálů a konzervativní strategii je nejlepší zůstat v hotovosti a vyčkat na lepší příležitosti.</p>
     
   </section>
 <section class="card">
@@ -128,7 +142,7 @@ po kazdem obchodnim cyklu.</footer>
 
 <script>
 (function () {
-  var data = [{"ts": "2026-07-14 06:01", "equity": 10000.0}];
+  var data = [{"ts": "2026-07-14 06:01", "equity": 10000.0}, {"ts": "2026-07-14 06:13", "equity": 10000.0}];
   var svg = document.getElementById("equity-svg");
   if (!svg || data.length < 2) return;
   var hit = document.getElementById("hit"),
