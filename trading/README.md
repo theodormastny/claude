@@ -6,7 +6,7 @@ Zadne realne penize — virtualni portfolio, realne trzni ceny.
 ## Jak to funguje
 
 ```
-GitHub Actions (1x denne, 06:15 UTC)
+GitHub Actions (kazdou hodinu v :15)
   └─ run_cycle.py
        ├─ trzni data: Kraken/Coinbase public API (BTC, ETH, SOL) — bez klice
        ├─ Gemini rozhodne: BUY / SELL / HOLD  (rotace API klicu pri limitu)
@@ -16,7 +16,8 @@ GitHub Actions (1x denne, 06:15 UTC)
   └─ commit vysledku zpet do repozitare
 ```
 
-- **AI se vola zridka** — jednou denne, jeden request. Strategie (mandat,
+- **AI se vola stridme** — jednou za hodinu, jeden request (24 denne).
+  Strategie (mandat,
   symboly, limity) je dana predem v `config.toml`; AI jen rozhoduje uvnitr
   techto mantinelu a **limity nemuze obejit** — vynucuje je deterministicky kod.
 - **Rotace klicu**: `GEMINI_API_KEYS` je carkou oddeleny seznam. Pri

@@ -1,12 +1,10 @@
 # Automaticky obchodni cyklus - "set and forget".
-# Bezi 1x denne; po merge do main se planovani aktivuje samo
-# (GitHub spousti scheduled workflows jen z default branche).
 # Rucni spusteni: zalozka Actions -> Trading Cycle -> Run workflow.
 name: Trading Cycle
 
 on:
   schedule:
-    - cron: "15 6 * * *"   # kazdy den 06:15 UTC
+    - cron: "15 * * * *"   # kazdou hodinu v :15 (24 volani Gemini denne)
   workflow_dispatch:
 
 permissions:
