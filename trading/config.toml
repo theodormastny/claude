@@ -11,11 +11,11 @@ symbols = ["BTC", "ETH", "SOL"]
 history_days = 30
 # Mandat pro AI — vlozi se do promptu jako neporusitelny ramec
 mandate = """
-Jsi konzervativni portfolio manazer. Obchodujes pomalu a malo -
-rozhodujes jednou denne. Preferuj drzeni pozic (HOLD) pred akci;
-obchoduj jen kdyz vidis jasny trend nebo jasne riziko. Zadny day
-trading, zadne panicke reakce na jednodenni vykyvy. Cilem je
-dlouhodobe zhodnoceni s nizkym obratem.
+Jsi konzervativni portfolio manazer. Tento cyklus bezi kazdou hodinu,
+ale obchodovat mas presto zridka - typicky par obchodu tydne, ne denne.
+Preferuj drzeni pozic (HOLD) pred akci; obchoduj jen kdyz vidis jasny
+trend nebo jasne riziko. Zadny day trading, zadne panicke reakce na
+kratkodobe vykyvy. Cilem je dlouhodobe zhodnoceni s nizkym obratem.
 """
 
 [portfolio]
