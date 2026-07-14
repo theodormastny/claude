@@ -90,13 +90,19 @@ footer { color:var(--muted); font-size:12px; margin-top:8px; }
 <p class="sub">Virtualni portfolio rizene AI · strategie set&nbsp;and&nbsp;forget
 · BTC, ETH, SOL</p>
 
-<div class="tiles"><div class="tile"><div class="tile-label">Hodnota portfolia</div><div class="tile-value">$10,000</div><div class="delta good">+0.00 % od startu</div></div><div class="tile"><div class="tile-label">Hotovost</div><div class="tile-value">$10,000</div></div><div class="tile"><div class="tile-label">Pocet obchodu</div><div class="tile-value">0</div></div><div class="tile"><div class="tile-label">Posledni cyklus</div><div class="tile-value">zatim zadny</div></div></div>
+<div class="tiles"><div class="tile"><div class="tile-label">Hodnota portfolia</div><div class="tile-value">$10,000</div><div class="delta good">+0.00 % od startu</div></div><div class="tile"><div class="tile-label">Hotovost</div><div class="tile-value">$10,000</div></div><div class="tile"><div class="tile-label">Pocet obchodu</div><div class="tile-value">0</div></div><div class="tile"><div class="tile-label">Posledni cyklus</div><div class="tile-value">2026-07-14 06:01 UTC</div></div></div>
 
 <section class="card">
   <h2>Vyvoj hodnoty portfolia (USD)</h2>
   <div class="empty">Zatim malo dat pro graf - kazdy obchodni cyklus prida jeden bod.</div>
 </section>
 
+  <section class="card">
+    <h2>Posledni rozhodnuti AI <span class="meta">2026-07-14 06:01 UTC
+      · model gemini-2.5-flash</span></h2>
+    <p class="analysis">Trh nevykazuje jasné býčí trendy pro konzervativní investici. BTC a SOL vykazují krátkodobou slabost, zatímco ETH je stabilní, ale bez silného růstového impulsu. Vzhledem k absenci jasných signálů pro vstup do pozice je nejlepší strategií vyčkat.</p>
+    
+  </section>
 <section class="card">
   <h2>Pozice a alokace</h2>
   <table><thead><tr><th>Aktivum</th><th class="num-h">Mnozstvi</th>
@@ -122,7 +128,7 @@ po kazdem obchodnim cyklu.</footer>
 
 <script>
 (function () {
-  var data = [];
+  var data = [{"ts": "2026-07-14 06:01", "equity": 10000.0}];
   var svg = document.getElementById("equity-svg");
   if (!svg || data.length < 2) return;
   var hit = document.getElementById("hit"),
