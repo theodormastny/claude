@@ -1,6 +1,11 @@
 {
-  "cash": 10000.0,
+  "cash": 8500.0,
   "starting_cash": 10000.0,
-  "positions": {},
+  "positions": {
+    "ETH": {
+      "qty": 0.8035570793378689,
+      "cost_usd": 1500.0
+    }
+  },
   "created": "2026-07-14T06:01:35Z"
 }
