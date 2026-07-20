@@ -2,3 +2,4 @@
 {"ts": "2026-07-14T17:35:08Z", "side": "BUY", "symbol": "ETH", "qty": 0.75021569, "price": 1866.13, "amount_usd": 1400.0, "reason": "ETH m\u00e1 siln\u00fd r\u016fstov\u00fd trend a je v souladu s dlouhodobou strategi\u00ed."}
 {"ts": "2026-07-14T19:44:10Z", "side": "BUY", "symbol": "ETH", "qty": 0.31277646, "price": 1878.69, "amount_usd": 587.61, "reason": "Siln\u00fd a jasn\u00fd vzestupn\u00fd trend ETH, nav\u00fd\u0161en\u00ed pozice v r\u00e1mci limit\u016f."}
 {"ts": "2026-07-18T21:06:57Z", "side": "BUY", "symbol": "BTC", "qty": 0.02165014, "price": 64664.7, "amount_usd": 1400.0, "reason": "BTC vykazuje m\u00edrn\u00fd, ale konzistentn\u00ed r\u016fst v posledn\u00edch dnech i t\u00fddnech."}
+{"ts": "2026-07-20T11:14:23Z", "side": "BUY", "symbol": "BTC", "qty": 0.0233214, "price": 64318.6, "amount_usd": 1500.0, "reason": "Jasn\u00fd pozitivn\u00ed trend a prostor pro nav\u00fd\u0161en\u00ed pozice v r\u00e1mci limit\u016f."}
