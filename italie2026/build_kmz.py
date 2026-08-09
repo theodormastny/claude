@@ -1,0 +1,236 @@
+#!/usr/bin/env python3
+"""Sestaví KMZ soubory pro maps.me / Organic Maps z blokových datových souborů.
+
+Vstup:  data/*.txt  — bloky oddělené řádkem '---', klíče NAME/LAT/LON/CITY/CAT/TOP/DESC
+Výstup: out/Italie2026_TOP.kmz, out/Italie2026_ZBYTEK.kmz, out/Italie2026_VSE.kmz
+"""
+
+import html
+import os
+import re
+import sys
+import zipfile
+from collections import Counter, defaultdict
+
+ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(ROOT, "data")
+OUT = os.path.join(ROOT, "out")
+
+# Držíme se osmi klasických barev MAPS.ME — ty umí každá verze appky i Organic Maps.
+CATEGORIES = {
+    "vyhlidka":     ("red",    "Vyhlídka & foto"),
+    "architektura": ("purple", "Architektura & umění"),
+    "hidden":       ("pink",   "Hidden gem"),
+    "priroda":      ("green",  "Příroda & stezky"),
+    "voda":         ("blue",   "Voda & koupání"),
+    "dobrodruzstvi":("orange", "Dobrodružství"),
+    "jidlo":        ("yellow", "Jídlo & pití"),
+    "prakticke":    ("brown",  "Praktické"),
+}
+
+# jemnější kategorie od agentů sloučíme do osmi barevných kbelíků
+ALIASES = {
+    "foto": "vyhlidka", "vyhled": "vyhlidka", "view": "vyhlidka",
+    "umeni": "architektura", "umění": "architektura", "kostel": "architektura",
+    "bar": "jidlo", "kavarna": "jidlo", "jídlo": "jidlo", "gelato": "jidlo",
+    "priroda": "priroda", "park": "priroda", "trek": "priroda",
+    "koupani": "voda", "plaz": "voda", "more": "voda",
+    "adrenalin": "dobrodruzstvi", "dobrodruzství": "dobrodruzstvi",
+    "kuriozita": "hidden", "tajne": "hidden",
+    "praktické": "prakticke", "doprava": "prakticke", "nakup": "prakticke",
+}
+
+# kdy jsou v jakém městě + hrubý bounding box pro kontrolu souřadnic
+REGIONS = [
+    (("treviso",),                                    "Po 10. 8.",            (45.60, 45.75, 12.15, 12.35)),
+    (("mestre", "marghera"),                          "Po 10. 8. večer",      (45.44, 45.53, 12.18, 12.30)),
+    (("benátky", "benatky", "venezia", "venice", "lido", "murano", "burano",
+      "torcello", "giudecca", "sant'erasmo", "santerasmo", "poveglia",
+      "san michele", "certosa", "vignole", "pellestrina", "malamocco",
+      "san servolo", "san lazzaro"),                  "Út 11. 8.",            (45.20, 45.53, 12.20, 12.60)),
+    (("florencie", "firenze", "florence", "fiesole",
+      "settignano", "bagno a ripoli"),                "St 12. – Pá 14. 8.",   (43.68, 43.87, 11.14, 11.40)),
+    (("pisa",),                                       "Pá 14. 8. 11:11–13:20",(43.68, 43.76, 10.34, 10.44)),
+    (("la spezia", "portovenere", "porto venere", "lerici", "palmaria",
+      "tellaro", "fiascherino", "campiglia", "biassa", "san terenzo"),
+                                                      "Pá 14. 8. odpoledne",  (44.02, 44.16, 9.72, 9.95)),
+    (("riomaggiore", "manarola", "corniglia", "vernazza", "monterosso",
+      "volastra", "groppo", "cinque terre", "levanto", "montenero",
+      "soviore", "reggio", "san bernardino"),         "So 15. 8. + noc",      (44.05, 44.22, 9.62, 9.82)),
+    (("milán", "milan", "milano", "malpensa"),        "Ne 16. 8. ráno",       (45.40, 45.68, 8.68, 9.32)),
+]
+
+
+def region_for(city):
+    key = (city or "").strip().lower()
+    for names, day, box in REGIONS:
+        for n in names:
+            if n in key:
+                return day, box
+    return None, None
+
+
+def parse_file(path):
+    raw = open(path, encoding="utf-8").read()
+    points = []
+    for chunk in re.split(r"^\s*---\s*$", raw, flags=re.M):
+        if "NAME:" not in chunk or "LAT:" not in chunk:
+            continue
+        rec = {}
+        key = None
+        for line in chunk.splitlines():
+            m = re.match(r"^\s*(NAME|LAT|LON|COORD_CONF|CITY|CAT|TOP|DESC)\s*:\s*(.*)$", line)
+            if m:
+                key = m.group(1)
+                rec[key] = m.group(2).strip()
+            elif key == "DESC" and line.strip():
+                rec["DESC"] = (rec.get("DESC", "") + " " + line.strip()).strip()
+        try:
+            rec["lat"] = float(rec["LAT"])
+            rec["lon"] = float(rec["LON"])
+        except (KeyError, ValueError):
+            print(f"  ! přeskočeno (chybná souřadnice): {rec.get('NAME')!r} v {os.path.basename(path)}")
+            continue
+        rec["name"] = rec.get("NAME", "").strip()
+        rec["city"] = rec.get("CITY", "").strip()
+        cat = rec.get("CAT", "hidden").strip().lower().split(",")[0].strip()
+        cat = ALIASES.get(cat, cat)
+        rec["cat"] = cat if cat in CATEGORIES else "hidden"
+        rec["cat_raw"] = rec.get("CAT", "").strip().lower()
+        rec["top"] = rec.get("TOP", "no").strip().lower().startswith("y")
+        rec["desc"] = rec.get("DESC", "").strip()
+        rec["src"] = os.path.basename(path)
+        if rec["name"]:
+            points.append(rec)
+    return points
+
+
+def validate(points):
+    """Vyhodí body mimo očekávaný region a duplicity."""
+    ok, dropped = [], []
+    for p in points:
+        day, box = region_for(p["city"])
+        p["day"] = day or ""
+        if box:
+            lo_lat, hi_lat, lo_lon, hi_lon = box
+            if not (lo_lat <= p["lat"] <= hi_lat and lo_lon <= p["lon"] <= hi_lon):
+                dropped.append((p, f"souřadnice mimo region {p['city']}"))
+                continue
+        ok.append(p)
+
+    # duplicity: stejné jméno (normalizované) nebo body do 25 m od sebe se stejným začátkem názvu
+    seen = {}
+    uniq = []
+    for p in ok:
+        key = re.sub(r"[^a-z0-9]+", "", p["name"].lower())[:24]
+        pos = (round(p["lat"], 4), round(p["lon"], 4))
+        if key in seen or pos in seen.values():
+            prev = uniq[[i for i, q in enumerate(uniq)
+                         if re.sub(r"[^a-z0-9]+", "", q["name"].lower())[:24] == key
+                         or (round(q["lat"], 4), round(q["lon"], 4)) == pos][0]]
+            # ponech ten, co má delší popis; TOP vyhrává
+            if (p["top"], len(p["desc"])) > (prev["top"], len(prev["desc"])):
+                uniq[uniq.index(prev)] = p
+                seen[key] = pos
+            else:
+                dropped.append((p, f"duplicita s „{prev['name']}“"))
+            continue
+        seen[key] = pos
+        uniq.append(p)
+    return uniq, dropped
+
+
+def kml(doc_name, points):
+    used = sorted({p["cat"] for p in points})
+    styles = []
+    for cat in used:
+        color = CATEGORIES[cat][0]
+        styles.append(
+            f'  <Style id="placemark-{color}">\n'
+            f'    <IconStyle>\n'
+            f'      <Icon><href>http://mapswith.me/placemarks/placemark-{color}.png</href></Icon>\n'
+            f'    </IconStyle>\n'
+            f'  </Style>'
+        )
+
+    marks = []
+    order = {c: i for i, c in enumerate(
+        ["vyhlidka", "hidden", "dobrodruzstvi", "voda", "architektura",
+         "priroda", "jidlo", "prakticke"])}
+    daykey = {d: i for i, (_, d, _) in enumerate(REGIONS)}
+    for p in sorted(points, key=lambda q: (daykey.get(q["day"], 99),
+                                           order.get(q["cat"], 99),
+                                           q["name"])):
+        color, catlabel = CATEGORIES[p["cat"]]
+        name = ("★ " if p["top"] else "") + p["name"]
+        head = " · ".join(x for x in [p["day"], p["city"], catlabel] if x)
+        body = f"{head}\n\n{p['desc']}" if head else p["desc"]
+        body = body.replace("]]>", "]] >")  # ať nerozbijeme CDATA
+        marks.append(
+            "  <Placemark>\n"
+            f"    <name>{html.escape(name)}</name>\n"
+            f"    <description><![CDATA[{body}]]></description>\n"
+            f"    <styleUrl>#placemark-{color}</styleUrl>\n"
+            f"    <Point><coordinates>{p['lon']:.6f},{p['lat']:.6f},0</coordinates></Point>\n"
+            "  </Placemark>"
+        )
+
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
+        '<Document>\n'
+        f'  <name>{html.escape(doc_name)}</name>\n'
+        '  <visibility>1</visibility>\n'
+        + "\n".join(styles) + "\n"
+        + "\n".join(marks) + "\n"
+        '</Document>\n'
+        '</kml>\n'
+    )
+
+
+def write_kmz(path, doc_name, points):
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
+        z.writestr("doc.kml", kml(doc_name, points))
+    with open(path[:-4] + ".kml", "w", encoding="utf-8") as f:
+        f.write(kml(doc_name, points))
+    print(f"  → {os.path.relpath(path, ROOT)}  ({len(points)} bodů)")
+
+
+def main():
+    files = sorted(f for f in os.listdir(DATA) if f.endswith(".txt"))
+    if not files:
+        sys.exit("V data/ nejsou žádné .txt soubory.")
+
+    points = []
+    for f in files:
+        got = parse_file(os.path.join(DATA, f))
+        print(f"{f}: {len(got)} bodů")
+        points += got
+
+    points, dropped = validate(points)
+    if dropped:
+        print(f"\nVyřazeno {len(dropped)} bodů:")
+        for p, why in dropped:
+            print(f"  - {p['name']} ({p['city']}): {why}")
+
+    top = [p for p in points if p["top"]]
+    rest = [p for p in points if not p["top"]]
+
+    print(f"\nCelkem {len(points)} bodů · TOP {len(top)} · zbytek {len(rest)}")
+    per_day = Counter(p["day"] or "?" for p in points)
+    for _, day, _ in REGIONS:
+        if per_day.get(day):
+            n_top = sum(1 for p in top if p["day"] == day)
+            print(f"  {day:24s} {per_day[day]:3d} bodů (z toho {n_top} TOP)")
+    per_cat = Counter(p["cat"] for p in points)
+    print("  " + " · ".join(f"{CATEGORIES[c][1]} {n}" for c, n in per_cat.most_common()))
+
+    write_kmz(os.path.join(OUT, "Italie2026_TOP.kmz"), "Itálie 2026 ★ TOP", top)
+    write_kmz(os.path.join(OUT, "Italie2026_ZBYTEK.kmz"), "Itálie 2026 · zbytek", rest)
+    write_kmz(os.path.join(OUT, "Italie2026_VSE.kmz"), "Itálie 2026 · vše", points)
+    return points
+
+
+if __name__ == "__main__":
+    main()
