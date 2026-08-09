@@ -1,0 +1,2191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Itálie 2026 · zbytek</name>
+  <visibility>1</visibility>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-purple.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-orange.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-pink.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-yellow.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-brown.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-green.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-blue.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon><href>http://mapswith.me/placemarks/placemark-red.png</href></Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>Passeggiata sui Bastioni</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Vyhlídka & foto
+
+Zelený val po vnitřní straně benátských hradeb, v 19. století upravený na stromořadí — jdeš po koruně hradeb s vodním příkopem a labutěmi po jedné straně a městem po druhé. Zdarma, nonstop, plný stín; nejlepší úsek je mezi Porta San Tomaso a Porta Santi Quaranta, asi 20 minut. Ideální kompenzace toho, že jsou v pondělí muzea zavřená.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.245000,45.668800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Riviera Garibaldi</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Vyhlídka & foto
+
+Jihovýchodní promenáda podél Sile s výhledem na kolonádu domů a rybářské lávky; voda je tak čistá, že je vidět dno a vlnící se vodní tráva. Zdarma, nonstop; nejlepší kolem 18.–20. hodiny, kdy sem chodí místní běhat a slunce jde napříč řekou. Spojuje centrum s Prato della Fiera a stezkou Restera.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.248900,45.662800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Riviera Santa Margherita</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Vyhlídka & foto
+
+Západní nábřeží Sile s paláci stojícími přímo nad vodou; z kamenného Ponte de Pria je nejhezčí pohled zpátky na město přes zelenou řeku. Zdarma, nonstop, prakticky bez lidí. Přesnou polohu mostu si ověř v mapě, souřadnice je jen orientační.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.238200,45.662700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mlýnská kola u Ponte San Francesco</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Hidden gem
+
+Na Cagnan Grande se dodnes točí dvě funkční mlýnská kola — pozůstatek mlýnů, které mlely mouku pro celé Benátky. Patřila benátským šlechticům Tron, později hrabatům Rinaldi, loupala se tu rýže. Zdarma, nonstop, z ulice; ověř přesnou polohu podle zvuku vody — je slyšet dřív, než je vidět.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.247600,45.667900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Piazza Rinaldi — skrytý dvorek</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Hidden gem
+
+Maličké tiché náměstíčko s gotickými paláci rodiny Rinaldi, schované pár metrů od hlavního tahu, a v průvodcích prakticky neexistuje. Žádní turisté, žádný vstup, jen kamenná studna a fresky. Nonstop, zdarma — ideální pauza s batohy ve stínu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.247000,45.666900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Kajak na Sile</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Dobrodružství
+
+Sile se dá sjet na kajaku — půjčovny jezdí z Lughignana směr Casier a k vrakům burci, případně Canoa Club Sile a trasa Canizzano–Treviso přímo do města. Ceny typicky 20–30 €/os. na půlden, nutná rezervace předem, v pondělí často jen na objednávku. Bod je orientační nástupní místo v centru, konkrétní přístaviště si potvrď s půjčovnou.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>12.248900,45.662930,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Treviso Sotterranea</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Dobrodružství
+
+Prohlídky podzemních chodeb a kasemat v renesančních hradbách u Porta San Tomaso, po restaurování znovu otevřené od června 2026; odjezdy 17:00, 17:30, 18:00 a 18:30. Nutná rezervace — mail info@trevisosotterranea.it nebo tel. 393 8138381. Ceny řádově 10 €/os., v podzemí je i v srpnu chladno, vezmi mikinu.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>12.250690,45.669760,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Koupání v Sile — šedá zóna</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Voda & koupání
+
+ŠEDÁ ZÓNA: koupání v Sile v katastru Trevisa je obecní vyhláškou zakázané (hygiena, plavidla, proud u jezů) — místní se přesto v horku máčí na travnatých březích za Prato della Fiera. Bezpečná a legální varianta je namočit si nohy z břehu. Neplav v centru a rozhodně ne u jezů a mlýnských náhonů.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>12.251300,45.661630,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Oasi Fontane Bianche (Lancenigo)</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Voda & koupání
+
+Prameniště, kde ze země vyvěrá průzračná voda o stálých 12 °C a rodí se říčka Melma — okruh asi 4 km po dřevěných lávkách mezi tůněmi. Vlakem Treviso–Lancenigo (6 minut, ~1,5 €) a pak asi 2 km pěšky; zdarma, nonstop, bez otevírací doby. Pozor: často se plete s jiným "Fontane Bianche" u Sernaglia della Battaglia, ověř si cíl v mapě.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>12.263500,45.711500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prameny Sile / Quinto di Treviso</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Voda & koupání
+
+Horní tok Sile u Quinta s Lago Superiore, mlýnem Cervara a nejdelší resurgentní řekou Evropy vyvěrající přímo z roviny. Vlakem z Treviso Centrale do Quinto di Treviso (10 minut, ~2 €), pak pěšky podél vody; areál parku je volně přístupný a zdarma i v pondělí. Klidná alternativa, když chcete vodu bez davu.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>12.166000,45.655400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Battistero San Giovanni</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Přísná románská křtitelnice z 11.–12. století hned vedle Dómu, do zdí zazděné římské kameny — nejstarší dochovaná stavba v centru. Bývá zavřená a otevírá se jen při akcích, ale i zvenku stojí za dvě minuty. Zdarma; v pondělí počítej se zavřeným interiérem.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.243650,45.667000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ca&#x27; da Noal a Casa Robegan</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Benátsky gotický dům Ca' da Noal a renesanční palác Robegan ve Via Canova, s freskovanou fasádou a zahradou. Jako muzea jsou v pondělí zavřené, ale ulice s fasádami je zadarmo a je to jedna z nejhezčích "urbs picta" scén ve městě. Kombinuj s procházkou k Museo Bailo.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.242300,45.668400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ca&#x27; dei Ricchi</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Palác z 15. století ve Via Barberia, jehož fasáda je pokrytá stejnými velkými červenými diamanty jako benátský Dóžecí palác — jméno podle bohatství majitelů. Dnes kulturní centrum s kavárnou a dvorkem, do kterého se dá běžně nakouknout zdarma. Pondělní otevírací dobu vnitřku ověř na místě, exteriér nonstop.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.242800,45.666300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa dei Carraresi</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Románsko-gotický dům ze 13. století s dochovanými středověkými freskami uvnitř, dnes výstavní síň a knihkupectví s enotékou. Otevírací doba se řídí aktuální výstavou, v pondělí často zavřeno. Zvenčí je zajímavá cihlová hmota s okny přímo nad uličkou.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.247300,45.665000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chiesa di San Francesco</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Františkánský kostel s trámovým stropem, kde leží Pietro Alighieri (Dantův syn) a Francesca Petrarca (Petrarcova dcera) — dvě jména italské literatury v jednom bočním prostoru. Freska Madony s osmi světci připisovaná Tomasovi da Modena. Vstup zdarma, běžně otevřeno i v pondělí dopoledne a pozdě odpoledne, přes poledne zavřeno.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.246800,45.668700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Duomo San Pietro + krypta</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Katedrála se sedmi kupolemi; uvnitř Tizianovo Zvěstování (1517) v kapli Malchiostro a fresky Pordenoneho. Nejlepší je ale krypta: les románských sloupů, zbytky fresek z 11.–14. století a mozaiková podlaha s monstry. Otevřeno denně včetně pondělí 7:30–12:00 a 15:30–18:30, vstup zdarma.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.243900,45.667100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Loggia dei Cavalieri</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Otevřená románská lodžie z roku 1276, kde se šlechtici scházeli hrát šachy a čekat na panovníka — dodnes bez dveří, jen sloupy a zbytky fresek. Volně průchozí nonstop, zdarma; v horku příjemně chladná a klidná. Skvělé místo, kde na chvíli odložit batohy.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.246900,45.666400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Luigi Bailo</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Bílá modernistická přestavba starého kláštera na Borgo Cavour, uvnitř asi 340 děl 20. století a největší sbírka soch Artura Martiniho. V pondělí zavřeno (jinak út–ne 10:00–18:00), ale samotná fasáda je architektonicky velmi silná a stojí za foto. Vstupné cca 6 €.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.240800,45.667900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo di Santa Caterina</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Bývalý klášter s cyklem svaté Voršily od Tomasa da Modena — hlavní obrazárna města. V PONDĚLÍ ZAVŘENO (otevřeno út–čt 9–18, pá–ne 9–19), takže 10. 8. sem nechoď, jen si prohlédni klášter zvenčí a gotický portál. Vstupné cca 6–10 € podle výstavy.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.248800,45.667900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Podloubí Calmaggiore</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Hlavní tepna mezi Piazza dei Signori a Dómem, celá pod souvislým podloubím s freskovanými fasádami — Treviso má přezdívku "urbs picta", město malované. Nadace Benetton zkatalogizovala 614 freskovaných domů v centru. Zdarma, nonstop, a v srpnovém vedru je to jediná stinná cesta městem.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.245000,45.666400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Porta Altinia</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Jižní brána stojící na místě antické římské brány na cestě do Altina — nejstarší jádro ze všech tří, s cihlovou věží. Zdarma, nonstop; leží na přirozené trase mezi nádražím a centrem, takže ji projdeš cestou z busu. Kousek odsud začíná stezka podél Sile.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.247000,45.661480,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Porta Santi Quaranta</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Třetí a nejstřídmější brána renesančních hradeb (1517), taky v istrijském kameni, na západním okraji centra. Zdarma, nonstop; okolo ní jde přímo po valu, takže se dá spojit s procházkou po bastionech. Nejméně turistů ze všech tří bran.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.234980,45.667020,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Lucia e San Vito</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Dva srostlé kostely na Piazza San Vito kousek od Piazza dei Signori; uvnitř gotické fresky giottovské školy a Madonna del Pavejon (Madona s motýlem) od Tomasa da Modena. V pondělí otevřeno POUZE 9:00–12:00 — naplánuj sem dopoledne hned po příjezdu. Vstup zdarma.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.244500,45.665400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Maria Maggiore</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Architektura & umění
+
+Poutní kostel u západních hradeb, uvnitř zázračná freska Madony ze 14. století a barokní výzdoba; Trevisané sem chodí, turisté ne. Otevřeno běžně denně včetně pondělí, dopoledne a pozdní odpoledne, zdarma. Dobrá zastávka na cestě k Porta Santi Quaranta.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.239600,45.665900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Parco dello Storga</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Příroda & stezky
+
+Rozlehlý park s prameništi, rybníky a starou nemocniční kolonií na severu Trevisa; naprosto bez turistů, plný volavek. Zdarma, nonstop; z centra asi 4 km, dostupné městským busem MOM nebo na kole. Dobrá volba, když chceš zeleň a nechce se ti až k Sile.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>12.265200,45.692200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prato della Fiera</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Příroda & stezky
+
+Obrovská travnatá pláň mezi hradbami a Sile, historicky místo trhů a koňských jarmarků, dnes park s topoly. Zdarma, nonstop — ideální na piknik s věcmi ze supermarketu a odložení batohů do trávy před odjezdem. Odsud se přirozeně napojíš na cyklostezku podél řeky.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>12.251300,45.661500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Antica Osteria Al Botegon</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Jídlo & pití
+
+Ikona trevisského aperitivu ve stínu Porta San Tomaso — dřevěné stoly a sudy na chodníku, polpette, smaženky a cicchetti. Levné, hlučné, autentické; dva lidé se najedí a napijí kolem 15–20 € celkem. Leží přímo na cestě od hradeb zpátky do centra, hodí se jako poslední zastávka před busem.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.249500,45.668300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bacari na Piazza Ancilotto</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Jídlo & pití
+
+Miniaturní náměstíčko schované za Piazza dei Signori, kde vedle sebe stojí Osteria Trevisi a Cantinetta Venegazzù — cicchetti, crostini a víno na stojáka mezi středověkými fasádami. Spritz 2,50–3,50 €, sklenka vína od 2,50 €. Nejlepší mezi 18. a 20. hodinou, kdy se sem nahrne půl Trevisa; s batohy v pohodě, stojí se venku.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.245300,45.665500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hostaria Dai Naneti</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Jídlo & pití
+
+Jedna z nejstarších osterií ve městě (Vicolo Broli 2) — žádné stoly, jen pult, ombra vína, prkénka se salumi a sýry a cicchetti; hosté stojí venku v uličce. Dva lidi se najedí a napijí klidně do 20 € dohromady. Zavírá brzy odpoledne a v pondělí může mít volno, měj alternativu.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.246300,45.666100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trattoria Muscoli&#x27;s</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Jídlo & pití
+
+Kultovní osterie ve Via Pescheria přímo u rybího ostrova — proslulý panino al prosecco, mortadela a šunka krájené nožem, cicchetti s baccalà a sušenými rajčaty. Sendvič se sklenkou vyjde na 5–8 €, plný oběd do 15 €/os. Sedí se venku u kanálu; v poledne narváno, přijď před 12:30.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.248000,45.666800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Autobusové nádraží Lungosile Mattei</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Praktické
+
+Odsud jede linka 8E Treviso–Mestre–Venezia, cesta do Mestre trvá zhruba 45–55 minut. Terminál je 2 minuty pěšky od vlakového nádraží, je tu prodejna jízdenek MOM. Vlak do Mestre je ale rychlejší (25–30 minut, ~3,5 €) a jezdí častěji — bus ber jen když navazuje lépe.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.245600,45.659700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Letiště Treviso — bus do centra</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Praktické
+
+Z letiště Treviso-Sant'Angelo jede městská linka MOM č. 6 do Treviso Centrale zhruba každých 20–30 minut, cesta 20 minut, jízdenka 1,50–2,50 € z automatu nebo trafiky (u řidiče dráž). ATVO odsud jezdí i přímo do Mestre a Benátek. Při příletu v 8:00 jsi v centru s rezervou před devátou.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.194400,45.648500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Stazione Treviso Centrale</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Praktické
+
+Hlavní nádraží 10 minut pěšky jižně od centra přes Porta Altinia; odsud vlaky do Venezia Mestre, Quinto di Treviso, Lancenigo, Conegliana i Castelfranca. Jízdenky z automatu, papírovou nezapomeň označit. Jsou tu placené WC i bary — dobré místo na doplnění vody před odjezdem.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.244500,45.659000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Supermarket a jídlo s sebou</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Praktické
+
+V centru najdeš menší supermarkety (Conad, Alì, Prix) hlavně kolem Borgo Cavour, Via Sant'Agostino a Piazza Borsa; otevřeno běžně i v pondělí zhruba 8:00–20:00. Focaccia, mortadela, rajčata a voda vyjdou na 6–8 € pro dva a sní se to skvěle na Isola della Pescheria nebo v Prato della Fiera. Souřadnice orientační, konkrétní prodejnu si najdi v mapě.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.242000,45.666000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veřejné WC a pitná voda</name>
+    <description><![CDATA[Po 10. 8. · Treviso · Praktické
+
+Nejjistější veřejné WC je na nádraží (placené) a v barech — dej si kafe za 1,20 € a máš to legitimně; městská WC u Piazza Borsa a Pescherie bývají přes den otevřená, ale ne spolehlivě. Pitná voda: v Trevisu je řada kašen a fontánek v parcích a podél hradebního valu, voda je pitná, pokud není označeno "non potabile". Lahev doplňuj průběžně, srpen v Trevisu je dusný.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.248300,45.666830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Forte Marghera</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Hidden gem
+
+Napoleonsko-rakouská pevnost s vodními příkopy, cihlovými kasematy a doky, dnes proměněná v kulturní areál s bary, výstavami a letním programem — polorozpadlé kasárny mezi rákosím vypadají skvěle a nikdo tam není. Vstup do areálu zdarma, výstavní prostory 10:00–18:00, v pondělí zavřené. Tramvají nebo busem z Mestre asi 15 minut. Legální a bezpečná verze urbexu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.270000,45.475300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — M9 Museo del &#x27;900</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Architektura & umění
+
+Multimediální muzeum italského 20. století v budově od Sauerbruch Hutton, jejíž barevná keramická fasáda je sama o sobě důvod tam dojít; vnitřní pasáž a nádvoří jsou volně průchozí zdarma i bez lístku. Muzeum je v pondělí zavřené, takže 10. 8. večer si projděte jen architekturu a nádvoří. Deset minut od Piazza Ferretto.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.240000,45.491800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Piazza Ferretto</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Architektura & umění
+
+Srdce Mestre: dlážděná pěší piazza se středověkou hodinovou věží, katedrálou San Lorenzo a secesním kinem Excelsior. Nejsou to Benátky, ale večer je tu příjemný italský ruch bez jediného turisty a ceny o třetinu nižší. Zdarma, nejlepší kolem 19:00–21:00 při passeggiatě. Odsud vycházejí všechny ostatní tipy pro Mestre.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.238060,45.490560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Parco San Giuliano</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Příroda & stezky
+
+Jeden z největších městských parků v Evropě, položený přímo na okraji laguny — z hráze vidíte siluetu Benátek přes vodu, což je pohled, který z Benátek samotných nikdy nedostanete. Zdarma, kdykoli, ideální při západu slunce. Z centra Mestre asi 25 minut pěšky nebo autobusem; berte repelent, u laguny jsou v srpnu komáři.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>12.260000,45.478000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Hanky Panky (koktejly)</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Jídlo & pití
+
+Calle Giovanni Legrenzi 5, malý bar s přes 40 druhy ginu a jediný mestrenský podnik, který se objevil na Venice Cocktail Week. Dobrá volba na jeden pozdní drink po večeři, když nechcete jen další spritz. Koktejl 8–12 €. Otevřeno večer; v pondělí ověřte, některé mestrenské bary mají na začátku týdne zavřeno.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.239300,45.491100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Osteria Al Buso</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Jídlo & pití
+
+Osteria a cicchetteria přímo na Piazza Ferretto s benátskou kuchyní a stoly venku na náměstí. Dobrá volba na první večer, když chcete ochutnat benátské věci (baccalà mantecato, sarde in saor) za mestrenské ceny — hlavní chod 12–18 €, cicchetto 1,50–2,50 €. Pro stůl venku přijďte do 20:00 nebo zavolejte dopředu.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.238100,45.490400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — Osteria Lupo Nero</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Jídlo & pití
+
+Via Giorgio Ferro 21, minutu od Piazza Ferretto — rodinná osteria a cicchetteria, kam chodí místní. Otevřeno po–pá 12:00–14:30 a 18:30–22:30. Levné, poctivé, benátská klasika bez turistické přirážky; večeře pro dva s vínem kolem 45–55 €. Rezervace na večer se vyplatí.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.237300,45.490000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mestre — nádraží, supermarket, prádelna</name>
+    <description><![CDATA[Po 10. 8. večer · Mestre · Praktické
+
+Bod je nádraží Venezia Mestre, odkud jedou vlaky na Santa Lucia každých asi 10 minut, jízda 10–12 minut, lístek kolem 1,50 € (papírový nezapomeňte validovat). Kolem nádraží a na Via Piave je několik supermarketů (Despar, Conad) otevřených do 20:00–21:00 i v pondělí. Prádelna Lineablu je na Via Felice Cavallotti 19a, samoobslužné lavanderie jsou i podél Via Piave. Z Via Cavalieri di Vittorio Veneto počítejte 20–30 minut pěšky.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.232000,45.482000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fondamenta Zattere</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Vyhlídka & foto
+
+1,7 km široká promenáda podél kanálu Giudecca, kde chodí Benátčané, ne turisté — jediné místo v centru s otevřeným horizontem. Pozdě odpoledne se sem opře slunce a fasády Giudekky zezlátnou. Po cestě Gelateria Nico a několik plovoucích barů s pontony přímo nad vodou.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.327000,45.430000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fondamente Nove — Dolomity na obzoru</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Vyhlídka & foto
+
+Severní nábřeží obrácené do otevřené laguny — vidíte cypřiše hřbitovního ostrova San Michele a za jasného dne i zasněžené Dolomity na obzoru. Není tu žádný turistický provoz, jen lidé čekající na vaporetto. Zdarma, kdykoli; nejlepší brzy ráno, kdy je vzduch nejčistší a laguna je sklo.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.341400,45.445530,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ponte dei Tre Archi</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Vyhlídka & foto
+
+Jediný benátský most se třemi oblouky, přes Canale di Cannaregio, z roku 1688 — široký záběr s odrazem ve vodě a lodí projíždějící pod ním. Zdarma, kdykoli. Nejlepší při západu slunce, kdy slunce zapadá přesně proti kanálu. Odsud je to 10 minut na Fondamenta Misericordia na večerní ombru.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.318200,45.445400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rialto Mercato a Pescaria</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Vyhlídka & foto
+
+Gotická hala rybího trhu s kamennými sloupy přímo nad Canal Grande — mořští pavouci, měkkýši, chobotnice a rybáři, kteří na sebe řvou. Zdarma. Pozor: rybí trh je v pondělí zavřený a v úterý funguje jen do cca 13:00, takže jděte hned ráno mezi 7:30 a 11:00, potom je z toho prázdná hala. Ovocný trh vedle funguje déle.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.334170,45.439440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ca&#x27; Macana — dílna na masky</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Jedna z mála skutečných dílen, kde se masky pořád dělají z papírové hmoty ručně — dodávali Kubrickovi pro Eyes Wide Shut — a vidíte formy, brusy a barvení přímo v obchodě. Prohlídka zdarma, masky od 25 €, workshopy malování kolem 40–50 € s rezervací předem. Pozor na okolní obchody s plastovými maskami z Číny, poznáte je podle jednotného lesku a nulové vůně papíru.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.326200,45.434700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Campo dei Mori a Tintorettův dům</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Malé náměstí se čtyřmi středověkými kamennými sochami Maurů zasazenými do zdí — jeden má železný nos, který mu přidělali, když ten původní upadl. O pár metrů dál na Fondamenta dei Mori je dům, kde Tintoretto bydlel a zemřel. Zdarma, kdykoli, nikdo tam není. Odsud jsou to 3 minuty k Madonna dell'Orto.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.333200,45.445600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Libreria Acqua Alta</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Knihy naskládané v gondole, ve vanách a ve člunech, aby přežily záplavy, na dvorku schodiště postavené z rozmočených encyklopedií a kočky spící na svazcích. Zdarma, otevřeno cca 9:00–19:30. Je to už dost objevené a v poledne narvané — jděte hned po otevření. Zadní východ vede k malému kanálu, odkud jsou nejlepší fotky.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.334440,45.443330,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lido San Nicolò — starý židovský hřbitov</name>
+    <description><![CDATA[Út 11. 8. · Lido · Hidden gem
+
+Severní špička Lida u vjezdu do laguny: kostel a klášter San Nicolò, obří pobřežní opevnění a antický židovský hřbitov ze 14. století s nakloněnými náhrobky pod stromy (dovnitř jen s prohlídkou, jinak přes plot). Odsud dóže házel prsten do moře při obřadu Sposalizio del Mare. Zvenku zdarma, dostupné na kole nebo autobusem. Klidné a bez turistů.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.387200,45.424300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ponte Chiodo — most bez zábradlí</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Jeden ze dvou zbylých benátských mostů bez zábradlí — přesně tak vypadaly všechny mosty ve středověku. Postavila ho soukromá rodina Chiodo jako přístup ke svému domu. Volně přístupný, zdarma, kdykoli. Pár kroků od Ca' d'Oro na Fondamenta San Felice; přejděte ho opatrně, spadnout do rio je snadné a rozhodně to není hygienické.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.333900,45.440900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ponte del Diavolo, Torcello</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Druhý ze dvou dochovaných benátských mostů bez zábradlí — kamenný oblouk přes kanál uprostřed polí, cestou od přístaviště k bazilice. Kolem rákosí, vinice a ticho, které v Benátkách jinde neexistuje. Zdarma, kdykoli. Vedle je kamenné "Attilovo křeslo", což je ve skutečnosti soudcovský stolec, ale legenda je hezčí.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.416300,45.495600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Poveglia — morový ostrov, NELZE VSTOUPIT</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Opuštěný ostrov s ruinou psychiatrické léčebny a masovými hroby obětí moru, nejznámější strašidelné místo Itálie. VSTUP JE V ROCE 2026 ZAKÁZANÝ — nejezdí tam vaporetto, přistání bez povolení města je nelegální a hrozí pokuta; kdo vám nabízí "tour s výstupem", porušuje zákon. Legálně to jde jen z vody, kajakem nebo vodním taxíkem kolem ostrova. Zařazeno spíš pro kontext při pohledu z jižní laguny.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.330800,45.381300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Giacomo dell&#x27;Orio</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Nepravidelné, stromy porostlé náměstí, kde si Benátčané dávají aperitiv a děti hrají fotbal — nulový turistický ruch. V kostele obrácený lodní kýl místo stropu a sloup ze zeleného verde antico ukradený v Byzanci. Chorus Pass nebo 3 €, po–so 10:30–16:30. Ideální zastávka mezi nádražím a Rialtem, když jdete zadními uličkami.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.327000,45.440000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Lazzaro degli Armeni</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Malý ostrov, kde od roku 1717 žijí arménští mniši mechitaristé — knihovna s 200 000 svazky, egyptská mumie, sbírka rukopisů a pokoj, kde se lord Byron učil arménsky. Vstoupit se dá jen s prohlídkou v 15:25, jednou denně, po rezervaci (visite@mechitar.org), vstupné asi 6 €. Linka 20 ze San Zaccaria, 20 minut — musíte stihnout přesně jeden spoj, jinak nemáte šanci.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.360200,45.412900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Nicolò dei Mendicoli</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Nejzápadnější kostel Benátek v někdejší rybářské čtvrti — kostra ze 7. století, zlacené dřevěné sochy podél celé lodi a portikus, kde se schovávali chudí. Natáčel se tu Roegův Neohlížej se. Vstup zdarma, 10:00–12:00 a 16:00–19:00; za drobnou minci se rozsvítí osvětlení a interiér vybuchne zlatem. Cestou projdete Campo Angelo Raffaele, nejtišší kout Dorsodura.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.314500,45.431400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Pietro di Castello</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Až do roku 1807 to byla katedrála Benátek, ne San Marco — a je to zapadlý ostrov na východním konci města s travnatým campem, kde si místní suší prádlo a hrají děti. Codussiho zvonice z bílého istrijského kamene je viditelně nakloněná. Chorus Pass nebo 3 €, po–so 10:30–16:30, uvnitř bizarní "trůn svatého Petra" — arabská náhrobní stéla s koránskými verši. Nádherná odpolední procházka od Via Garibaldi.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.359720,45.434440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sotoportego de la Corte Nova</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Průchod u Calle Zorzi, který není jen průchodem — od roku 1630 je to votivní kaple. Místní žena tu namalovala Madonu a Corte Nova jako jediná v okolí prý neměla ani jednu oběť moru. Dodnes je tam obrázek, svíčky a květiny od sousedů, a podle pověry se nesmí šlápnout na určitý kámen. Zdarma, kdykoli, absolutně nikdo tam nechodí. Souřadnice orientační, hledejte za Campo Santa Maria Formosa.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.348600,45.436400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sotoportego dei Preti — cihlové srdce</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+V klenutém průchodu v Castellu je do zdi zasazená načervenalá cihla ve tvaru srdce, velká asi jako dlaň. Legenda o rybáři Oriovi a mořské panně Melusině; kdo se jí dotkne společně jako pár, prý zůstane spolu. Zdarma, veřejný průchod, ale je poloslepý a musíte ho hledat pohledem po stěnách. Souřadnice orientační — jděte k San Giovanni in Bragora a ptejte se na "sotoportego dei preti".]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.347100,45.434500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Squero di San Trovaso — dílna na gondoly</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Hidden gem
+
+Jedna z posledních tří loděnic, kde se gondoly pořád staví a opravují — dřevěné tyrolské domky přímo nad kanálem, protože řemeslníci přišli z Cadore. Dovnitř se nesmí, ale z protějšího nábřeží Fondamenta Nani vidíte obrácené gondoly i lidi při práci. Zdarma, nejlepší dopoledne v pracovní den. Vedle je Bottegon, takže spritz v ruce a koukat.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.326970,45.430720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Massimiliana, Sant&#x27;Erasmo</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Dobrodružství
+
+Sant'Erasmo je zemědělský ostrov, zelinářská zahrada Benátek se slavnými artyčoky, velikostí srovnatelný s historickým centrem, kde nejsou skoro žádní turisté — jen pole, cyklisté a kanály. Kruhová rakouská pevnost z roku 1844 je zrestaurovaná, dá se vyjít na valy s výhledem na lagunu, a hned vedle je malá pláž. Linka 13 z Fondamente Nove, 30–50 minut. Vezměte piknik, obchodů je tu minimum.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>12.384600,45.447200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Arsenale — Porta Magna a lvi</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+První renesanční brána v Benátkách (1460) a před ní čtyři antičtí mramoroví lvi ukořistění v Řecku — na jednom z nich je vyrytý runový nápis vikinských žoldnéřů z 11. století. Za branou je pořád vojenská zóna a dovnitř se nesmí, ale most před bránou je veřejný a zdarma. Nejlepší podvečer, když se cihly zbarví.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.349600,45.434700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Biennale Arte 2026</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+61. ročník běží 9. 5. – 22. 11. 2026, v úterý otevřeno 11:00–19:00 (zavírá se v pondělí). Jeden lístek 30 € (do 26 let 16 €) platí pro obě lokace — Giardini s historickými národními pavilony i obří lodní haly Arsenale, kam se jinak nedostanete. Na obojí potřebujete klidně 6 hodin; pokud máte jen jeden den v Benátkách, zvažte jen Arsenale kvůli architektuře.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.357200,45.428900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fondazione Querini Stampalia</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Scarpa tu v přízemí paláce nechal vodu vtékat dovnitř, místo aby ji vyháněl — betonové kanálky, mosazné detaily a v zadní části tajná zahrada s alabastrovou fontánou. Nahoře patricijský byt z 18. století s obrazy benátského každodenního života od Gabriela Belliho. Út–ne 10:00–18:00, asi 14 €, lístek platí celý den. V úterý otevřeno.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.340500,45.436900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ghetto Ebraico</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Campo di Ghetto Nuovo je jediné benátské náměstí bez kostela, zato s nejvyššími domy ve městě — Židé nesměli stavět do šířky, tak stavěli do výšky, sedm pater s nízkými stropy — a s bronzovým památníkem holokaustu na severní zdi. Pět synagog schovaných v obytných domech, poznáte je podle pěti oken nad sebou. Náměstí zdarma, prohlídky synagog s průvodcem každou hodinu 10:00–17:00.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.327000,45.445300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Il Redentore, Giudecca</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Palladiův chrám postavený jako dík za konec moru 1576, s dokonalou bílou fasádou přes celý kanál Giudecca. Chorus Pass nebo 3 €, po–so 10:30–16:30. Pravý smysl ale má přejít na Giudeccu vaporettem a projít celou fondamentu — máte odsud nejlepší pohled na Benátky jako celek a přitom je tu klid a obyčejný život.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.327800,45.427100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Negozio Olivetti — Carlo Scarpa</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Bývalý showroom psacích strojů přímo pod loubím Piazza San Marco, který Carlo Scarpa v roce 1958 proměnil v miniaturní architektonickou báseň — schodiště z bloků istrijského kamene, které se vznáší, mozaiková podlaha ze skleněných kostek, mosaz a voda. Nejlepší modernistický interiér v Benátkách, uvnitř pár lidí, kolem 50 000 na náměstí. Út–ne 10:00–18:30, asi 8 €.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.338000,45.434200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ocean Space — v úterý ZAVŘENO</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Obří odsvěcený kostel San Lorenzo, dvě staletí zavřený a napůl v ruinách, dnes prostor pro zvukové a světelné instalace o oceánu. Kombinace holého cihlového interiéru s masivní kamennou přepážkou uprostřed lodi a současné instalace je vizuálně brutální. Vstup zdarma, ale otevřeno st–ne 11:00–18:00 — v ÚTERÝ ZAVŘENO, takže 11. 8. to nevyjde.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.345400,45.437300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sant&#x27;Alvise — Tiepolo bez lidí</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Nejsevernější kostel Cannaregia, na konci fondamenty, kam už nikdo nedojde. Uvnitř tři rané Tiepolovy pašijové obrazy a naivní dřevěné "barco", visutý chór jeptišek. Chorus Pass nebo 3 €, po–so 10:30–17:00. Cesta sem po Fondamenta della Sensa a Ormesini je sama o sobě to nejhezčí, co v Benátkách potkáte — prádlo, kanály, žádné suvenýry.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.327000,45.448800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Scuola Grande dei Carmini</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Architektura & umění
+
+Devět Tiepolových stropních pláten v Sala Capitolare — světlá, vzdušná, rokoková protiváha Tintorettovy temnoty u San Rocca. Skoro prázdno, vstupné kolem 7–8 €, otevřeno zhruba 11:00–16:00, hodiny kolísají. Dva kroky od Campo Santa Margherita, kde si pak dáte spritz mezi studenty.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.323110,45.434730,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Giardini Reali — v úterý ZAVŘENO</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Příroda & stezky
+
+Zrestaurovaná napoleonská zahrada se skleníkem hned vedle Piazza San Marco, vstup zdarma, oáza stínu uprostřed davu. Ale od 5. 8. do 15. 10. 2026 je otevřeno jen st–ne 9:30–19:00, tedy v pondělí a v úterý zavřeno. Zmiňuji hlavně proto, abyste sem 11. 8. nešli zbytečně.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>12.338400,45.432900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sant&#x27;Elena a Parco delle Rimembranze</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Příroda & stezky
+
+Nejvýchodnější a nejméně navštívená čtvrť Benátek — skutečný park se stromy, lavičkami a pohledem přes lagunu na Lido. Bydlí tu obyčejní lidé, jsou tu hřiště a nulové suvenýry. Zdarma, kdykoli. Dobré místo na piknik nebo siestu mezi Biennale a večerní cestou zpět. Zastávka vaporetta Sant'Elena.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>12.364200,45.426200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Alaska Gelateria — artyčokové gelato</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Carlo Pistacchi dělá zmrzlinu z čehokoli — artyčoky ze Sant'Erasma, zázvor, chřest, ricotta s fíky — a je z toho spíš laboratoř než gelaterie. Bio suroviny, nic umělého, kopeček asi 2 €. Schované v Santa Croce mimo trasy, takže žádná fronta. Zeptejte se, co je dnes divné, a dejte si to.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.323700,45.438800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bacareto da Lele — nejlevnější sklenka</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Malé okénko na Campo dei Tolentini u architektonické fakulty, kde studenti kupují mini-panini se salámem nebo sopressou za cca 1,20 € a sklenku vína za 0,80–1 €. Sedí se na zemi a na schodech u kanálu. Otevřeno jen přes den, zavřeno o víkendu. Ideální levná svačina cestou z nádraží Santa Lucia, 8 minut pěšky.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.320200,45.436200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Campo Santa Margherita</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Velké nepravidelné náměstí v Dorsoduru s bary, které mají ceny pro místní, ne pro turisty — spritz od 3 €, večer se sedí na kamenných lavicích a na zemi. Ideální začátek večera před cestou zpět do Mestre. Na jedné straně stánek s rybami, na druhé zvonice bez kostela. Kolem 19:00 se to začne plnit.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.324440,45.435560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cantina Do Mori — nejstarší bacaro (1462)</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Tmavá úzká místnost bez jediné židle, měděné hrnce nad hlavou, tácky s francobolli — miniaturními sendviči velikosti poštovní známky. Casanova sem prý chodil. Ombra od 1,50 €, francobollo 1,50–2 €. Otevřeno zhruba 8:00–19:30, zavřeno v neděli. Je to úzká slepá ulička kousek od Rialto Market, hledejte nízké dveře bez cedule.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.333900,45.438600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gelateria Nico — gianduiotto na Zattere</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Instituce z roku 1935 na sluneční promenádě Zattere. Objednejte gianduiotto da passeggio: kostka lískooříškové zmrzliny hozená do sklenice a utopená ve šlehačce, 5–6 €. Sednete si na pontonovou terasu přímo nad vodou s výhledem na Giudeccu. Nejlepší v podvečer, když se kanál rozzáří.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.327600,45.430400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gelatoteca Suso</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Malá gelaterie v uličce u Rialta s vlastními recepturami (gorgonzola s ořechy, tiramisù) a poctivými surovinami místo pastových prášků. Kopeček asi 2 €, otevřeno dlouho do večera. Poznávací znamení dobré zmrzlárny v Benátkách: gelato je v kovových kanystrech pod víkem, ne v nabarvených horách — Suso to splňuje.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.336900,45.438100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Osteria alla Vedova — polpette</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Stará osteria u Ca' d'Oro, kde se chodí pro jednu věc: smažené masové kuličky, křupavé venku, šťavnaté uvnitř, asi 2 € kus. U baru se stojí, v sále se sedí a je nutná rezervace. Zavřeno ve čtvrtek. Klasika mezi Benátčany, ale v úterý večer se dá dostat i na stání.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.333300,45.441000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Skyline Rooftop Bar, Molino Stucky</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Jídlo & pití
+
+Osmé patro neogotického obřího mlýna na západním konci Giudekky — jediná opravdová střešní terasa v Benátkách, kde slunce zapadá přímo za lagunu. Otevřeno cca 16:00–01:00. Koktejl 20–25 €, což je hodně, ale vstup je zdarma a jeden drink si dovolit můžete; přijďte asi 45 minut před západem slunce, pro dobrý stůl rezervujte.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>12.315300,45.427800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fondaco dei Tedeschi — terasa je ZAVŘENÁ</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Praktické
+
+Slavná bezplatná střešní terasa nad Rialtem už nefunguje — DFS zavřelo obchoďák v květnu 2025 a terasa se zatím neotevřela. Nechoďte tam zbytečně a nespoléhejte na starší průvodce. Náhrada za výhled zdarma: Zattere, Punta della Dogana, most Accademia; za peníze campanile San Giorgio Maggiore.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.336600,45.438000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vaporetto — jízdné a linky</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Praktické
+
+Jednotlivá jízdenka ACTV stojí 9,50 € a platí 75 minut (přestupy ano, zpáteční cesta ne), 24hodinová 25 €, 48h 35 €. Pokud plánujete ostrovy, 24h pass se vyplatí už při třetí jízdě. Bod je Fondamente Nove, odkud jedou linky 4.1/4.2 na San Michele (5 minut) a linka 12 na Murano–Burano–Torcello. Pass platí i na autobusy na Lidu.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.341400,45.445400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vstupné do Benátek — 11. 8. se NEPLATÍ</name>
+    <description><![CDATA[Út 11. 8. · Benátky · Praktické
+
+Contributo di accesso se v roce 2026 vybíral jen 60 vybraných dní od 3. 4. do 26. 7., vždy 8:30–16:00. Úterý 11. 8. do toho okna nespadá — neplatíte nic, nepotřebujete QR kód ani registraci. Venezia Unica City Pass také není povinný, je to jen dobrovolný balíček slev. Pro jistotu si den před cestou zkontrolujte cda.ve.it.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>12.320900,45.441200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Caffè del Verone (Innocenti)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Loggie v nejvyšším patře Brunelleschiho nalezince, dlouhá krytá terasa s výhledem přes střechy k Duomu a na kopce. Do kavárny se dá vejít bez vstupenky do muzea, má vlastní výtah — káva a aperol za normální ceny, žádné davy. Nejlepší kolem 19:00, kdy světlo padá na cihlové střechy.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.260830,43.776940,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Rampe del Poggi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Zrestaurovaná soustava kaskád, jeskyněk a mozaikových nik, po které se serpentinami stoupá od Porta San Niccolò k Piazzale — Poggiho romantická inženýrská hračka z 19. století, kde teče voda a chladí vzduch. Zdarma a průchozí nonstop. Vezměte tudy cestu nahoru na San Miniato místo schodů, je to pomalejší a desetkrát hezčí.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.265280,43.764720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Piazza della Passera</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Nejmenší a nejhezčí náměstíčko Oltrarna — pět stolů, zmrzlinárna, dvě trattorie, okrové omítky. Jméno má buď od nemocného vrabce, nebo pravděpodobněji od nevěstince, který tu stával. Zdarma; přijďte kolem 20:00, kdy je nasvícené, a projděte se odsud Via Toscanella a Sdrucciolo de' Pitti.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.250280,43.766940,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Salvatore al Monte</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Střízlivý kostelík od Cronacy, kterému Michelangelo říkal "la bella villanella", hezká venkovanka, na půl cesty mezi Piazzale Michelangelo a San Miniatem. Před ním je travnatá terasa, kde nikdo nestojí — stejný výhled jako z Piazzale, ale bez davu a stánků. Zdarma, ideální 10 minut před západem slunce.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.263890,43.760830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre San Niccolò</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Jediná florentská městská brána, která si zachovala plnou výšku — vylezete strmým dřevěným schodištěm na ochoz nad Arnem. Otevřeno jen v létě, prohlídky každých 30 minut mezi 17:00 a 19:30, 6 €, POVINNÁ rezervace na 055 2768224 nebo info@muse.comune.fi.it. Při dešti se ruší; spojte s Rampe a Giardino delle Rose hned nad tím.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.266390,43.764720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Via dell&#x27;Ardiglione (San Frediano)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Vyhlídka & foto
+
+Zapadlá klenutá ulička v San Frediano, kde se narodil Filippo Lippi — nízké průjezdy, dílny, prádlo, žádní turisté; napojuje se na Borgo San Frediano a Via del Leone. Nejlepší za pozdního odpoledne, kdy světlo padá do klenby. Zdarma a je to přesně ta esteticky šílená Florencie bez kulis.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>11.243330,43.768190,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Antico Setificio Fiorentino</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Tkalcovna hedvábí z roku 1786 v San Frediano, která dodnes tká na dřevěných stavech z 18. století a na snovadle navrženém podle Leonardova nákresu — brokáty sem objednávají paláce a muzea. Není to běžné muzeum: prohlídka jen po předchozí domluvě e-mailem, ale i výloha a dvorek stojí za zajížďku. Via Lorenzo Bartolini 4.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.239170,43.769440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Badia Fiorentina</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Naproti Bargellu: v kostele Filippino Lippiho Zjevení Panny Marie svatému Bernardovi, temné a přízračné, a nad ním dvoupatrový Pomerančový klášter s freskovým cyklem z 15. století, kam se běžně nedostanete. Klášter bývá přístupný typicky jen v pondělí odpoledne, takže v jejich termínu to nevyjde. Zvon Badie odbíjí od 11. století a je slyšet po celém centru.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.257780,43.770830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Berta — hlava ve zdi zvonice</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Ve zdi zvonice kostela Santa Maria Maggiore, ve výšce druhého patra, kouká z kamene ženská hlava — údajně trhovkyně Berta, nebo pohanské torzo; podle jiné legendy sem byl zazděn pohled nekromanta Cecca d'Ascoli, upáleného kousek odsud. Zdarma, jen je nutné vědět, kam se dívat, na nároží Via de' Cerretani. Krásná zastávka cestou od nádraží do centra.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.251390,43.772500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Buchette del vino — Via delle Belle Donne</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Ve Florencii je zdokumentováno přes 150 zazděných vinných okének ze 16.–17. století — malé obloučky ve výši pasu, kterými šlechtické rody prodávaly víno z vlastních statků, aniž musely otevřít krám. Mapu má Associazione Buchette del Vino; jedno z nejhezčích je právě tady, další ve Via del Trebbio 1r, Via de' Palchetti 4 a Via Ginori 14. Zdarma a je z toho výborná hra při procházce.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.248610,43.773060,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cimitero degli Inglesi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Ostrůvek uprostřed rušného kruhového objezdu Piazzale Donatello: oválný kopeček s cypřiši a bílými náhrobky protestantů 19. století, mimo jiné Elizabeth Barrett Browningové — obraz, který Böcklin použil pro Ostrov mrtvých. Vstup za dobrovolný příspěvek asi 2 €, otevřeno omezené hodiny. Naprosto surreálné místo, 15 minut pěšky od bytu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.265830,43.777780,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Corridoio Vasariano</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Znovu otevřený kilometr dlouhý soukromý tunel Medicejských nad Ponte Vecchio — okna přímo nad řekou, průchod nad Santa Felicitou, absurdní pocit chodit městem a nebýt v něm. Přes den jen v kombinaci s Uffizi (asi 43 € plus rezervační poplatek), v sezoně bývají levnější večerní vstupy kolem 20 €. Draho, ale pokud si chcete dopřát jednu drahou věc, tohle je ta pravá.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.253330,43.767780,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Farmacia SS. Annunziata 1561</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Menší, méně známá a méně turistická sestra Officiny — dřevěné regály z 19. století, keramické lékárnické nádoby a vlastní řada kosmetiky podle historických receptur. Vstup zdarma, obsluha ochotně dá vzorky. Ve Via dei Servi, přesně na cestě mezi Duomem a Piazza SS. Annunziata.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.258890,43.775000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fiesole — etruské hradby</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Fiesole · Hidden gem
+
+Za archeologickým areálem vede volně přístupná ulička podél původní etruské hradby ze 4.–3. století př. n. l. — kyklopské kvádry vysoké několik metrů, zarostlé kaprifolem, a nikdo tam není. Zdarma, kdykoli. Krásné napojení na procházku k Monte Ceceri.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.292220,43.809170,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>L&#x27;Importuno di Michelangelo</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Vpravo od vchodu do Palazzo Vecchio, na kamenné lavici ve výši ramen, je vyrytý profil muže — podle tradice ho tam Michelangelo vysekal za zády, aby dokázal, že to umí i naslepo, protože ho ten člověk otravoval. Je maličký a projdou kolem tisíce lidí denně. Zdarma, hledejte na rohu směrem k Uffizi.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.255280,43.769440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Legatoria Alberto Cozzi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Čtvrtá generace mramorovačů papíru ve Via del Parione — restaurují staré knihy a v zadní místnosti máčejí archy v barvené lázni. Archy mramorovaného papíru od pár eur, což je nejhezčí levný suvenýr vůbec. Ve stejné ulici je několik dalších starých dílen, takže si projděte celý Parione.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.249440,43.770830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Legatoria Il Torchio</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Knihařská dílna ve Via dei Bardi, kde se dodnes ručně šijí vazby a mramoruje papír — dílnu vidíte přímo z krámku a klidně vás nechají chvíli koukat. Zápisník od 15 €, kožená vazba dráž; nejlepší dárek z Florencie, co není z kůže z tržnice. Zavírá kolem 18:00, o víkendu omezeně.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.255280,43.766940,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercato delle Pulci — blešák</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Blešák se stálými boudami — staré rytiny, mosazné kliky, rámy, kufry, pohlednice, laboratorní sklo. Levné, autentické a je to jeden z mála koutů centra, kde jsou skoro jen Florenťané. Kousek od Sant'Ambrogia, takže se spojí s tržnicí a lampredottem; nejlepší dopoledne.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.268610,43.770000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Orsanmichele — muzeum v patře</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Bývalá obilná sýpka přeměněná na kostel; ve venkovních nikách jsou kopie soch cechů od Donatella, Ghibertiho a Verrocchia, originály jsou v obřím gotickém sále nahoře, kam vede vlastní vchod. Z oken sálu je nezvyklý pohled do ulic přesně mezi Duomem a Signorií. Vstup asi 8 €, po rekonstrukci znovu otevřeno, fronty minimální.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.254440,43.770830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Maria Maddalena de&#x27; Pazzi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+V kapitulní síni bývalého kláštera na Borgo Pinti je Peruginovo obrovské Ukřižování rozvržené do tří oken s modrozelenou umbrijskou krajinou — vypadá to, jako by zeď zmizela. Chodí sem asi deset lidí denně, vstup symbolický nebo zdarma, otevřeno omezeně dopoledne. Cestou si všimněte kláštera od Giuliana da Sangalla s jónskými sloupy.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.264720,43.773610,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zecchi — pigmenty a barvy</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Hidden gem
+
+Obchod pro restaurátory kousek od Duomu: police plné skleněných nádob se sytými pigmenty — lapis, rumělka, sienská hlinka — plátkové zlato, štětce a kožené vazby. Vizuálně je to muzeum a přitom si tam koupíte sáček pigmentu za pár eur. Otevřeno v běžné pracovní době, v sobotu odpoledne zavírá.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>11.256670,43.772220,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gualchiere di Remole</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Dobrodružství
+
+Středověké valchy na sukno ze 14. století stojící přímo v Arnu u Sieci, opuštěné, s jezem a mlýnskými náhony — jedna z nejfotogeničtějších ruin v okolí. Dostanete se sem vlakem do Sieci nebo Compiobbi asi za 20 minut a pak pěšky po břehu. ŠEDÁ ZÓNA: areál je oplocený a vstup dovnitř bez povolení není legální, ale zvenku od cyklostezky a od jezu je to skvělé. Do vody tady nelezte, proud u jezu je nebezpečný.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>11.363890,43.780560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Monte Ceceri — Leonardovy lomy</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Fiesole · Dobrodružství
+
+Lesní park nad Fiesole s opuštěnými lomy na pietra serena, ze kterých se těžil kámen na půl Florencie — chodí se tmavými štolami a po hranách jam v lese. Odsud podle tradice startoval Leonardův pokus o let, je tu jeho pamětní kámen. Zdarma, značené cesty z Fiesole asi 40 minut, vezměte vodu a čelovku; za tmy se sem nechoďte.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>11.308330,43.803890,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Canottieri Firenze — pod Uffizi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Voda & koupání
+
+Veslařský klub sídlí doslova v podzemních obloucích pod Galerií Uffizi a má vlastní molo na Arnu — nejpodivnější adresa ve Florencii. Veřejné projížďky na tradičních člunech renaiole nabízejí i jiní provozovatelé od Ponte Vecchio, kolem 20–30 €/os. za hodinu. Pohled na město z hladiny je úplně jiné město.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>11.255280,43.767070,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Easy Living — pláž na Arnu</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Voda & koupání
+
+Letní městská pláž na Lungarno Serristori pod Piazza Poggi: písek, lehátka, bar s kioskem, DJ sety a filmy pod širým nebem, přímo u hladiny Arna pod Torre San Niccolò. Vstup zdarma, pití levné, otevřeno do noci, typicky do půl druhé. Ověřte, jestli letos běží — provozovatel se občas mění, ale místo pod Rampe žije každé léto.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>11.263610,43.765280,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Parco dei Renai (Signa) — koupání</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Signa · Voda & koupání
+
+Nejbližší legální koupání u Florencie: jezero s plážemi, půjčovnou paddleboardů a barem asi 15 km po proudu. Vlakem ze Santa Maria Novella do Signy asi 20 minut (2,60 €) a pak 15 minut pěšky. Vstup do parku levný, koupání ve vyhrazené části. V Arnu ve městě se koupat nesmí, tohle je ta legální varianta.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>11.105560,43.780560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cenacolo del Fuligno</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Perugino s dílnou namaloval tuhle Poslední večeři s klidnou umbrijskou krajinou v pozadí; refektář bývalého kláštera ve Via Faenza 42, pár kroků od nádraží. Vstup zdarma, ale otevírací doba je vrtošivá, obvykle jen několik dopolední v týdnu — před cestou ověřte. Ideální nouzový tip na páteční ráno před vlakem, 5 minut od nádraží.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.250000,43.775560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cenacolo di Ognissanti (Ghirlandaio)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Ghirlandaiova Poslední večeře z roku 1480 s pávem, třešněmi a pomerančovníky vyrůstajícími přímo ze zdi — nejpůvabnější z florentských cenacoli, vstup zdarma. Pozor: bývá otevřeno jen po, út a so dopoledne, takže 12.–14. 8. to nejspíš nevyjde; zajděte aspoň do kostela vedle, kde je Botticelliho hrob a Ghirlandaiův svatý Jeroným.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.244440,43.772500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cenacolo di Santo Spirito</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Zbytek gotického refektáře přilepený k levému boku Santo Spirita: obří Ukřižování od Orcagny, torzo Poslední večeře a sbírka románských fragmentů rozestavěná jako sochařská instalace. Vstup asi 3 €, otevřeno jen několik dní v týdnu — zeptejte se přímo na dveřích. Uvnitř je za horkého dne příjemný chlad a naprosté ticho 20 metrů od rušného náměstí.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.247500,43.767220,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chiostro Verde a Cappellone degli Spagnoli</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Kláštery Santa Maria Novella: Zelený ambit s Uccellovými freskami malovanými zelenou hlinkou — Potopa světa je halucinační — a Španělská kaple s obrovským cyklem, kde po zemi běhají černobílí psi (domini canes, hříčka na dominikány). Vstupenka do komplexu asi 7,50 € a je tu zlomek lidí oproti Duomu. Perfektní na páteční ráno, 6 minut od nádraží.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.248610,43.774170,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fiesole — římské divadlo</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Fiesole · Architektura & umění
+
+Římské divadlo z 1. století př. n. l. zasazené do olivového svahu, k tomu lázně, etruský chrám a kus etruských hradeb, v pozadí toskánské kopce. Vstup 7 €, v létě denně 10:00–19:00. V srpnu tu běží festival Estate Fiesolana — koncert v antickém divadle za soumraku je jeden z nejsilnějších zážitků okolí Florencie.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.294170,43.808330,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grotta del Buontalenti (Boboli)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Manýristická umělá jeskyně u vchodu do Boboli: stěny tající do krápníků, z nichž se vynořují pastýři a zvířata, v koutech kopie Michelangelových Otroků a v poslední komoře Giambolognova Venuše. Nejbizarnější renesanční interiér ve Florencii. Vyžaduje vstupenku do Boboli (asi 10 €); vstup do grotty bývá po skupinách v pravidelných intervalech, ptejte se hned u brány.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.249170,43.765280,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Manifattura Tabacchi</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Racionalistická tabáková továrna z 30. let, dnes napůl oživená čtvrť s galeriemi, ateliéry, kavárnou a letním programem koncertů a filmů na nádvořích. Brutálně fotogenické betonové geometrie, nulová turistika, vstup zdarma. Tramvají T1 nebo 25 minut pěšky přes Cascine.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.227780,43.784720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Horne</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Renesanční palác zařízený tak, jak by v něm florentský měšťan skutečně žil — nábytek, majolika, kuchyňské náčiní, Giottova deska, a nikdo uvnitř. Vstup asi 7 €, dopoledne. Skvělé, když chcete atmosféru 15. století bez muzejního provozu; z Ponte alle Grazie 2 minuty.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.260000,43.768060,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Stefano Bardini</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Dům starožitníka, který si celý interiér natřel na sytě modrou "Bardini blue" a poskládal do něj sochy, kilimy, brnění a Donatellovy reliéfy jako scénografii — vizuálně nejsilnější muzejní prostor ve městě a skoro prázdný. Je tu i původní Kanec (Porcellino) a Ďábel od Giambologny. Vstup asi 7 €, otevřeno jen některé dny, obvykle pá–po, ověřte.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.258060,43.766390,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Palazzo Davanzati</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Architektura & umění
+
+Nejlépe zachovaný středověký florentský dům — pokoje s freskovými "tapetami" napodobujícími látky, papoušci na zdech, původní latríny, studna vedoucí do všech pater a otvory ve stropě průjezdu na lití vroucí vody na útočníky. Vstup asi 6 €, dopoledne, skoro prázdné. Nejlepší představa, jak se ve Florencii doopravdy bydlelo.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>11.251390,43.769720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Giardino dell&#x27;Orticoltura — Tepidarium</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Příroda & stezky
+
+Obří litinovo-skleněný skleník z roku 1880 — nejkrásnější kus průmyslové architektury ve Florencii, uvnitř výstavy a občas koncerty; okolo zahrada s drakem a vyhlídkovou terasou na město. Vstup ZDARMA, otevřeno do večera. 20 minut pěšky na sever od bytu.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>11.259720,43.790000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Parco delle Cascine a Le Pavoniere</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Příroda & stezky
+
+Tříkilometrový park podél Arna, kde Florencie končí a začíná stín platanů; uvnitř je venkovní bazén Le Pavoniere v klasicistním pavilonu, vstup 12–15 € na den, večer se mění na bar. V úterý ráno je tu obří levné tržiště. Do parku 20 minut pěšky po nábřeží nebo tramvají T1; večer v odlehlých částech raději ne.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>11.230560,43.781670,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Badiani — Buontalenti</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Kousek za centrem na Viale dei Mille; tady v roce 1979 vymysleli příchuť Buontalenti (vaječný krém, recept dodnes tajný) a je to nejlepší krémová zmrzlina ve městě. Cesta busem nebo 25 minut pěšky, ale místní si sem jezdí schválně. Otevřeno dlouho do noci — dobrá výmluva na noční procházku severní Florencií.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.271390,43.788890,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa del Vino</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Historická vinárnička ve Via dell'Ariento za Mercato Centrale, dřevěný interiér z 19. století, sklenka vína od 3 €, crostini a panini s tuňákem a artyčoky za pár eur. Chodí sem trhovci a stojí se u pultu. Otevřeno hlavně přes den — perfektní rychlá zastávka 4 minuty od bytu.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.253330,43.775560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>La Terrazza — Rinascente</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Střešní bar obchodního domu na Piazza della Repubblica: nemusíte nic kupovat, abyste vyjeli výtahem do 5. patra a stoupli si k zábradlí přímo naproti kupoli a Giottově zvonici. Nápoj kolem 10–12 €, kvalita průměrná, ale výhled zadarmo je nejlepší trik v centru. Chodí se sem před západem slunce.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.253610,43.771390,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Murate Caffè Letterario</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Bývalá klášterní věznice přeměněná na kulturní centrum: nádvoří mezi celami s pouličním osvětlením, koncerty, promítání a bar, kde je spritz kolem 6 €. Vstup zdarma, otevřeno do půlnoci a dál. Nejlepší alternativní večer v centru — 12 minut od Duomu, ale svět stranou.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.267220,43.770280,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Volpi e l&#x27;Uva</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Nenápadná vinárna na náměstíčku za Ponte Vecchio, kde se točí desítky vín po skleničce od malých toskánských vinařů (od 5 €) a k tomu crostini a sýry. Personál poradí a nepřeprodává. Otevřeno od pozdního odpoledne, pár stolků venku — ideální první zastávka večer po příjezdu 12. 8.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.252780,43.767500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mad Souls &amp; Spirits</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Nejlepší koktejlový bar v Oltrarnu na Borgo San Frediano, malý, nabitý, s ručně kreslenými menu a drinky kolem 9–11 € — kvalita jako v Londýně za florentské ceny. Nerezervuje se, přijďte před 21:00 nebo pijte vestoje na ulici, což tu dělají všichni. Kolem je celý pás dobrých barů.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.240280,43.769440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Nerbone (Mercato Centrale)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Legendární stánek uvnitř Mercato Centrale od roku 1874 — panino con bollito (vařené hovězí) nebo lampredotto za 5 €, sklenka vína 2 €, mramorové stolky, fronta místních. Otevřeno po–so od 7:00 do cca 14:00, ideální hned po ránu, 5 minut od bytu. V patře je turistický foodcourt, ta pravá věc je dole ve staré tržnici.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.253610,43.776390,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Rasputin (speakeasy)</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Nemá ceduli ani okno — hledáte dřevěná dvířka v Borgo Tegolaio, zaklepete a projdete do sametového podzemí s klavírem a bez menu, barman míchá podle nálady. Drink 12–15 €, doporučuje se napsat předem přes Instagram. Trochu kýčovité, ale hodně zábavné.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.247220,43.765830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sbrino Gelatificio Contadino</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Malá gelateria ve Via dei Serragli, která si dováží mléko z jedné konkrétní farmy a dělá všechno denně v malých šaržích — chuťově nejčistší zmrzlina v Oltrarnu, výborné ovocné sorbety. Kopeček 2,50–3 €. Na cestě mezi Santo Spirito a Porta Romana.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.244440,43.766940,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Semel — mikroskopická paninoteka</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Mikroskopický pult u Sant'Ambrogia, pět druhů netradičních panini denně (kachní, sardela s vlašskými ořechy, tuňák s hruškou), každý kolem 4–5 €, jí se vestoje na ulici. Otevřeno jen pár hodin kolem oběda, a když dojde chleba, zavírá. Skvělé v kombinaci s tržnicí a blešákem.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.268330,43.769720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Trattoria La Casalinga</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Rodinná trattorie kousek od Santo Spirito, hlučná, rychlá, hromadná — ribollita, trippa alla fiorentina, peposo; dva se najedí kolem 30–35 € včetně vína. Nerezervuje se snadno, přijďte v 19:30 nebo počítejte s čekáním. Perfektní kombinace: večeře tady a pak pivo na náměstí.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.247780,43.766670,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vivoli</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Jídlo & pití
+
+Nejstarší gelateria Florencie (1930) ve slepé uličce u Santa Croce — bez kornoutů, jen kelímky, dělají jen to, co ten den vyrobili. Berte rýžovou, crema nebo affogato s espressem; kelímek od 2,50 €. Skvělé pozdě večer po procházce centrem.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>11.260560,43.770000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fontanelli — pitná voda zdarma</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Publiacqua provozuje po městě fontanelli s vodou zdarma, přírodní i perlivou — v centru například ve Via dell'Agnolo, mapa je na publiacqua.it. Kromě toho jsou po celém centru staré kašničky a pítka, ze kterých se běžně pije. Ve 35stupňovém srpnu je láhev a znalost nejbližšího pítka důležitější než jakákoli vstupenka.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.263890,43.770000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Levné nákupy — Via Nazionale</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Ulice mezi bytem a nádražím má několik malých supermarketů (Conad City, Carrefour Express) otevřených typicky do 21:00 — víno od 4 €, pecorino, focaccia, voda za 40 centů. Pro čerstvé věci je lepší Mercato Sant'Ambrogio nebo stánky před Mercato Centrale. Pozor: kolem Ferragosta mají menší krámy zavřeno nebo zkrácenou dobu.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.251390,43.776390,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Prádelna Wash &amp; Dry</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Samoobslužná prádelna 5 minut od bytu na Via Nazionale, otevřeno cca 7:30–22:30 denně; praní asi 4,50 €, sušení 4 €, prášek z automatu. Řetězec má pobočky i ve Via dei Servi 105r a Via Ghibellina. Když cestujete nalehko, tohle ušetří půl batohu.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.251390,43.776940,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Maria Novella — nádraží</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Z bytu 8–10 minut pěšky přes Via Nazionale a Via Faenza, takže v pátek ráno stačí vyjít 25 minut před odjezdem vlaku v 09:53. Úschovna KiPoint je na peróně 16, otevřeno od 6:00, asi 6 € za prvních 5 hodin. Ve stanici jsou placené WC a lékárna otevřená dlouho do noci.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.248060,43.776390,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veřejné WC — Piazza della Signoria</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Placené veřejné WC asi za 1 € ve Via Filippina za Palazzo Vecchio; další jsou u Mercato Centrale, na Piazza Santa Maria Novella a na Piazzale Michelangelo, obvykle 9:00–19:00. Jinak platí pravidlo: dát si u baru espresso za 1,20 € vyjde nastejno a je to civilizovanější.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.258060,43.769440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Via San Zanobi 49 — základna</name>
+    <description><![CDATA[St 12. – Pá 14. 8. · Florencie · Praktické
+
+Vaše ubytování — klidná ulice v San Lorenzo, 8 minut pěšky od Santa Maria Novella, 6 od Mercato Centrale, 5 od Piazza San Marco, 10 od Duomu. Velká výhoda: Cenacolo di Sant'Apollonia i Chiostro dello Scalzo, obojí zdarma, máte doslova za rohem, takže je stihnete ráno před snídaní.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>11.253580,43.779580,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bastione del Parlascio</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Vyhlídka & foto
+
+Mohutná renesanční bašta na severovýchodním rohu hradeb — druhý vstup/výstup z ochozu a solidní vyhlídka zpět na věž. Zahrnuto ve vstupném na hradby (€5). Od věže 5 minut. Perfektní bod, kde ukončit hradby a vrátit se přes náměstí směrem na Pietrasantinu.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.399720,43.723560,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Porta Nuova / Piazza Manin</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Vyhlídka & foto
+
+Brána v středověké hradbě, kterou se vchází na Piazza dei Miracoli ze západu — a je to nejlepší možný "reveal": projdete tmavým obloukem a najednou před vámi bílé baptisterium, dóm a věž v jedné řadě. Turisté sem přicházejí zezadu z autobusů, vy máte ten filmový vstup zdarma. Cca 6 minut pěšky od S. Rossore. Na Piazza Manin je stín stromů a lavičky — dobré místo přehodit batoh a napít se.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.391690,43.722810,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Guelfa / Cittadella Vecchia</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Vyhlídka & foto
+
+Věž staré citadely u ústí Arna, ze které je nejneotřelejší panorama Pisy — řeka, střechy, silueta Miracoli v dálce a zelený park San Rossore. Vstup zdarma, ale otevírá se jen sporadicky, což je hlavní háček. Geograficky v dosahu (15–17 min od S. Rossore), časově konkuruje Miracoli. Před cestou ověřte, jestli je vůbec otevřeno.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>10.385840,43.715590,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bagni di Nerone (římské lázně)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Cihlové ruiny římských termálních lázní z 1.–2. století přímo u severní hradby — kus antické Pisy, kolem kterého denně projdou tisíce lidí a nikdo se nezastaví. Zvenku volně přístupné a zdarma. Cca 5 minut od věže. Pozor: přesnou polohu si ověřte v mapě na místě, tahle souřadnice má nízkou jistotu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.397950,43.724760,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Michele in Borgo — graffiti</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Románsko-gotická fasáda na Borgo Stretto, na jejíchž sloupech jsou dochované rytiny a graffiti ze 14.–16. století — doslova středověká komentářová sekce vyškrábaná do mramoru. Vstup zdarma, uvnitř klid a chlad. Hledejte nápisy ve výšce očí na levé straně portálu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.402140,43.717550,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Nicola — druhá šikmá věž</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Druhá šikmá věž Pisy, o které skoro nikdo neví: osmiboká románská kampanila s vnitřním šroubovicovým schodištěm, které prý studoval Bramante pro Vatikán. Kostel je zdarma, uvnitř Madona s dítětem od Nina Pisana. Cca 13 minut od S. Rossore, na Via Santa Maria — stinná studentská ulice s normálními cenami, dobrá alternativa k předraženému okolí věže.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.396640,43.718330,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Caterina d&#x27;Alessandria</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Dominikánský kostel s jednou z nejelegantnějších pisánsko-gotických mramorových fasád vůbec, stojící na velkém prázdném náměstí, kde nepotkáte skoro nikoho — kontrast s Miracoli je absurdní. Zdarma, uvnitř náhrobky a Nino Pisano. Nejlepší foto je zpříma z náměstí, fasáda krásně chytá dopolední světlo.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.404760,43.720020,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santo Stefano dei Cavalieri</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Vasariho kostel, jehož strop je ověšený skutečnými osmanskými válečnými prapory ukořistěnými v námořních bitvách 16.–17. století — taková sbírka jinde v Evropě není. Vstup pár eur, někdy zdarma, otevírací doba nepravidelná. Mimo dosah vašeho krátkého okna, ale kdybyste měli víc času, je to nejneotřelejší interiér v Pise.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.400520,43.719280,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre della Fame (Ugolino)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Hidden gem
+
+Budova s hodinami na Piazza dei Cavalieri v sobě skrývá zazděnou Torre della Muda — věž, kde nechali umřít hlady hraběte Ugolina se syny a vnuky. Právě tenhle příběh dal Dantovi 33. zpěv Pekla. Zvenku zdarma, uvnitř je knihovna Normale a dovnitř se nedostanete. Podívejte se na levý oblouk pod hodinami — tam byl vchod do věže.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>10.400160,43.719900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ponte di Mezzo</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Voda & koupání
+
+Střed města na Arnu: z mostu jsou obě lungarna v jednom záběru — okrové a pastelové paláce odražené v řece, klasický pohled na Pisu bez věže na fotce. Zdarma, nonstop. Nejlepší je západním směrem k Ponte Solferino, kde v ose stojí Santa Maria della Spina.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>10.400280,43.716110,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Borgo Stretto (arkády)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Středověká hlavní tepna Pisy pod souvislými arkádami — stín po celé délce i v poledne, což je v srpnu argument sám o sobě. Cestou historická Caffè dell'Ussero a vstupy do bočních uliček k tržnici. Zdarma. Pokud spěcháte zpět, arkády jsou příjemnější než přímá trasa po slunci.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.401900,43.717900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Duomo di Pisa</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Pruhovaný mramorový interiér, zlatý kazetový strop, Pisanova kazatelna a bronzová lampa, podle legendy inspirující Galileiho k úvahám o kyvadle. Vstup je zdarma, ale potřebujete bezplatnou vstupenku s časem z pokladny — bez papírku vás dovnitř nepustí. Pokladna je u Museo delle Sinopie na jižní straně náměstí, ne u věže.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.394720,43.723060,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Nazionale di San Matteo</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Bývalý klášter na Arnu s hustou sbírkou pisánské středověké malby a soch (Giovanni a Nino Pisano, Masaccio, Simone Martini) — a téměř prázdné sály, protože všichni stojí u věže. Vstup ~€5. Cca 25 minut od S. Rossore, jasně mimo vaše okno; poznamenáno pro případ delší návštěvy.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.406400,43.717720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo dell&#x27;Opera del Duomo</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Originály soch z fasád od Giovanniho Pisana, pokladnice a hlavně nádvoří s asi nejlepším "domácím" pohledem na věž zezadu — bez davu na trávníku. Součást vstupenky €11. Při dvou hodinách to obětujte ve prospěch Camposanta, pokud si musíte vybrat.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.397490,43.722380,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo delle Sinopie</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Přípravné kresby sejmuté z fresek Camposanta — obří červenohnědé skici v měřítku 1:1, syrovější a strašidelnější než hotové fresky. Naprosto přehlížené místo, obvykle poloprázdné, součást kombinované vstupenky €11. Je tu klimatizace a WC, a je to zároveň hlavní pokladna areálu.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.393380,43.722430,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Palazzo Blu</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+Pronikavě modrý palác na Lungarno Gambacorti s výstavami moderního umění a volně přístupným atriem — jeho barva je sama o sobě fotogenická anomálie mezi okrovými fasádami. Stálá sbírka bývá zdarma, velké výstavy ~€12. Uvnitř klimatizace a WC, kdyby vás vedro dostalo.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.398210,43.715330,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tuttomondo — Keith Haring</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Architektura & umění
+
+180 m² poslední veřejné murálky Keitha Haringa (červen 1989, rok před jeho smrtí) na zadní stěně kláštera Sant'Antonio Abate — 30 propletených figur o harmonii světa, jedno z mála Haringových děl zamýšlených jako trvalé. Zdarma, nonstop. Mimo dosah, pokud nechcete obětovat Piazza dei Miracoli. Nejlepší foto je z protějšího rohu s odstupem.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>10.397240,43.712320,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Piazza delle Vettovaglie</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Jídlo & pití
+
+Dokonale dochovaná renesanční tržní piazza s arkádami po celém obvodu, kdysi Piazza dei Porci — přes den ovoce, sýry a levné bufety, večer studentské epicentrum. Vizuálně nejautentičtější kus staré Pisy. Jídlo v okolí 5–10 €/os. Cca 20 minut od S. Rossore, tedy mimo dosah — ale nejlepší food stop, kdyby vlak přijel dřív.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>10.400930,43.718020,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pizzeria Il Montino (cecina)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Jídlo & pití
+
+Kultovní podnik místních v uličce za Piazza dei Cavalieri: cecina — křupavá placka z cizrnové mouky pečená v peci na dřevo, vložená do teplé focaccie — plus místní limonáda spuma. Kolem €3–5 za kus, celé jídlo pod 10 €/os. Otevřeno po–so cca 10:30–15:00, berte hotovost. Mimo dosah, pokud jdete na hradby.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>10.402050,43.719600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pizzeria da Teresa (u Bagni di Nerone)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Jídlo & pití
+
+Poctivá čtvrťová pizzerie od roku 1972 hned u římských lázní, severovýchodně od Miracoli — pizza al taglio, cecina, panini a chlazené pití do 10 €/os., zatímco 300 m odtud platíte turistickou daň. Od věže 5 minut a leží zhruba ve směru vašeho odchodu na sever, dá se sem zaskočit cestou k autobusu.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>10.398050,43.724700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fontanelle — pitná voda</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Praktické
+
+Po Pise je rozeseto hodně městských fontanelle s pitnou vodou zdarma a voda z kohoutku je v Itálii pitná — v srpnu je tohle váš nejlepší kamarád. Doplňte lahve tady i před odchodem na autobus. Fontánky bývají podél severní hradby a na Piazza Manin, hledejte litinové sloupky.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>10.395570,43.722850,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pisa S. Rossore (nádraží)</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Praktické
+
+Malé, skoro venkovské nádražíčko — a přitom nejbližší k Šikmé věži (Pisa Centrale je 2 km daleko). Vystoupíte, projdete podchodem a jdete na východ přes Via Andrea Pisano k Porta Nuova. Tohle je váš start v 11:11. Pozor: nádraží nemá úschovnu ani skoro žádné zázemí, jen automat; hned si nastavte tempo, jde se do vedra.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>10.387900,43.723960,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Veřejné WC Piazza del Duomo</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Praktické
+
+Oficiální placené veřejné WC v areálu Piazza dei Miracoli (kolem €0,80–1, mějte drobné) — v srpnu tu bývá fronta, tak jděte hned po příchodu, ne až na poslední chvíli. Zdarma je WC uvnitř muzeí, pokud máte vstupenku. Skočit si do kavárny bez konzumace vám tady většinou neprojde, personál to hlídá.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>10.392710,43.722440,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Úschovna batohů u věže</name>
+    <description><![CDATA[Pá 14. 8. 11:11–13:20 · Pisa · Praktické
+
+V uličkách kolem Via Bonanno Pisano a Piazza Manin je několik komerčních úschoven (Radical Storage, Stasher) v barech a obchodech, typicky €5 za kus a den, rezervace přes appku. Bezplatná úschovna je jen uvnitř věže a jen po dobu výstupu. Upřímný tip: na dvě hodiny se to nevyplatí — batohy unesete, hradby i kostely vás s nimi pustí.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>10.391350,43.722450,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Calata Doria — barevná fronta</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Vyhlídka & foto
+
+Řada extrémně úzkých pastelových domů-věží, které tvoří obrannou zeď borga přímo z vody — nejlepší je vyfotit je z mola nebo z lodi při připlutí. Na začátku Calaty je malá volná plážička, kde se dá skočit do vody mezi loďkami. Večer se rozsvítí okna a je to nejhezčí místo na procházku po večeři.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.836600,44.052300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Campiglia Tramonti — západ slunce</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Vyhlídka & foto
+
+Vesnička na hřebeni nad Cinque Terre, kam jede městský bus z La Spezia (linka 2, asi 3 €, 30 minut) — odtud jsou terasovité vinice padající 300 metrů kolmo do moře a nejlepší západ slunce v okolí bez lodí. Je to druhá strana hor, takže slunce zapadá přímo do moře. Poslední bus zpět jede brzy večer, ověřte si ho PŘED výjezdem, jinak jdete 2 hodiny dolů pěšky.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.796000,44.093000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fezzano</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Hidden gem
+
+Ještě menší a ještě méně turistická zátoka na téže lince 11/P, s malým přístavem a molem, ze kterého se dá skočit do vody při západu slunce. Nulová turistická infrastruktura, jen bar nebo dva — přesně to místo, kde večer sedí jen místní. Ideální kompromis, pokud nechcete tlačenici v Portovenere.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.835000,44.075000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Forte Bramapane</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Hidden gem
+
+Druhá z opuštěných pevností nad městem, od konce druhé světové války zarostlá a rozpadlá — kultovní cíl místních nedělních výletů a urbexových fotografů. Přístup po značených stezkách z okraje La Spezia. ŠEDÁ ZÓNA: neudržovaný objekt, propadlé stropy a nezajištěné šachty — dovnitř nechoďte, exteriér a výhled bohatě stačí.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.824000,44.129000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Forte Cavour, Palmaria</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Palmaria · Hidden gem
+
+Obří opuštěná pevnost z 19. století na vrcholu Palmarie, mezi ostrůvky vojenských ruin a bunkrů — kulisa jako z postapokalyptického filmu. ŠEDÁ ZÓNA: části areálu jsou vojenské nebo oplocené a vstup dovnitř není povolen, exteriér a cesta kolem se ale běžně chodí. Výstup asi 40 minut od Terrizza a nestihne se, pokud jedete na Palmarii až po 18:00.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.840200,44.043100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Skalní plotny pod San Pietro</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Dobrodružství
+
+Za kostelem San Pietro se dá po skalách sestoupit k plotnám, kde místní skáčou do hluboké vody přímo pod kostelem — brutálně estetická scenérie, ale žádné zábradlí. ŠEDÁ ZÓNA A RIZIKO: není to oficiální koupaliště, skoro nikde nejsou schody, skály jsou kluzké a při vlnách nebezpečné — nedělejte to, když je moře neklidné nebo tam nikdo není. Zdarma, nejlepší v bezvětří kolem 18:00.]]></description>
+    <styleUrl>#placemark-orange</styleUrl>
+    <Point><coordinates>9.833200,44.048400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fiascherino — skalní zátoky</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Lerici · Voda & koupání
+
+Dvě malé zátoky mezi Lerici a Tellarem, obklopené borovicemi a skalami, s výrazně čistší vodou než městské pláže. Dojedete busem Lerici–Tellaro a pak sejdete pěšinou dolů; část je volná pláž, část placený stabilimento. Sestup i výstup jsou strmé, počítejte 15 minut zpět nahoru na bus.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.922400,44.058800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Punta Secco, Palmaria</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Palmaria · Voda & koupání
+
+Molo a volná pláž na severním cípu ostrova, výchozí bod všech ostrovních stezek — plotny a hluboká voda hned u břehu. Skvělé pro rychlé namočení a návrat poslední lodí. Bez zázemí, počítejte s vlastním jídlem a pitím.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.841500,44.051700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Terenzo</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Lerici · Voda & koupání
+
+Zátoka se skutečnou písečnou pláží, malým hradem na ostrohu a vilou, kde bydleli Shelleyovi — 20 minut pěšky od Lerici po pobřežní promenádě. Nejlepší koupání v celém zálivu, které je dostupné busem a zdarma. Na 14. 8. večer se sem tradičně sjíždějí lidé na předferragostové oslavy, ale programy se zveřejňují na poslední chvíli.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.901300,44.080100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spiaggia dell&#x27;Olivo</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Voda & koupání
+
+Největší volná pláž Portovenere, oblázky s pískem, pár minut pěšky severně od centra podél silnice — dostupná bez lodi, takže ideální na rychlé osvěžení hned po příjezdu busem. Zdarma, bez servisu, vezměte si vlastní vodu. Odpoledne tu je stín z útesu poměrně brzy.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.837300,44.056800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>CAMeC — moderní umění</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Architektura & umění
+
+Centro Arte Moderna e Contemporanea na Piazza Cesare Battisti, s dobrou sbírkou italského poválečného umění a měnícími se výstavami. Je součástí kumulované vstupenky za 14 €, která platí 72 hodin a zahrnuje i Castello San Giorgio a Museo Lia. Otevřeno do pozdního odpoledne — hodí se jako záložní plán, kdyby se pokazilo počasí.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.827200,44.108000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lerici — hrad nad zátokou</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Lerici · Architektura & umění
+
+Pisánsko-janovská pevnost na skále nad barevným městečkem na druhé straně zálivu — jiná, měkčí verze Portovenere, s promenádou a plážemi. Jede sem bus ATC z La Spezia (30–40 minut, 3 €), poslední spoje zpět v létě bývají kolem 23:00, ale ověřte si to u řidiče, jinak uvíznete. Upřímně: v jeden večer se stihne buď Lerici, NEBO Portovenere — a Portovenere je vizuálně silnější.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.911400,44.075500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Museo Amedeo Lia</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Architektura & umění
+
+Soukromá sbírka v bývalém františkánském klášteře na Via del Prione — Tizian, Bellini, Pontormo a k tomu ohromující sbírka miniatur a skla, v prostoru, který sám o sobě stojí za vstup. Naprosto nedoceněné muzeum na italské poměry, skoro prázdné. Vstup zvlášť nebo v kombinované vstupence za 14 €.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.823400,44.106800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Palazzo delle Poste — futuristická mozaika</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Architektura & umění
+
+Racionalistická pošta z 30. let ukrývá uvnitř obří futuristickou mozaiku od Fillii — jeden z nejlepších příkladů italského futurismu v architektuře, o kterém skoro nikdo neví. Vstup zdarma během otevírací doby pošty, tedy všední dny dopoledne, takže 14. 8. odpoledne to spíš nestihnete. Exteriér ale stojí za pohled.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.829300,44.107200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Piazza Verdi — instalace Daniela Burena</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Architektura & umění
+
+Náměstí přestavěné podle návrhu francouzského konceptualisty Daniela Burena — pruhované sloupy, barevná zrcadlová pole a geometrie, kterou buď milujete, nebo nenávidíte. Místní ji dodnes proklínají, což je samo o sobě dobrý důvod se tam jít podívat. V noci nasvícené, dobré na foto, cestou k nábřeží.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.829700,44.107400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Quartiere Umbertino — liberty fasády</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Architektura & umění
+
+Čtvrť severně od centra, postavená kolem roku 1900 pro námořní arzenál — pravidelná mřížka ulic s nečekaně bohatými secesními fasádami, štuky, balkony a kovanými zábradlími. Je to sešlé, žité a fotograficky mnohem zajímavější než vylízané centrum. Zdarma, klidně cestou z ubytování do centra.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.828300,44.109300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Lorenzo, Portovenere</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Architektura & umění
+
+Románský kostel z roku 1130 s pruhovanou fasádou, schovaný nad hlavní ulicí na cestě k hradu — turisté ho většinou minou. Uvnitř je uctívána Madonna Bianca, patronka Portovenere. Vstup zdarma, jen pár minut, ale je to klidná pauza uprostřed davu.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.835000,44.051200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Palmaria — Terrizzo</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Palmaria · Příroda & stezky
+
+Přístaviště na straně ostrova obrácené k Portovenere — odtud vede okružní stezka kolem celého ostrova (2–3 hodiny) a kratší napojení na Pozzale. Nejlepší efekt: přeplout na Palmarii jen na hodinu, dát si koupel a dívat se na Portovenere zvenčí, což je pohled, který z pevniny nemáte. Na ostrově je jen pár barů, vodu si vezměte s sebou.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>9.840800,44.051000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Aperitivo na Porto Mirabello</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Jachtařský přístav a bary kolem terminálu dělají aperitivo přímo u vody — spritz kolem 6–8 € a k němu švédský stůl slaných věcí, což bývá levnější než večeře. Bývají tu DJ sety a živé kapely, obzvlášť o víkendu před svátkem. Je to trochu turističtější než centrum, ale výhled na kopce a lodě to vyváží.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.833000,44.100600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Bary na Corso Cavour</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Okolí Corso Cavour a Piazza Cavour je ta část města, kde večer sedí spezzini, ne turisté — koktejlové bary, pivnice a vinárny v hustotě několik na blok. Aperitivo vyjde na 5–7 €, začíná se kolem 19:00 a jede se do noci. Skvělá volba, pokud se z Portovenere vrátíte posledním busem kolem jedenácté a chcete ještě někam sednout.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.826000,44.108200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gran Gusto — plněná focaccia</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Via del Prione 162: 47 druhů plněné focaccie, každá pojmenovaná po jedné čtvrti La Spezia, se surovinami DOP a IGP. Rychlé, levné (5–7 € za pořádnou porci) a ideální na zabalení sendviče na zítřejší trek v Cinque Terre. Vezměte si dvě navíc na ráno — 15. 8. je svátek a spousta krámů bude zavřená.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.824400,44.106300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Le Grazie — muscoli a Ferragosto</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Jídlo & pití
+
+Rybářská vesnička na trase busu 11/P mezi La Spezií a Portovenere, plná mušlových farem — tady se jedí pověstné muscoli ripieni, plněné slávky, mnohem levněji než v Portovenere. Bonus: 15.–17. srpna se tu koná Ferragosto in Borgata s jídlem a hudbou, takže 14. 8. večer už se obvykle staví stánky. Jízdné stejné jako do Portovenere, jen vystoupíte dřív.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.835300,44.067700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mercato coperto, Piazza Cavour</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Zastřešená tržnice a venkovní stánky na Piazza Cavour — ryby, sýry, focaccia, ovoce, vše výrazně levněji než v podnicích. Funguje dopoledne zhruba 7:00–13:00, takže 14. 8. odpoledne už nic nekoupíte; okolní bary a lokály ale jedou večer a sedí tam místní. Pro nákup na trek je lepší supermarket.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.825300,44.108200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spezialità — focacceria bistrò</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Via del Prione 5/7, hned u nábřežního konce ulice — focaccia, kterou hosté opakovaně označují za nejlepší, co kdy jedli, plus bistro menu. Dobré na rychlou zastávku před odjezdem busu 11/P do Portovenere. Ceny nízké, otevírá i na aperitivo.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.828700,44.104900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vinárny E.C.L.E.T.T.I.C.A. a La Scuna</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Jídlo & pití
+
+Dva podniky, které se v místních přehledech opakují: E.C.L.E.T.T.I.C.A. dělá koktejly na místních surovinách, La Scuna je poctivá sousedská vinárna s pivem. Sklenka ligurského Vermentina kolem 4–5 €, atmosféra bez turistického nádechu. Obojí je v docházkové vzdálenosti od Via del Prione.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.827000,44.106500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ferragosto — co se kdy koná</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Praktické
+
+Ověřeno: velká Festa della Madonna Bianca v Portovenere je až 17. 8. (přes 2000 pochodní na skalách i v Byronově jeskyni), takže ji nestihnete. Palio del Golfo s ohňostrojem v La Spezii proběhl 2. 8., Ferragosto in Borgata v Le Grazie je 15.–17. 8. Na 14. 8. není potvrzená žádná velká oficiální akce, ale je to pátek před svátkem: bary, nábřeží a Via del Prione budou plné a festival La Spezia Estate běží do 16. 8. Program si ověřte na visitspezia.it nebo na plakátech ve městě.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.836600,44.052430,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>FlixBus zastávka Via Carducci 128</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Praktické
+
+Sem přijedete ve 14:55 — je to zajížďka k parkovišti na východní straně města, ne v centru. Do centra a na nádraží jsou to asi 3 km / 35 minut pěšky, počítejte s městským busem nebo svižnou chůzí. Na ubytování na Via Severino Ferrari 101 je to naopak jen asi 1 km na západ, tedy 12–15 minut pěšky — check-in stihnete pohodlně do 15:20.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.847510,44.113770,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>La Spezia Centrale</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Praktické
+
+Odtud jede váš vlak v 09:20 do Riomaggiore. Z centra je to 15–20 minut pěšky do kopce, z ubytování na Via Severino Ferrari počítejte 30–35 minut pěšky nebo městský bus. Ráno 15. 8. je státní svátek: automaty fungují, ale fronty na Cinque Terre Card bývají brutální, takže buďte na nádraží aspoň 30 minut předem. Vlak do Riomaggiore trvá jen 8 minut.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.810400,44.107400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lékárna a pohotovostní služba</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Praktické
+
+Lékárny jsou hustě rozeseté po Corso Cavour a Via del Prione; přes svátek 15. 8. funguje rotační pohotovostní služba (farmacia di turno), seznam visí ve výloze každé lékárny. Kupte si opalovací krém a náplasti na puchýře už 14. večer. Evropský průkaz pojištěnce tady funguje.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.826000,44.107000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Přívoz na Palmarii</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · Portovenere · Praktické
+
+Z Calaty Doria jezdí Cooperativa Barcaioli na ostrov Palmaria prakticky nonstop, plavba trvá asi 5 minut, obousměrně 5–7 €. V létě jezdí i k Pozzale a Punta Secco. Poslední zpáteční spoje jsou brzy večer — než nasednete, zeptejte se na poslední odjezd zpět, jinak zůstanete na ostrově, kde není žádná veřejná doprava.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.836800,44.052500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ubytování Via Severino Ferrari 101</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Praktické
+
+Esterina Rooms, severovýchodní část La Spezia, asi 1 km od FlixBus zastávky a 2 km od centra a nábřeží. Check-in 15:00–19:00 je úzké okno — jděte tam rovnou od busu, odložte batohy a hned pokračujte do centra na bus 11/P, ať jste v Portovenere kolem 17:00. Souřadnice odpovídají středu ulice, číslo 101 může být o pár desítek metrů jinde.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.835940,44.115060,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Zastávka busu 11/P, Via Chiodo</name>
+    <description><![CDATA[Pá 14. 8. odpoledne · La Spezia · Praktické
+
+Hlavní nástupní místo linky ATC 11/P do Portovenere v centru La Spezia, u nábřeží. V létě jezdí zhruba každých 20–30 minut od rána do cca 23:00; po 20:00 už jen jednou za hodinu, jízda 30–35 minut. Lístek asi 3 € kupte předem v tabaccherii, u řidiče je dvakrát dražší, a rovnou si vezměte i zpáteční, protože večer v Portovenere může být zavřeno.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.829100,44.103100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Case Pianca — výhled na Corniglii</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Vyhlídka & foto
+
+Rozptýlené kamenné domky na konci stezky 586, odkud se poprvé otevře pohled na Corniglii sedící na útesu jako pevnost. Odsud začíná schodištěm sestup po 587 dolů do vesnice — dávejte pozor, je strmý a kluzký. Nejlepší záběr je pár metrů před prvním schodem, s vinicemi v popředí.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.713300,44.118000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Molo — ohňostroj, ale POZOR na datum</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Vyhlídka & foto
+
+Rybářské molo pod starým městem je místo, odkud se v Monterossu odpalují ohňostroje. Pozor na datum: hlavní fuochi a mare v Monterossu bývají v předvečer, tedy 14. 8., zatímco 15. 8. je poutní slavnost Nostra Signora di Soviore nahoře ve svatyni. Odpoledne 15. 8. bývají v ulicích řemeslné trhy a živá hudba — program ověřte na prolocomonterosso.it těsně před cestou.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.655900,44.144800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santuario di San Bernardino</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Vyhlídka & foto
+
+Svatyně Nostra Signora delle Grazie v osadě San Bernardino ve zhruba 350 metrech, s balkonovou vyhlídkou na Corniglii a Guvano z ptačí perspektivy. Sem se prakticky nikdo z jednodenních turistů nedostane. Přístup po stezce 587 nebo z Cornigli nahoru asi hodinu, alternativně autobusem.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.709500,44.129200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Aurora</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Vyhlídka & foto
+
+Obranná věž z 16. století na ostrohu, který dělí starou část Monterossa od Feginy — dnes je v ní bar s terasou nad mořem. Panorama na obě zátoky najednou, ideální na aperitivo kolem půl osmé. Drink 10–14 €, ale za tenhle výhled na Ferragosto je to férové. Kolem věže vede i veřejná pěšina zdarma.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.652900,44.145700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vyhlídka na Riomaggiore ze stezky 531</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Vyhlídka & foto
+
+Sentiero 531 stoupá vysoko nad vesnicí ke Colle del Telegrafo a asi po 20 minutách nabízí záběr, kdy Riomaggiore leží celé pod vámi jako v miniatuře. Ráno je slunce za zády, ideální světlo. Cesta je zdarma (mimo placený úsek Modré stezky) a prakticky prázdná i o svátcích.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.743400,44.099600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Groppo — vesnička vinařů</name>
+    <description><![CDATA[So 15. 8. + noc · Groppo · Hidden gem
+
+Několik domů na hřebeni nad Manarolou, kde sídlí družstvo Cantina Cinque Terre — tady se lisuje sciacchetrà z hroznů sušených na půdách. Zastávka mimo všechny itineráře, tři minuty stranou z cesty na Volastru. Občas nabízejí ochutnávku; i kdyby ne, výhled na terasy stojí za odbočku.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.722700,44.110900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Guvano beach — legenda, ale NEDOSTUPNÁ</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Hidden gem
+
+Mýtická nudistická pláž mezi Cornigliou a Vernazzou, kam se od 60. let chodilo starým železničním tunelem — ten je od roku 2016 trvale zamřížovaný. Pěšina se v roce 2012 zřítila a je i v roce 2026 ve velmi špatném stavu bez plánu obnovy. ŠEDÁ ZÓNA: pokusy o sestup jsou nebezpečné a fakticky neschůdné; jediný legální přístup je kajakem nebo lodí. Berte to jako "vidět shora z trasy", ne jako cíl.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.705200,44.123700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Hřbitov na Punta Bonfiglio</name>
+    <description><![CDATA[So 15. 8. + noc · Manarola · Hidden gem
+
+Nad vyhlídkou stojí obecní hřbitov s arkádami visícími nad mořem — jedno z nejklidnějších a nejzvláštnějších míst v celém kraji. Turisté sem prakticky nechodí, i když jsou to 3 minuty od nejfotografovanějšího místa Ligurie. Chovejte se tiše a s respektem.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.727500,44.104800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santuario Madonna di Reggio</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Hidden gem
+
+Svatyně nad Vernazzou dostupná po stezce 508 od nádraží — 2 km mírného stoupání cestou lemovanou kapličkami křížové cesty a starými cypřiši. Nádherně chladný stín a naprosté ticho, jediné takové místo v okolí. Nahoru asi 45 minut; je součástí Via dei Santuari spojující všech pět svatyní Cinque Terre.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.685800,44.143300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santuario di Soviore — hlavní pouť 15. 8.</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Hidden gem
+
+Nejstarší svatyně Ligurie ve 464 metrech nad Monterossem, obklopená kaštanovým lesem, s ubytovnou pro poutníky a barem s terasou. 15. srpna je tady hlavní svátek celé diecéze — přesně ta akce, která z Ferragosta v Monterossu dělá něco víc než jen přeplněnou pláž. Výstup po stezce 591 asi hodinu, nebo autobusem, který je s trekkingovou kartou zdarma.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.669000,44.153000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spiaggia del Canneto</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Hidden gem
+
+Divoká zátoka pod Punta Mesco se sladkovodním pramínkem stékajícím po skále — nejlépe utajená pláž kraje, protože se sem prakticky nedá jinak než lodí nebo kajakem. Nikdy tu není dav. Pěší sestup ze stezky je velmi obtížný a nedoporučuje se; berte to jako cíl pro kajak, půjčovna v Monterossu má 15–20 € za hodinu.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.637000,44.142000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Guardiola</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Hidden gem
+
+Stará protipirátská bašta a přírodovědná stezka na útesu jihovýchodně od přístavu — devět z deseti návštěvníků Cinque Terre sem nikdy nezajde. Cesta vede terasami s agáve a opunciemi, na konci je plošina přímo nad mořem. 15 minut od přístavu, občas částečně uzavřeno kvůli údržbě.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.741800,44.096000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Manarola — skoky do vody v přístavu</name>
+    <description><![CDATA[So 15. 8. + noc · Manarola · Voda & koupání
+
+Betonová rampa a skalní plotny v úzké rokli přístavu, kde se skáče z výšky 2–5 metrů do křišťálové vody. Nejfotogeničtější koupání v celém Cinque Terre, protože lidi skáčou přímo pod barevnými domy. Voda je hluboká hned u břehu, ale pozor na lodě a na vlny narážející do skal. Sprcha a pitná voda je pár metrů nad rampou.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.729600,44.105700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Přístav Vernazza — koupání na náměstí</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Voda & koupání
+
+Malá písčito-oblázková pláž rovnou na Piazza Marconi a za vlnolamem skalní plotny s hlubokou vodou. Skákat se dá z mola vpravo od kostela, místní kluci to dělají celý den. O Ferragostu je pláž nacpaná, ale skály za vlnolamem bývají volnější. Sladká voda na opláchnutí je u fontány na náměstí.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.684000,44.135200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Riomaggiore marina — skoky ze skal</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Voda & koupání
+
+Pod barevnými domy je maličký přístav a napravo od něj skalní plotny s kovovými žebříky — klasické místo místních na skok do hluboké modré vody. V samotném přístavišti neplavte kvůli lodím, jděte za vlnolam vpravo. V 09:40 tu budete skoro sami, v poledne je nabito. Voda má v půlce srpna kolem 25–26 °C.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.739680,44.096690,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Skalní plotny za Santa Margherita</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Voda & koupání
+
+Za gotickým kostelem stojícím přímo na skále u moře jsou ploché kameny, kde se dá ležet a skákat do vody — menší dav než na pláži v přístavu. Voda je tu hlubší a čistší. Pozor při vlnobití, kameny jsou kluzké od řas.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.683300,44.134900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spiaggia di Fossola</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Voda & koupání
+
+Divoká oblázková pláž jižně od přístavu, sestup po neoznačené stezce mezi skalami. Žádné služby, žádní plavčíci, silný příboj — jen pro zdatné plavce. Právě proto tu i o Ferragostu potkáte spíš místní kluky než davy.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.738000,44.095400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spiaggia libera Fegina</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Voda & koupání
+
+Nejdelší pláž Cinque Terre, částečně placené sekce s lehátky (20–35 € za den) a částečně volné úseky — ty najdete blíž k Neptunovi a na okrajích. Písek je spíš hrubý štěrk, ale voda je klidná a jsou tu sprchy a WC. Na Ferragosto je před pátou nabito; po osmé večer se to vylidní a pláž je vaše.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.646200,44.146900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Castello di Riomaggiore</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Architektura & umění
+
+Zbytky hradu z roku 1260 na hřebínku nad vesnicí, výstup 10 minut po schodech z Via Colombo. Terasa nabízí pohled shora do rokle plné barevných domů — jiný záběr než ten instagramový z přístavu. Vstup obvykle zdarma nebo symbolický, brzy ráno bez lidí.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.738700,44.098800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Convento dei Cappuccini</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Architektura & umění
+
+Klášter ze 17. století na kopci mezi starým městem a Feginou, se šachovnicovou fasádou kostela a Van Dyckovým Ukřižováním uvnitř. Terasa před klášterem je jedno z nejlepších míst na západ slunce v Monterossu a je zdarma. Výstup po cypřišové aleji 10 minut z Piazza Garibaldi.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.653900,44.146200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Il Gigante — 14metrový Neptun</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Architektura & umění
+
+Čtrnáct metrů vysoký betonový Neptun z roku 1910 vytesaný do skály na konci pláže Fegina, dnes bez trojzubce i bez paží — rozbila je bomba a bouře. Působí jako kulisa z Felliniho filmu a v noci nasvícený je ještě divnější. Zdarma, kdykoli, a je to jeden z nejlepších nočních foto spotů.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.644500,44.147300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Scalinata Lardarina — 382 schodů</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Architektura & umění
+
+Cihlové schodiště s 382 schody ve 33 ramenech spojující nádraží s vesnicí — jediný pěší přístup do Cornigli. Schody jsou nízké a široké, s lavičkami, takže to není tak zlé, jak to zní; 15–20 minut nahoru. Alternativou je shuttle bus, který je s trekkingovou kartou zdarma.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.711800,44.118700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Volastra — Nostra Signora della Salute</name>
+    <description><![CDATA[So 15. 8. + noc · Volastra · Architektura & umění
+
+Románský kostelík na náměstíčku ve 335 metrech, odkud startuje nejkrásnější stezka celého regionu. Vesnička má pár desítek obyvatel, jednu fontánu a nulové davy — naprostý kontrast k Manarole o půl hodiny níž. Doplňte tu vodu, další fontána bude až v Cornigli.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.719000,44.113100,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sentiero 587 — sestup do Cornigli</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Příroda & stezky
+
+Strmé schodiště mezi vinicemi a olivovníky, které vás z hřebene spustí přímo do Cornigli za zhruba 30 minut. Kolena to cítí, ale je to nejrychlejší cesta dolů. Nahoře se 587 napojuje na 507 směrem na Cigolettu a San Bernardino — to je varianta, když chcete den prodloužit a úplně utéct davům.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>9.711000,44.121000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Terasovité vinice nad Manarolou</name>
+    <description><![CDATA[So 15. 8. + noc · Manarola · Příroda & stezky
+
+Cestou po 506 procházíte krajinou, která je vlastně největší lidskou stavbou Ligurie — 7000 km suchých zídek postavených po staletí ručně. Uvidíte i monorail, jednokolejku, na které vinaři vozí bedny s hrozny po svahu. Nejlepší světlo je pozdě odpoledne, ale vy tudy půjdete v poledne — držte se stínu borovic.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>9.723500,44.110000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>A Piè de Mà — terasa nad mořem</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Jídlo & pití
+
+Bar přímo na začátku Via dell'Amore, terasa visí nad vodou 30 metrů nad hladinou. Ideální na espresso a focacciu v 10:30, než vám v 11:00 pustí turniket. Ceny turistické (káva 2–2,50 €, sklenka vína 5–7 €), ale výhled to zaplatí.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.735200,44.100300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Ananasso Bar</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Jídlo & pití
+
+Maličký bar přímo na Piazza Marconi s pár stolky u vody — legendární spritz při západu slunce, kdy se náměstí zbarví do oranžova. Spritz 6–8 €, pivo 4–5 €. Rezervace neexistuje, chce to sednout si dřív a vydržet.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.684100,44.135200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Batti Batti — focacceria</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Jídlo & pití
+
+Malá focacceria kousek od náměstí, kde dělají focacciu a smažené ryby v kornoutu levněji než v Riomaggiore. Fritto misto 8–10 €, focaccia 2,50–4 €. Ideální jídlo do ruky, když nechcete ztratit hodinu sezením v restauraci.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.684400,44.135700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Enoteca Dau Cila</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Jídlo & pití
+
+Vinárna v bývalé loděnici u přístavu, uvnitř jeskynní atmosféra, venku terasa přímo nad vodou. Nejlepší místo v Riomaggiore ochutnat sciacchetrà, sladké slámové víno z místních teras, sklenka 8–12 €. Malá lahev na cestu stojí kolem 25–35 € a je to nejlepší suvenýr z Cinque Terre.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.739400,44.097000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Enoteca Internazionale</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Jídlo & pití
+
+Vinárna na Via Roma se zahrádkou pod citroníky, kde si dáte poctivé místní bílé z Cinque Terre a sciacchetrà. Majitelka je sommelierka a poradí. Sklenka 6–9 €, degustace tří vín kolem 20 €. Zavírá dřív než Fast Bar, zařaďte hned po západu slunce.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.654500,44.145400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Focaccia a gelato na Via Discovolo</name>
+    <description><![CDATA[So 15. 8. + noc · Manarola · Jídlo & pití
+
+Hlavní ulice Manaroly má několik pekáren s ligurskou focacciou — klasická slaná s olivovým olejem kolem 2–3 €, s pestem nebo cibulí 3–4 €. Vezměte si dvojnásobek, než plánujete: čeká vás 1200 schodů. Farinatu tu často pečou v poledne a bývá vyprodaná do druhé.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.727000,44.106600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gelateria Alberto — bazalkové gelato</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Jídlo & pití
+
+Na Via Fieschi v Cornigli dělají zmrzlinu z místní bazalky a z medu — chuť, kterou jinde nekoupíte, a naprosto dokonalá po výstupu z Volastry. Kopeček kolem 3 €, dvojka 4,50 €. Fronta 5–10 minut i v sezoně, což je na Cinque Terre nic.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.708800,44.119700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Il Frantoio — focaccia Monterosso</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Jídlo & pití
+
+Malá pekárna ve staré části, kde pečou focacciu a pizzu al taglio celý den až do večera — nejlepší ligurská focaccia s olivami a cibulí, jaké se v Monterossu dopracujete. Kus 2,50–4 €. Kupte si zásobu na noc, protože po desáté večer seženete jídlo už jen v barech.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.654400,44.145800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Il Pescato Cucinato — fritto misto</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Jídlo & pití
+
+Legendární kornout smažených ryb na Via Colombo: sardele, krevety, kalamáry, malé chobotničky, vše čerstvé a smažené na počkání. Cena 7–12 € podle velikosti kornoutu. Fronta bývá 15–30 minut, o Ferragostu klidně 45 — jděte před dvanáctou nebo si to nechte na jinou vesnici.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.737000,44.098800,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Il Pirata delle Cinque Terre</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Jídlo & pití
+
+Kultovní podnik dvou sicilských dvojčat na Via Gavino, kde se snídá cannoli a granita a kde obsluha dělá show. Otevírají brzy ráno a mají i pesto a těstoviny přes den. Ceny mírné (cannolo 3–4 €, granita 4 €), ale připravte se, že vás bratři vezmou do parády.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.685200,44.137200,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Corniglia nádraží</name>
+    <description><![CDATA[So 15. 8. + noc · Corniglia · Praktické
+
+Malé nádraží dole u moře na úpatí Lardariny; odsud je do Vernazzy vlakem 3 minuty. Doporučuju tuhle zkratku využít — ušetříte hodinu a půl v odpoledním vedru a stihnete klidně Vernazzu i celý úsek do Monterossa. O Ferragostu jezdí Cinque Terre Express normálně, jen bývá nacpaný a někdy má 10–20 minut zpoždění.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.712800,44.118700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Manarola nádraží a tunel</name>
+    <description><![CDATA[So 15. 8. + noc · Manarola · Praktické
+
+Výstup z Via dell'Amore vás vyplivne k nádraží; do vesnice se jde krátkým osvětleným tunelem, který vyústí na hlavní Via Discovolo. V tunelu je chladno, což je v poledním vedru vítaná pauza. U nádraží je pitná fontánka a WC.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.726200,44.107300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Poslední hodiny před vlakem v 05:14</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Praktické
+
+Realita: 16. 8. vychází v Monterossu slunce až kolem 06:30 a rozednívá se kolem šesté — ve vlaku v 05:14 bude ještě tma, takže východ slunce uvidíte až z vlaku. Nejhezčí poslední hodina je 03:30–05:00 u Neptuna a na prázdné promenádě, kdy je moře černé a město ticho. Od 04:45 buďte na nádraží. Noc bývá v půli srpna kolem 20–22 °C, ale u moře fouká — vezměte tenkou bundu a izolační fólii. Mobily nabijte už večer v baru.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.644000,44.147500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pro Loco Monterosso — úschovna</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Praktické
+
+Turistická kancelář na Via Fegina kousek od nádraží dělá úschovnu: velký kufr 8 € na 24 hodin (5 € na 5 hodin), malý batoh 5 € na den, obvykle 8:00–19:00. Na váš scénář s celou nocí venku je to jen na část dne — v noci si batohy ponesete. Nonstop alternativy nabízí Radical Storage nebo Bounce přes partnery ve městě od 4–6 € na den.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.647900,44.146600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Riomaggiore nádraží — start dne</name>
+    <description><![CDATA[So 15. 8. + noc · Riomaggiore · Praktické
+
+Sem dorazíte v 09:26; nádraží je zčásti v tunelu a východ vede rovnou nad přístav. Hned u výstupu je infopoint Parku (validace trekkingové karty) a veřejné WC, s kartou zdarma. Na Ferragosto tu bude od desáté mumraj — využijte první hodinu naplno, dokud jsou uličky prázdné. Wi-Fi wifi5terre chytá právě u nádraží a infopointů.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.736600,44.099650,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Spaní na pláži — právní realita</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Praktické
+
+ŠEDÁ ZÓNA: v Ligurii platí obecný zákaz nocování na plážích, pokuty se pohybují zhruba 100–500 € a v chráněné mořské oblasti Cinque Terre se sazba zdvojnásobuje; postavení stanu je posuzováno jako neoprávněný zábor veřejného pozemku a v létě se kontroluje intenzivně. Pár hodin ležení na dece bývá v praxi tolerováno, spacák a stan už ne. Bezpečnější varianta: zůstat v barech na Piazza Garibaldi, pak sedět na promenádě nebo na nádraží.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.646500,44.146900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Sprchy a pitná voda na Fegině</name>
+    <description><![CDATA[So 15. 8. + noc · Monterosso · Praktické
+
+Podél promenády Fegina jsou veřejné sprchy u vstupů na pláž a několik pitných fontánek — s tímhle přežijete noc bez ubytování docela civilizovaně. Sprchy fungují přes den, v noci bývají vypnuté, takže se opláchněte před devátou večer. Veřejná WC jsou u nádraží a u Pro Loco a s trekkingovou kartou zdarma.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.647000,44.147000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Vernazza nádraží</name>
+    <description><![CDATA[So 15. 8. + noc · Vernazza · Praktické
+
+Nádraží ústí přímo do hlavní ulice Via Roma, odkud je to k přístavu 200 metrů. Tady je i vstup na Modrou stezku do Monterossa s kontrolou karty. V hlavní sezoně bývá tenhle úsek v nejvytíženějších dnech jednosměrný z Monterossa do Vernazzy — před vstupem si ověřte směr u strážce, ať vás nepošlou zpátky.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.685800,44.136400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Osa Via Vittor Pisani</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Vyhlídka & foto
+
+Bulvár lemovaný platany a racionalistickými bloky, který vede přesně v ose od Centrale — nejlepší místo, odkud vyfotit nádraží celé, se zmenšující se perspektivou stromů. Jděte od nádraží po Via Vittor Pisani 10 minut a otočte se; zdarma. Skvělá procházková varianta, když nechcete nikam jezdit metrem.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.196800,45.479400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Palazzo Lombardia — vyhlídka zdarma</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Vyhlídka & foto
+
+Nejvyšší veřejně přístupná vyhlídka v Miláně zdarma — 161 metrů, 360° na Alpy, Duomo i Porta Nuova. Historicky otevřeno jen v neděli asi 10:00–18:00, což je přesně váš den, ale v srpnu bývá zavřeno — OVĚŘTE DEN PŘEDEM. Z Centrale 8 minut pěšky po Via Melchiorre Gioia; kdyby to vyšlo, je to nejlepší vyhlídka ve vašem okně.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.196600,45.484400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Střecha Duomu — NESTIHNETE</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Vyhlídka & foto
+
+Procházka mezi fiálami po střeše katedrály je jeden z nejsilnějších zážitků v Evropě, ale ve vašem okně to nejde. Otevírá se asi v 9:00, u vstupu je fronta na bezpečnostní kontrolu, výtah 15–16 €, pěšky 10–12 € a 253 schodů, samotná návštěva minimálně 45–60 minut. Plus 40 minut cesty znamená zaručeně zmeškaný Malpensa Express. Nechte na příště.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.192300,45.464000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Unicredit Tower a jehla</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Vyhlídka & foto
+
+Nejvyšší budova Itálie, 231 metrů se špicí, od Césara Pelliho — zakřivená skleněná stěna s jehlou, která se ráno chová jako obří zrcadlo. Stojí přímo na Piazza Gae Aulenti, takže je to součást stejné zastávky, zdarma. Ideální je fotit ji zespodu z paty věže do ultraširokoúhlé perspektivy.]]></description>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>9.191100,45.484400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Albergo Diurno Venezia</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Hidden gem
+
+Podzemní art-deco lázně a holičství z roku 1926 pod Piazza Oberdan — mramor, mozaiky, opuštěné kabiny, nejkrásnější zapomenutý interiér v Miláně. Je to objekt FAI a otevírá jen na ohlášené prohlídky, v běžnou srpnovou neděli bude ZAVŘENO — nechoďte tam naslepo. Vstup je přímo v podchodu metra Porta Venezia, asi 12 minut z Centrale.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.206200,45.475400,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Monumentale — Tempio Crematorio</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Hidden gem
+
+První krematorium v Itálii (1876), klasicistní chrám v zadní části hřbitova, kolem něj nejsurreálnější sekce hrobek. Je asi 7–8 minut chůze od vstupu, takže při třiceti minutách uvnitř je to hraniční — radši jen když poletíte. Zdarma.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.175500,45.487500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Padiglione Reale — královský salonek</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Hidden gem
+
+Utajený art-deco královský salonek Savojských nad kolejemi — intarzované podlahy, empírové mramory, Sala delle Armi s válečnými reliéfy. Prakticky nedostupné: chodí se tam jen na rezervovanou prohlídku (salereali@fondazionefs.it, rezervace po–pá), v neděli ráno bez rezervace nepustí. Zvenku aspoň zahlédnete zdobený portál z Piazza Luigi di Savoia, 3 minuty od haly.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.206200,45.486600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>San Bernardino alle Ossa — kostnice</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Hidden gem
+
+Kostnice obložená tisíci lebek a kostí uspořádaných do rokokových ornamentů, s růžovou freskovou klenbou — nejpodivnější místnost v Miláně. Pozor: v neděli je samotný ossario obvykle ZAVŘENÝ (svatyně bývá jen 9:30–12:00), takže je velká šance, že dojdete k zamčeným dveřím. Od Duomu 5 minut pěšky, zdarma — jen pokud si to dopředu ověříte telefonem.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.192780,45.462220,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Santa Maria presso San Satiro</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Hidden gem
+
+Bramanteho falešná perspektiva — chór, který ve skutečnosti měří 97 centimetrů, ale vypadá jako hluboká apsida; renesanční trik, který dodnes rozbíjí mozek. Jsou to 3 minuty pěšky od Duomu po Via Torino, vstup zdarma, v neděli otevřeno kolem bohoslužeb, přibližně od deváté. Reálně jen jako bonus k variantě s Duomem.]]></description>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>9.186940,45.462780,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Darsena a Navigli — NESTIHNETE</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Voda & koupání
+
+Kanály, přístavní bazén a nejhezčí milánská voda — ale metrem M2 z Centrale na Porta Genova je to 20 minut jízdy plus chůze, tedy 55–65 minut tam a zpět. Ve vašem okně to nejde, navíc je Navigli ráno mrtvé (žije večer) a v neděli po Ferragostu skoro všechno zavřené. Zařazeno pro úplnost jako jasné ne.]]></description>
+    <styleUrl>#placemark-blue</styleUrl>
+    <Point><coordinates>9.176900,45.451700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa Galimberti</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Liberty dům z roku 1905 celý pokrytý keramickými panely s ženskými figurami a kovanými balkony — milánská secese v nejdivočejší podobě. Metro M3 z Centrale jednu zastávku na Repubblica a 8 minut pěšky, celkem asi 15 minut. Zdarma, jen zvenku, kdykoli — dobrá volba, pokud nechcete jezdit až na Monumentale.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.207300,45.476900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Casa della Memoria</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Cihlová krabice od Baukuh, jejíž celá fasáda je obří mozaika z různě zbarvených cihel skládající fotografie z italského odboje — architektura jako pixelový obraz. Leží v Isole, asi 15 minut pěšky z Centrale nebo 5 minut od Bosco Verticale. Zvenku zdarma a kdykoli; interiér v neděli zavřený.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.191000,45.488000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Duomo di Milano</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+135 fiál, 3400 soch, mramorová halucinace — ale je to daleko. Metro M3 z Centrale na Duomo, 4 zastávky, 8 minut jízdy, ale s cestou k soupravě a nahoru je to reálně 18–20 minut jednosměrně, tedy 40 minut tam a zpět. Stihnete to jen tak, že si necháte 25 minut na náměstí a nic jiného v Miláně neuvidíte — s batohy a nevyspáním bych to spíš vynechal ve prospěch Monumentale.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.191940,45.464170,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Galleria Vittorio Emanuele II</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Skleněná křížová klenba z roku 1877, mozaiková podlaha, býk, do kterého se šlape patou pro štěstí — v neděli v půl desáté skoro prázdná, což je vzácnost. Navazuje přímo na Duomo, takže žádný cestovní čas navíc, zdarma a průchozí nonstop. Dává smysl jedině jako součást varianty "jedeme na Duomo a nic jiného".]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.190000,45.465830,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grattacielo Pirelli (Pirellone)</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Gio Ponti a Pier Luigi Nervi, 1958 — 127 metrů tenkého lichoběžníkového betonového ostří, ikona italské moderny a jeden z nejelegantnějších mrakodrapů 20. století. Stojí přímo naproti nádraží přes Piazza Duca d'Aosta, 3 minuty pěšky, zdarma. Interiér je sídlo regionu a v neděli zavřený, ale zvenku to je stejně ta lepší část.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.199440,45.484720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Isola — murály a Via Borsieri</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Původní dělnická čtvrť schovaná za mrakodrapy — nízké domy, dvory, murály od Blu, Pao, Zed1, Ericailcane a Orticanoodles. Navazuje přímo na Bosco Verticale, takže je to asi 10 minut chůze navíc k už naplánované zastávce. V neděli ráno po Ferragostu bude prázdná a většina podniků zavřená, ale zdi tam jsou pořád.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.190000,45.487000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Memoriale della Shoah — Binario 21</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Původní podzemní nákladové nástupiště pod hlavním nádražím, odkud odjížděly transporty do Auschwitzu — syrový beton, vagon, Zeď lhostejnosti. Vstup z Via Ferrante Aporti 3, 8–10 minut pěšky z haly. Vstupné asi 10 €, v neděli obvykle otevřeno od desáté — ale ověřte předem, otevírací doba se mění a s letadlem ve 13:25 je to riskantní.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.207700,45.489900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Milano Centrale — hlavní průčelí</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Stacchiniho megalomanská fasáda z roku 1931, 200 metrů široká, směs asyrského, liberty a fašistického monumentalismu, okřídlení koně a lvi na atice. Vyjdete hlavním jižním východem na Piazza Duca d'Aosta, otočíte se a zakloníte hlavu — 2 minuty od nástupiště, zdarma. Nejlepší záběr je z poloviny náměstí; ráno je slunce zezadu, takže spíš detaily soch než celek.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.204400,45.485700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Monumentale — Edicola Bernocchi</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Spirálová věž s reliéfy křížové cesty, art deco stupňovitá šroubovice — nejšílenější jednotlivý objekt hřbitova. Stojí jen pár desítek metrů za Famediem, takže žádný extra čas. Zdarma, v rámci otevírací doby hřbitova 8:00–18:00.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.177500,45.486300,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Salone Biglietti (Centrale)</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Obří pokladní hala nad kočárovou galerií — 72 metrů dlouhá, kazetový strop, mozaiky se znaky italských měst, reliéfy s vlaky a loděmi. Je to průchozí prostor mezi jižním vstupem a nástupišti, takže tudy projdete automaticky, zdarma, 2 minuty od vlaku. V neděli ráno je skoro prázdná, což je pro fotku ideální.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.204400,45.486000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Diamante</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Fasetovaný skleněný diamant od Kohn Pedersen Fox, jehož hrany lámou světlo do ostrých trojúhelníků — nejpodceňovanější budova Porta Nuova. Jsou to 3 minuty pěšky od Bosco Verticale, takže ji uvidíte cestou bez ztráty času. Zdarma, jen zvenku.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.194100,45.486900,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Torre Velasca</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Architektura & umění
+
+Brutalistní "houba" od BBPR z roku 1958 — středověká silueta donjonu přeložená do betonu, jedna z nejkontroverznějších budov Evropy, po nedávné rekonstrukci znovu zářivá. Je to 8 minut pěšky jižně od Duomu, tedy reálně 30 minut jednosměrně z Centrale. V jejich okně to nestihnete spolu s ničím jiným — zařaďte jen jako alternativu k Monumentale, ne navíc.]]></description>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>9.188610,45.459720,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>BAM — Biblioteca degli Alberi</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Příroda & stezky
+
+Botanický park s kruhovými háji a klikatými cestami mezi mrakodrapy — místo, kde si po probdělé noci můžete deset minut lehnout do trávy. Leží přímo mezi Centrale a Bosco Verticale, asi 10 minut pěšky z nádraží, zdarma a nonstop. Zároveň nejlepší místo, odkud fotit Bosco Verticale zdola se zelení v popředí.]]></description>
+    <styleUrl>#placemark-green</styleUrl>
+    <Point><coordinates>9.193500,45.485000,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Gelsomina — maritozzi</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Jídlo & pití
+
+Via Carlo Tenca 5, asi 8 minut pěšky z Centrale — maritozzo se šlehačkou kolem 4 € a slušné kafe, přesně to, co po probdělé noci potřebujete. Otevírá ráno a bývá otevřeno i o víkendu, ale stejně jako Pavé má riziko srpnové dovolené. Sedne to na cestu, když půjdete z nádraží pěšky směrem k Porta Venezia.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.201500,45.481700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Pavé (pasticceria)</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Jídlo & pití
+
+Nejlepší snídaně v dosahu Centrale — Via Felice Casati 27, 8–10 minut pěšky jižně od nádraží, v neděli otevírá od osmé. Croissant 2,50–3,50 €, cappuccino asi 2 €, nedělní brunch kolem 14–15 €. Riziko: milánské pasticcerie často zavírají celý srpen kolem Ferragosta — ověřte na jejich webu nebo Instagramu den předem, jinak fallback Mercato Centrale.]]></description>
+    <styleUrl>#placemark-yellow</styleUrl>
+    <Point><coordinates>9.203700,45.481600,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Lékárna a pitná voda u Centrale</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Praktické
+
+V nádražní budově je lékárna s velmi dlouhou otevírací dobou, v neděli obvykle otevřená, plus drogerie a supermarket v pasáži. Pitnou vodu zdarma naberete z milánských litinových kašniček zvaných vedovelle — nejbližší jsou v zeleni na Piazza Duca d'Aosta a v Giardini u Via Vittor Pisani, voda je pitná a studená. Ušetří to 2–3 € za lahev před letem.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.204700,45.485700,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Neděle 16. 8. — co je zavřené</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Praktické
+
+15. 8. je sobota (Ferragosto), takže 16. 8. je normální neděle uprostřed nejmrtvějšího týdne v roce — většina nezávislých kaváren, pekáren a rodinných podniků má dovolenou celý týden a Milán je poloprázdný. Spolehlivě otevřeno: nádraží a Mercato Centrale, metro, Cimitero Monumentale 8:00–18:00, kostely kolem bohoslužeb, parky. Zavřeno nebo nejisté: kostnice San Bernardino, Albergo Diurno, vyhlídka Palazzo Lombardia, malé pasticcerie. Plánujte tak, aby jádro programu bylo venku a zdarma.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.204440,45.486110,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>WC a hygiena na Centrale</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Praktické
+
+Placené záchody na úrovni nástupišť i v dolním patře, vstup asi 1 € přes turnikety, platba mincí i kartou, nedávno zrekonstruované. Veřejné sprchy na Centrale spolehlivě nenajdete — sprchy má jen lounge pro držitele lístků první třídy, takže po probdělé noci to bude jen umyvadlo. Někteří provozovatelé jídla v hale dávají kód na WC k účtence.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.205600,45.486500,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Úschovna KiPoint (Centrale)</name>
+    <description><![CDATA[Ne 16. 8. ráno · Milán · Praktické
+
+Úschovna na východní straně nádraží, Piazza Luigi di Savoia 1, přízemí; otevřeno zhruba 6:00–23:00. Cena 6 € za zavazadlo na prvních 5 hodin, tedy 12 € za dva batohy — při devadesátiminutové zastávce se to vyplatí jen když opravdu pojedete na Monumentale nebo Duomo. Odbavení může trvat 10 minut ve frontě, počítejte s tím.]]></description>
+    <styleUrl>#placemark-brown</styleUrl>
+    <Point><coordinates>9.206400,45.486000,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

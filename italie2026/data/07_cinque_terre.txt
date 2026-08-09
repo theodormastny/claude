@@ -1,0 +1,539 @@
+NAME: Riomaggiore nádraží — start dne
+LAT: 44.09965
+LON: 9.73660
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: prakticke
+TOP: no
+DESC: Sem dorazíte v 09:26; nádraží je zčásti v tunelu a východ vede rovnou nad přístav. Hned u výstupu je infopoint Parku (validace trekkingové karty) a veřejné WC, s kartou zdarma. Na Ferragosto tu bude od desáté mumraj — využijte první hodinu naplno, dokud jsou uličky prázdné. Wi-Fi wifi5terre chytá právě u nádraží a infopointů.
+---
+NAME: Via dell'Amore — vstup Riomaggiore
+LAT: 44.10050
+LON: 9.73580
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Vstup je vlevo, jak vyjdete z nádraží; sloty po 15 minutách, max 100 lidí na slot, průchod max 30 minut a v hlavní sezoně jednosměrně do Manaroly. Cesta vytesaná do útesu s vyhlídkovými galeriemi je po 12 letech a 23 milionech eur oprav vizuálně nejsilnější kilometr Ligurie. POZOR: úsek má historii náhlých uzavírek po sesuvech, den předem ověřte viadellamore.info; plán B je vlak do Manaroly (3 minuty) nebo vysoká varianta 531/593.
+---
+NAME: A Piè de Mà — terasa nad mořem
+LAT: 44.10030
+LON: 9.73520
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: bar
+TOP: no
+DESC: Bar přímo na začátku Via dell'Amore, terasa visí nad vodou 30 metrů nad hladinou. Ideální na espresso a focacciu v 10:30, než vám v 11:00 pustí turniket. Ceny turistické (káva 2–2,50 €, sklenka vína 5–7 €), ale výhled to zaplatí.
+---
+NAME: Riomaggiore marina — skoky ze skal
+LAT: 44.09669
+LON: 9.73968
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: voda
+TOP: no
+DESC: Pod barevnými domy je maličký přístav a napravo od něj skalní plotny s kovovými žebříky — klasické místo místních na skok do hluboké modré vody. V samotném přístavišti neplavte kvůli lodím, jděte za vlnolam vpravo. V 09:40 tu budete skoro sami, v poledne je nabito. Voda má v půlce srpna kolem 25–26 °C.
+---
+NAME: Castello di Riomaggiore
+LAT: 44.09880
+LON: 9.73870
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: architektura
+TOP: no
+DESC: Zbytky hradu z roku 1260 na hřebínku nad vesnicí, výstup 10 minut po schodech z Via Colombo. Terasa nabízí pohled shora do rokle plné barevných domů — jiný záběr než ten instagramový z přístavu. Vstup obvykle zdarma nebo symbolický, brzy ráno bez lidí.
+---
+NAME: Torre Guardiola
+LAT: 44.09600
+LON: 9.74180
+COORD_CONF: low
+CITY: Riomaggiore
+CAT: hidden
+TOP: no
+DESC: Stará protipirátská bašta a přírodovědná stezka na útesu jihovýchodně od přístavu — devět z deseti návštěvníků Cinque Terre sem nikdy nezajde. Cesta vede terasami s agáve a opunciemi, na konci je plošina přímo nad mořem. 15 minut od přístavu, občas částečně uzavřeno kvůli údržbě.
+---
+NAME: Spiaggia di Fossola
+LAT: 44.09540
+LON: 9.73800
+COORD_CONF: low
+CITY: Riomaggiore
+CAT: voda
+TOP: no
+DESC: Divoká oblázková pláž jižně od přístavu, sestup po neoznačené stezce mezi skalami. Žádné služby, žádní plavčíci, silný příboj — jen pro zdatné plavce. Právě proto tu i o Ferragostu potkáte spíš místní kluky než davy.
+---
+NAME: Il Pescato Cucinato — fritto misto
+LAT: 44.09880
+LON: 9.73700
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: jidlo
+TOP: no
+DESC: Legendární kornout smažených ryb na Via Colombo: sardele, krevety, kalamáry, malé chobotničky, vše čerstvé a smažené na počkání. Cena 7–12 € podle velikosti kornoutu. Fronta bývá 15–30 minut, o Ferragostu klidně 45 — jděte před dvanáctou nebo si to nechte na jinou vesnici.
+---
+NAME: Enoteca Dau Cila
+LAT: 44.09700
+LON: 9.73940
+COORD_CONF: med
+CITY: Riomaggiore
+CAT: bar
+TOP: no
+DESC: Vinárna v bývalé loděnici u přístavu, uvnitř jeskynní atmosféra, venku terasa přímo nad vodou. Nejlepší místo v Riomaggiore ochutnat sciacchetrà, sladké slámové víno z místních teras, sklenka 8–12 €. Malá lahev na cestu stojí kolem 25–35 € a je to nejlepší suvenýr z Cinque Terre.
+---
+NAME: Santuario Madonna di Montenero
+LAT: 44.10130
+LON: 9.74660
+COORD_CONF: low
+CITY: Riomaggiore
+CAT: vyhlidka
+TOP: yes
+DESC: Svatyně ve 341 metrech nad Riomaggiore s absolutně nejlepším rozhledem na celé pobřeží — za jasného dne dohlédnete od Portovenere po Punta Mesco. Výstup po stezce 593V trvá 40–50 minut a je strmý, nebo jede minibus z náměstí. Pokud vám padne Via dell'Amore, tohle je nejlepší náhradní program dopoledne.
+---
+NAME: Vyhlídka na Riomaggiore ze stezky 531
+LAT: 44.09960
+LON: 9.74340
+COORD_CONF: low
+CITY: Riomaggiore
+CAT: foto
+TOP: no
+DESC: Sentiero 531 stoupá vysoko nad vesnicí ke Colle del Telegrafo a asi po 20 minutách nabízí záběr, kdy Riomaggiore leží celé pod vámi jako v miniatuře. Ráno je slunce za zády, ideální světlo. Cesta je zdarma (mimo placený úsek Modré stezky) a prakticky prázdná i o svátcích.
+---
+NAME: Manarola nádraží a tunel
+LAT: 44.10730
+LON: 9.72620
+COORD_CONF: med
+CITY: Manarola
+CAT: prakticke
+TOP: no
+DESC: Výstup z Via dell'Amore vás vyplivne k nádraží; do vesnice se jde krátkým osvětleným tunelem, který vyústí na hlavní Via Discovolo. V tunelu je chladno, což je v poledním vedru vítaná pauza. U nádraží je pitná fontánka a WC.
+---
+NAME: Punta Bonfiglio — ikonický výhled
+LAT: 44.10530
+LON: 9.72830
+COORD_CONF: med
+CITY: Manarola
+CAT: vyhlidka
+TOP: yes
+DESC: Ten záběr, který znáte ze všech pohlednic: skalnatý ostroh západně od přístavu, odkud Manarola stoupá po útesu jako barevné schodiště. Nahoře je veřejná piknik plocha — zdarma, bez rezervace, bez fronty. Kupte focacciu a pivo dole ve vsi a dejte si to tady; v poledne je světlo tvrdé, ale odpoledne a za soumraku je to magie.
+---
+NAME: Nessun Dorma
+LAT: 44.10545
+LON: 9.72880
+COORD_CONF: med
+CITY: Manarola
+CAT: bar
+TOP: yes
+DESC: Nejslavnější aperitivo v Cinque Terre — terasa přilepená na skálu přímo pod vyhlídkou Punta Bonfiglio, bruschetty a pesto, které si natřete sami. Rezervace se nedá udělat klasicky, chodí se na virtuální frontu přes QR kód u vchodu a o Ferragostu může být čekání 1–2 hodiny. Rozpočtová verze: stejný výhled o 20 metrů výš zdarma z pikniku.
+---
+NAME: Manarola — skoky do vody v přístavu
+LAT: 44.10570
+LON: 9.72960
+COORD_CONF: med
+CITY: Manarola
+CAT: voda
+TOP: no
+DESC: Betonová rampa a skalní plotny v úzké rokli přístavu, kde se skáče z výšky 2–5 metrů do křišťálové vody. Nejfotogeničtější koupání v celém Cinque Terre, protože lidi skáčou přímo pod barevnými domy. Voda je hluboká hned u břehu, ale pozor na lodě a na vlny narážející do skal. Sprcha a pitná voda je pár metrů nad rampou.
+---
+NAME: Hřbitov na Punta Bonfiglio
+LAT: 44.10480
+LON: 9.72750
+COORD_CONF: low
+CITY: Manarola
+CAT: hidden
+TOP: no
+DESC: Nad vyhlídkou stojí obecní hřbitov s arkádami visícími nad mořem — jedno z nejklidnějších a nejzvláštnějších míst v celém kraji. Turisté sem prakticky nechodí, i když jsou to 3 minuty od nejfotografovanějšího místa Ligurie. Chovejte se tiše a s respektem.
+---
+NAME: Sentiero 506 — 1200 schodů na Volastru
+LAT: 44.10800
+LON: 9.72500
+COORD_CONF: low
+CITY: Manarola
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Nízký pobřežní úsek Manarola–Corniglia je kvůli křehkosti útesu ZAVŘENÝ a otevření se nečeká před rokem 2028 — jedinou pěší variantou je stoupání po stezce 506 přes Volastru. Je to zhruba 1200 kamenných schodů, 45–60 minut, převýšení asi 300 metrů, ve vedru brutální. Vyrazte nejpozději ve 13:00, mějte 2 litry vody na osobu a čepici; odměnou je naprosté ticho a terasy vinic nad mořem.
+---
+NAME: Groppo — vesnička vinařů
+LAT: 44.11090
+LON: 9.72270
+COORD_CONF: low
+CITY: Groppo
+CAT: hidden
+TOP: no
+DESC: Několik domů na hřebeni nad Manarolou, kde sídlí družstvo Cantina Cinque Terre — tady se lisuje sciacchetrà z hroznů sušených na půdách. Zastávka mimo všechny itineráře, tři minuty stranou z cesty na Volastru. Občas nabízejí ochutnávku; i kdyby ne, výhled na terasy stojí za odbočku.
+---
+NAME: Terasovité vinice nad Manarolou
+LAT: 44.11000
+LON: 9.72350
+COORD_CONF: low
+CITY: Manarola
+CAT: priroda
+TOP: no
+DESC: Cestou po 506 procházíte krajinou, která je vlastně největší lidskou stavbou Ligurie — 7000 km suchých zídek postavených po staletí ručně. Uvidíte i monorail, jednokolejku, na které vinaři vozí bedny s hrozny po svahu. Nejlepší světlo je pozdě odpoledne, ale vy tudy půjdete v poledne — držte se stínu borovic.
+---
+NAME: Focaccia a gelato na Via Discovolo
+LAT: 44.10660
+LON: 9.72700
+COORD_CONF: med
+CITY: Manarola
+CAT: jidlo
+TOP: no
+DESC: Hlavní ulice Manaroly má několik pekáren s ligurskou focacciou — klasická slaná s olivovým olejem kolem 2–3 €, s pestem nebo cibulí 3–4 €. Vezměte si dvojnásobek, než plánujete: čeká vás 1200 schodů. Farinatu tu často pečou v poledne a bývá vyprodaná do druhé.
+---
+NAME: Volastra — Nostra Signora della Salute
+LAT: 44.11310
+LON: 9.71900
+COORD_CONF: med
+CITY: Volastra
+CAT: architektura
+TOP: no
+DESC: Románský kostelík na náměstíčku ve 335 metrech, odkud startuje nejkrásnější stezka celého regionu. Vesnička má pár desítek obyvatel, jednu fontánu a nulové davy — naprostý kontrast k Manarole o půl hodiny níž. Doplňte tu vodu, další fontána bude až v Cornigli.
+---
+NAME: Sentiero 586 — Volastra–Case Pianca
+LAT: 44.11330
+LON: 9.71830
+COORD_CONF: low
+CITY: Volastra
+CAT: vyhlidka
+TOP: yes
+DESC: Podle většiny znalců nejkrásnější stezka Cinque Terre: 2,4 km téměř po vrstevnici mezi vinicemi, celou dobu čelem k moři, se suchými zídkami po obou stranách. Převýšení jen asi 120 metrů, čas 45–60 minut, obtížnost snadná. Znovu otevřena od 20. 3. 2026. Potkáte tu zlomek lidí oproti pobřežní Modré stezce.
+---
+NAME: Case Pianca — výhled na Corniglii
+LAT: 44.11800
+LON: 9.71330
+COORD_CONF: low
+CITY: Corniglia
+CAT: foto
+TOP: no
+DESC: Rozptýlené kamenné domky na konci stezky 586, odkud se poprvé otevře pohled na Corniglii sedící na útesu jako pevnost. Odsud začíná schodištěm sestup po 587 dolů do vesnice — dávejte pozor, je strmý a kluzký. Nejlepší záběr je pár metrů před prvním schodem, s vinicemi v popředí.
+---
+NAME: Sentiero 587 — sestup do Cornigli
+LAT: 44.12100
+LON: 9.71100
+COORD_CONF: low
+CITY: Corniglia
+CAT: priroda
+TOP: no
+DESC: Strmé schodiště mezi vinicemi a olivovníky, které vás z hřebene spustí přímo do Cornigli za zhruba 30 minut. Kolena to cítí, ale je to nejrychlejší cesta dolů. Nahoře se 587 napojuje na 507 směrem na Cigolettu a San Bernardino — to je varianta, když chcete den prodloužit a úplně utéct davům.
+---
+NAME: Belvedere Santa Maria, Corniglia
+LAT: 44.11940
+LON: 9.70830
+COORD_CONF: med
+CITY: Corniglia
+CAT: vyhlidka
+TOP: yes
+DESC: Terasa na konci Via Fieschi, kde vesnice končí a začíná stometrová propast — vidíte odsud celý oblouk pobřeží od Manaroly po Punta Mesco. Corniglia je jediná vesnice bez přístupu k moři, takže sem chodí míň lidí a večer je tu klid. Vstup zdarma, kdykoli.
+---
+NAME: Scalinata Lardarina — 382 schodů
+LAT: 44.11870
+LON: 9.71180
+COORD_CONF: low
+CITY: Corniglia
+CAT: architektura
+TOP: no
+DESC: Cihlové schodiště s 382 schody ve 33 ramenech spojující nádraží s vesnicí — jediný pěší přístup do Cornigli. Schody jsou nízké a široké, s lavičkami, takže to není tak zlé, jak to zní; 15–20 minut nahoru. Alternativou je shuttle bus, který je s trekkingovou kartou zdarma.
+---
+NAME: Corniglia nádraží
+LAT: 44.11870
+LON: 9.71280
+COORD_CONF: low
+CITY: Corniglia
+CAT: prakticke
+TOP: no
+DESC: Malé nádraží dole u moře na úpatí Lardariny; odsud je do Vernazzy vlakem 3 minuty. Doporučuju tuhle zkratku využít — ušetříte hodinu a půl v odpoledním vedru a stihnete klidně Vernazzu i celý úsek do Monterossa. O Ferragostu jezdí Cinque Terre Express normálně, jen bývá nacpaný a někdy má 10–20 minut zpoždění.
+---
+NAME: Marina di Corniglia
+LAT: 44.11520
+LON: 9.71270
+COORD_CONF: low
+CITY: Corniglia
+CAT: voda
+TOP: yes
+DESC: Skalní plotny a oblázková pláž pod Cornigliou, dostupné jen pěšky po strmém schodišti nebo lodí — proto tu nikdy není nacpáno. Voda padá strmě do hloubky, takže se dá skákat ze skal. Žádné služby, žádný stín po poledni, berte vodu s sebou. Sestup i výstup zhruba 15 minut, kluzké kameny.
+---
+NAME: Guvano beach — legenda, ale NEDOSTUPNÁ
+LAT: 44.12370
+LON: 9.70520
+COORD_CONF: low
+CITY: Corniglia
+CAT: hidden
+TOP: no
+DESC: Mýtická nudistická pláž mezi Cornigliou a Vernazzou, kam se od 60. let chodilo starým železničním tunelem — ten je od roku 2016 trvale zamřížovaný. Pěšina se v roce 2012 zřítila a je i v roce 2026 ve velmi špatném stavu bez plánu obnovy. ŠEDÁ ZÓNA: pokusy o sestup jsou nebezpečné a fakticky neschůdné; jediný legální přístup je kajakem nebo lodí. Berte to jako "vidět shora z trasy", ne jako cíl.
+---
+NAME: Santuario di San Bernardino
+LAT: 44.12920
+LON: 9.70950
+COORD_CONF: low
+CITY: Corniglia
+CAT: vyhlidka
+TOP: no
+DESC: Svatyně Nostra Signora delle Grazie v osadě San Bernardino ve zhruba 350 metrech, s balkonovou vyhlídkou na Corniglii a Guvano z ptačí perspektivy. Sem se prakticky nikdo z jednodenních turistů nedostane. Přístup po stezce 587 nebo z Cornigli nahoru asi hodinu, alternativně autobusem.
+---
+NAME: Gelateria Alberto — bazalkové gelato
+LAT: 44.11970
+LON: 9.70880
+COORD_CONF: low
+CITY: Corniglia
+CAT: jidlo
+TOP: no
+DESC: Na Via Fieschi v Cornigli dělají zmrzlinu z místní bazalky a z medu — chuť, kterou jinde nekoupíte, a naprosto dokonalá po výstupu z Volastry. Kopeček kolem 3 €, dvojka 4,50 €. Fronta 5–10 minut i v sezoně, což je na Cinque Terre nic.
+---
+NAME: Vernazza nádraží
+LAT: 44.13640
+LON: 9.68580
+COORD_CONF: med
+CITY: Vernazza
+CAT: prakticke
+TOP: no
+DESC: Nádraží ústí přímo do hlavní ulice Via Roma, odkud je to k přístavu 200 metrů. Tady je i vstup na Modrou stezku do Monterossa s kontrolou karty. V hlavní sezoně bývá tenhle úsek v nejvytíženějších dnech jednosměrný z Monterossa do Vernazzy — před vstupem si ověřte směr u strážce, ať vás nepošlou zpátky.
+---
+NAME: Castello Doria a věž Belforte
+LAT: 44.13560
+LON: 9.68280
+COORD_CONF: med
+CITY: Vernazza
+CAT: vyhlidka
+TOP: yes
+DESC: Válcová věž z 11. století na skále přímo nad přístavem — krátký, ale strmý výstup po schodech přilepených ke skále. Nahoře je terasa jako vyhlídkové hnízdo: pod vámi barevné náměstí, kolem vás jen moře. Otevřeno denně 10:00–21:00, vstup 2 €, prohlídka 20–30 minut. Za dvě eura nejlepší výhled v Cinque Terre.
+---
+NAME: Přístav Vernazza — koupání na náměstí
+LAT: 44.13520
+LON: 9.68400
+COORD_CONF: med
+CITY: Vernazza
+CAT: voda
+TOP: no
+DESC: Malá písčito-oblázková pláž rovnou na Piazza Marconi a za vlnolamem skalní plotny s hlubokou vodou. Skákat se dá z mola vpravo od kostela, místní kluci to dělají celý den. O Ferragostu je pláž nacpaná, ale skály za vlnolamem bývají volnější. Sladká voda na opláchnutí je u fontány na náměstí.
+---
+NAME: Ananasso Bar
+LAT: 44.13520
+LON: 9.68410
+COORD_CONF: med
+CITY: Vernazza
+CAT: bar
+TOP: no
+DESC: Maličký bar přímo na Piazza Marconi s pár stolky u vody — legendární spritz při západu slunce, kdy se náměstí zbarví do oranžova. Spritz 6–8 €, pivo 4–5 €. Rezervace neexistuje, chce to sednout si dřív a vydržet.
+---
+NAME: Batti Batti — focacceria
+LAT: 44.13570
+LON: 9.68440
+COORD_CONF: low
+CITY: Vernazza
+CAT: jidlo
+TOP: no
+DESC: Malá focacceria kousek od náměstí, kde dělají focacciu a smažené ryby v kornoutu levněji než v Riomaggiore. Fritto misto 8–10 €, focaccia 2,50–4 €. Ideální jídlo do ruky, když nechcete ztratit hodinu sezením v restauraci.
+---
+NAME: Il Pirata delle Cinque Terre
+LAT: 44.13720
+LON: 9.68520
+COORD_CONF: low
+CITY: Vernazza
+CAT: jidlo
+TOP: no
+DESC: Kultovní podnik dvou sicilských dvojčat na Via Gavino, kde se snídá cannoli a granita a kde obsluha dělá show. Otevírají brzy ráno a mají i pesto a těstoviny přes den. Ceny mírné (cannolo 3–4 €, granita 4 €), ale připravte se, že vás bratři vezmou do parády.
+---
+NAME: Vyhlídka na Vernazzu z Modré stezky
+LAT: 44.13650
+LON: 9.68180
+COORD_CONF: low
+CITY: Vernazza
+CAT: foto
+TOP: yes
+DESC: Asi 10 minut od vstupu na stezku směr Monterosso se cesta stočí a otevře se TEN pohled: Vernazza s věží Belforte vybíhající do tyrkysového moře. Nejlepší je pozdní odpoledne, kdy slunce svítí zezadu do vesnice. Je tu úzko a lidi se tlačí — buďte trpěliví, nebo pokračujte o 100 metrů dál, kde je druhá, prázdnější plošinka.
+---
+NAME: Santuario Madonna di Reggio
+LAT: 44.14330
+LON: 9.68580
+COORD_CONF: low
+CITY: Vernazza
+CAT: hidden
+TOP: no
+DESC: Svatyně nad Vernazzou dostupná po stezce 508 od nádraží — 2 km mírného stoupání cestou lemovanou kapličkami křížové cesty a starými cypřiši. Nádherně chladný stín a naprosté ticho, jediné takové místo v okolí. Nahoru asi 45 minut; je součástí Via dei Santuari spojující všech pět svatyní Cinque Terre.
+---
+NAME: Skalní plotny za Santa Margherita
+LAT: 44.13490
+LON: 9.68330
+COORD_CONF: low
+CITY: Vernazza
+CAT: voda
+TOP: no
+DESC: Za gotickým kostelem stojícím přímo na skále u moře jsou ploché kameny, kde se dá ležet a skákat do vody — menší dav než na pláži v přístavu. Voda je tu hlubší a čistší. Pozor při vlnobití, kameny jsou kluzké od řas.
+---
+NAME: Modrá stezka Vernazza–Monterosso
+LAT: 44.13600
+LON: 9.68350
+COORD_CONF: low
+CITY: Vernazza
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Nejnáročnější a nejkrásnější úsek Modré stezky: asi 3,5 km, zhruba 2 hodiny, převýšení nahoru i dolů kolem 250 metrů, hodně schodů. Od 20. 3. 2026 je po opravách znovu otevřený. Vyrazte kolem 16:30–17:00 — vedro poleví, davy zředí a do Monterossa dorazíte akorát na západ slunce kolem 20:20. Poslední vstup bývá v podvečer omezen, ověřte u strážce.
+---
+NAME: Zatáčka s výhledem na Monterosso
+LAT: 44.14350
+LON: 9.66200
+COORD_CONF: low
+CITY: Monterosso
+CAT: foto
+TOP: yes
+DESC: Ke konci stezky od Vernazzy se cesta zlomí a Monterosso se objeví celé najednou: dvě zátoky, věž Aurora uprostřed, dlouhá pláž Fegina vpravo. Za soumraku, když se v městečku rozsvítí, je to nejlepší fotka celého dne. Cesta tu vede po terasách citroníků a vinic — zpomalte.
+---
+NAME: Convento dei Cappuccini
+LAT: 44.14620
+LON: 9.65390
+COORD_CONF: med
+CITY: Monterosso
+CAT: architektura
+TOP: no
+DESC: Klášter ze 17. století na kopci mezi starým městem a Feginou, se šachovnicovou fasádou kostela a Van Dyckovým Ukřižováním uvnitř. Terasa před klášterem je jedno z nejlepších míst na západ slunce v Monterossu a je zdarma. Výstup po cypřišové aleji 10 minut z Piazza Garibaldi.
+---
+NAME: Torre Aurora
+LAT: 44.14570
+LON: 9.65290
+COORD_CONF: med
+CITY: Monterosso
+CAT: vyhlidka
+TOP: no
+DESC: Obranná věž z 16. století na ostrohu, který dělí starou část Monterossa od Feginy — dnes je v ní bar s terasou nad mořem. Panorama na obě zátoky najednou, ideální na aperitivo kolem půl osmé. Drink 10–14 €, ale za tenhle výhled na Ferragosto je to férové. Kolem věže vede i veřejná pěšina zdarma.
+---
+NAME: Piazza Garibaldi — noční základna
+LAT: 44.14570
+LON: 9.65490
+COORD_CONF: med
+CITY: Monterosso
+CAT: bar
+TOP: yes
+DESC: Srdce nočního života Monterossa a jediné místo v Cinque Terre, kde bary reálně fungují dlouho do noci. Na Ferragosto tu bývají trhy a živá muzika už odpoledne, večer se to celé přesune sem. Tady strávíte první polovinu noci — 15. 8. večer je to nejlepší adresa v celém kraji.
+---
+NAME: Il Gigante — 14metrový Neptun
+LAT: 44.14730
+LON: 9.64450
+COORD_CONF: med
+CITY: Monterosso
+CAT: umeni
+TOP: no
+DESC: Čtrnáct metrů vysoký betonový Neptun z roku 1910 vytesaný do skály na konci pláže Fegina, dnes bez trojzubce i bez paží — rozbila je bomba a bouře. Působí jako kulisa z Felliniho filmu a v noci nasvícený je ještě divnější. Zdarma, kdykoli, a je to jeden z nejlepších nočních foto spotů.
+---
+NAME: Spiaggia libera Fegina
+LAT: 44.14690
+LON: 9.64620
+COORD_CONF: med
+CITY: Monterosso
+CAT: voda
+TOP: no
+DESC: Nejdelší pláž Cinque Terre, částečně placené sekce s lehátky (20–35 € za den) a částečně volné úseky — ty najdete blíž k Neptunovi a na okrajích. Písek je spíš hrubý štěrk, ale voda je klidná a jsou tu sprchy a WC. Na Ferragosto je před pátou nabito; po osmé večer se to vylidní a pláž je vaše.
+---
+NAME: Fast Bar — otevřeno nejdéle
+LAT: 44.14570
+LON: 9.65420
+COORD_CONF: low
+CITY: Monterosso
+CAT: bar
+TOP: yes
+DESC: Nejlevnější pivo ve městě a bar, který drží otevřeno nejdéle ze všech v Cinque Terre — přesně to, co potřebujete v noci bez postele. Pouští sport, dělají sendviče, obsluha je zvyklá na batůžkáře. Pivo 4–5 €, zavírají typicky mezi jednou a druhou ráno, na Ferragosto někdy později.
+---
+NAME: Enoteca Internazionale
+LAT: 44.14540
+LON: 9.65450
+COORD_CONF: low
+CITY: Monterosso
+CAT: bar
+TOP: no
+DESC: Vinárna na Via Roma se zahrádkou pod citroníky, kde si dáte poctivé místní bílé z Cinque Terre a sciacchetrà. Majitelka je sommelierka a poradí. Sklenka 6–9 €, degustace tří vín kolem 20 €. Zavírá dřív než Fast Bar, zařaďte hned po západu slunce.
+---
+NAME: Il Frantoio — focaccia Monterosso
+LAT: 44.14580
+LON: 9.65440
+COORD_CONF: low
+CITY: Monterosso
+CAT: jidlo
+TOP: no
+DESC: Malá pekárna ve staré části, kde pečou focacciu a pizzu al taglio celý den až do večera — nejlepší ligurská focaccia s olivami a cibulí, jaké se v Monterossu dopracujete. Kus 2,50–4 €. Kupte si zásobu na noc, protože po desáté večer seženete jídlo už jen v barech.
+---
+NAME: Monterosso nádraží — noční základna
+LAT: 44.14650
+LON: 9.64890
+COORD_CONF: med
+CITY: Monterosso
+CAT: prakticke
+TOP: yes
+DESC: Nádraží je přímo u pláže Fegina, má bar, veřejné WC (s trekkingovou kartou zdarma), zásuvky na nabíjení a přístřešek — přesně tady počkáte na vlak v 05:14. Perón je v noci osvětlený a obvykle přístupný; staniční hala bývá v noci zavřená, počítejte s čekáním venku pod stříškou. Buďte na peróně nejpozději v 05:00 a jízdenku si vyřešte den předem, automat může být mimo provoz.
+---
+NAME: Molo — ohňostroj, ale POZOR na datum
+LAT: 44.14480
+LON: 9.65590
+COORD_CONF: low
+CITY: Monterosso
+CAT: foto
+TOP: no
+DESC: Rybářské molo pod starým městem je místo, odkud se v Monterossu odpalují ohňostroje. Pozor na datum: hlavní fuochi a mare v Monterossu bývají v předvečer, tedy 14. 8., zatímco 15. 8. je poutní slavnost Nostra Signora di Soviore nahoře ve svatyni. Odpoledne 15. 8. bývají v ulicích řemeslné trhy a živá hudba — program ověřte na prolocomonterosso.it těsně před cestou.
+---
+NAME: Punta Mesco — celé Cinque Terre v záběru
+LAT: 44.14300
+LON: 9.63000
+COORD_CONF: low
+CITY: Monterosso
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Ruiny poustevny z 11.–14. století na mysu západně od Monterossa, odkud vidíte úplně celé Cinque Terre v jednom záběru až po Portovenere. Stezka 590 z Monterossa nahoru trvá zhruba hodinu a čtvrt, je zdarma a i o Ferragostu poloprázdná. Pokud vám během noci zbudou síly a chcete uniknout hluku, tohle je nejlepší úkryt — ale v noci jen s čelovkou a opatrně.
+---
+NAME: Spiaggia del Canneto
+LAT: 44.14200
+LON: 9.63700
+COORD_CONF: low
+CITY: Monterosso
+CAT: hidden
+TOP: no
+DESC: Divoká zátoka pod Punta Mesco se sladkovodním pramínkem stékajícím po skále — nejlépe utajená pláž kraje, protože se sem prakticky nedá jinak než lodí nebo kajakem. Nikdy tu není dav. Pěší sestup ze stezky je velmi obtížný a nedoporučuje se; berte to jako cíl pro kajak, půjčovna v Monterossu má 15–20 € za hodinu.
+---
+NAME: Santuario di Soviore — hlavní pouť 15. 8.
+LAT: 44.15300
+LON: 9.66900
+COORD_CONF: low
+CITY: Monterosso
+CAT: hidden
+TOP: no
+DESC: Nejstarší svatyně Ligurie ve 464 metrech nad Monterossem, obklopená kaštanovým lesem, s ubytovnou pro poutníky a barem s terasou. 15. srpna je tady hlavní svátek celé diecéze — přesně ta akce, která z Ferragosta v Monterossu dělá něco víc než jen přeplněnou pláž. Výstup po stezce 591 asi hodinu, nebo autobusem, který je s trekkingovou kartou zdarma.
+---
+NAME: Sprchy a pitná voda na Fegině
+LAT: 44.14700
+LON: 9.64700
+COORD_CONF: low
+CITY: Monterosso
+CAT: prakticke
+TOP: no
+DESC: Podél promenády Fegina jsou veřejné sprchy u vstupů na pláž a několik pitných fontánek — s tímhle přežijete noc bez ubytování docela civilizovaně. Sprchy fungují přes den, v noci bývají vypnuté, takže se opláchněte před devátou večer. Veřejná WC jsou u nádraží a u Pro Loco a s trekkingovou kartou zdarma.
+---
+NAME: Pro Loco Monterosso — úschovna
+LAT: 44.14660
+LON: 9.64790
+COORD_CONF: low
+CITY: Monterosso
+CAT: prakticke
+TOP: no
+DESC: Turistická kancelář na Via Fegina kousek od nádraží dělá úschovnu: velký kufr 8 € na 24 hodin (5 € na 5 hodin), malý batoh 5 € na den, obvykle 8:00–19:00. Na váš scénář s celou nocí venku je to jen na část dne — v noci si batohy ponesete. Nonstop alternativy nabízí Radical Storage nebo Bounce přes partnery ve městě od 4–6 € na den.
+---
+NAME: Spaní na pláži — právní realita
+LAT: 44.14690
+LON: 9.64650
+COORD_CONF: low
+CITY: Monterosso
+CAT: prakticke
+TOP: no
+DESC: ŠEDÁ ZÓNA: v Ligurii platí obecný zákaz nocování na plážích, pokuty se pohybují zhruba 100–500 € a v chráněné mořské oblasti Cinque Terre se sazba zdvojnásobuje; postavení stanu je posuzováno jako neoprávněný zábor veřejného pozemku a v létě se kontroluje intenzivně. Pár hodin ležení na dece bývá v praxi tolerováno, spacák a stan už ne. Bezpečnější varianta: zůstat v barech na Piazza Garibaldi, pak sedět na promenádě nebo na nádraží.
+---
+NAME: Poslední hodiny před vlakem v 05:14
+LAT: 44.14750
+LON: 9.64400
+COORD_CONF: low
+CITY: Monterosso
+CAT: prakticke
+TOP: no
+DESC: Realita: 16. 8. vychází v Monterossu slunce až kolem 06:30 a rozednívá se kolem šesté — ve vlaku v 05:14 bude ještě tma, takže východ slunce uvidíte až z vlaku. Nejhezčí poslední hodina je 03:30–05:00 u Neptuna a na prázdné promenádě, kdy je moře černé a město ticho. Od 04:45 buďte na nádraží. Noc bývá v půli srpna kolem 20–22 °C, ale u moře fouká — vezměte tenkou bundu a izolační fólii. Mobily nabijte už večer v baru.
+---
+NAME: Doporučený harmonogram dne
+LAT: 44.10680
+LON: 9.72760
+COORD_CONF: high
+CITY: Manarola
+CAT: prakticke
+TOP: yes
+DESC: Ideální plán: 09:30–10:45 Riomaggiore (hrad, marina, koupání, fritto misto), 11:00–11:30 Via dell'Amore, 11:35–13:00 Manarola (Punta Bonfiglio, skoky do vody, focaccia), 13:00–14:00 stoupání po 506 na Volastru, 14:00–15:00 stezka 586 na Case Pianca, 15:00–15:40 sestup 587 do Cornigli, 15:40–16:20 Belvedere a gelato, 16:25 vlak do Vernazzy, 16:30–18:00 Vernazza (Belforte, koupání), 18:00–20:00 Modrá stezka do Monterossa, 20:20 západ slunce, pak noc. Celkem asi 12 km chůze a 600 metrů převýšení — zvládnutelné, ale s vodou minimálně 3 litry na osobu.

@@ -1,0 +1,350 @@
+NAME: Milano Centrale — hlavní průčelí
+LAT: 45.48570
+LON: 9.20440
+COORD_CONF: high
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Stacchiniho megalomanská fasáda z roku 1931, 200 metrů široká, směs asyrského, liberty a fašistického monumentalismu, okřídlení koně a lvi na atice. Vyjdete hlavním jižním východem na Piazza Duca d'Aosta, otočíte se a zakloníte hlavu — 2 minuty od nástupiště, zdarma. Nejlepší záběr je z poloviny náměstí; ráno je slunce zezadu, takže spíš detaily soch než celek.
+---
+NAME: Galleria delle Carrozze (Centrale)
+LAT: 45.48565
+LON: 9.20430
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: yes
+DESC: Zastřešená kočárová hala v přízemí nádraží, kam kdysi zajížděly kočáry a auta k vlaku — kamenné pilíře, kazetové klenby, mramor, měřítko katedrály. Z nástupiště sjedete eskalátorem dolů, jste tam za 3 minuty, zdarma a otevřeno nonstop. Absolutně nejlepší poměr wow/čas v celém vašem okně, ideální první zastávka hned po vystoupení.
+---
+NAME: Salone Biglietti (Centrale)
+LAT: 45.48600
+LON: 9.20440
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Obří pokladní hala nad kočárovou galerií — 72 metrů dlouhá, kazetový strop, mozaiky se znaky italských měst, reliéfy s vlaky a loděmi. Je to průchozí prostor mezi jižním vstupem a nástupišti, takže tudy projdete automaticky, zdarma, 2 minuty od vlaku. V neděli ráno je skoro prázdná, což je pro fotku ideální.
+---
+NAME: Testata binari — ocelová hala
+LAT: 45.48680
+LON: 9.20450
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: yes
+DESC: Konec nástupišť, kde začíná pět obřích ocelo-skleněných lodí zastřešení, nejvyšší přes 70 metrů — jeden z nejbrutálnějších industriálních interiérů v Evropě, evokuje Blade Runnera. Stačí popojít na začátek nástupiště, nulová cesta, zdarma. Nejlepší foto je od nárazníků směrem na sever, do světla padajícího skrz sklo.
+---
+NAME: Oblouky pod nádražím (Via Sammartini)
+LAT: 45.48800
+LON: 9.20700
+COORD_CONF: med
+CITY: Milán
+CAT: hidden
+TOP: yes
+DESC: Podél východního boku nádraží běží kilometrová řada monumentálních kamenných oblouků, které nesou koleje — graffiti, prach, žádní turisté, čirá dystopická estetika. Z hlavní haly vyjdete východem na Piazza Luigi di Savoia a jdete na sever po Via Sammartini, asi 5 minut. Zdarma, nonstop; pozdě v noci je to trochu drsnější, ale v neděli dopoledne naprosto v pohodě.
+---
+NAME: Memoriale della Shoah — Binario 21
+LAT: 45.48990
+LON: 9.20770
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Původní podzemní nákladové nástupiště pod hlavním nádražím, odkud odjížděly transporty do Auschwitzu — syrový beton, vagon, Zeď lhostejnosti. Vstup z Via Ferrante Aporti 3, 8–10 minut pěšky z haly. Vstupné asi 10 €, v neděli obvykle otevřeno od desáté — ale ověřte předem, otevírací doba se mění a s letadlem ve 13:25 je to riskantní.
+---
+NAME: Padiglione Reale — královský salonek
+LAT: 45.48660
+LON: 9.20620
+COORD_CONF: low
+CITY: Milán
+CAT: hidden
+TOP: no
+DESC: Utajený art-deco královský salonek Savojských nad kolejemi — intarzované podlahy, empírové mramory, Sala delle Armi s válečnými reliéfy. Prakticky nedostupné: chodí se tam jen na rezervovanou prohlídku (salereali@fondazionefs.it, rezervace po–pá), v neděli ráno bez rezervace nepustí. Zvenku aspoň zahlédnete zdobený portál z Piazza Luigi di Savoia, 3 minuty od haly.
+---
+NAME: Grattacielo Pirelli (Pirellone)
+LAT: 45.48472
+LON: 9.19944
+COORD_CONF: high
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Gio Ponti a Pier Luigi Nervi, 1958 — 127 metrů tenkého lichoběžníkového betonového ostří, ikona italské moderny a jeden z nejelegantnějších mrakodrapů 20. století. Stojí přímo naproti nádraží přes Piazza Duca d'Aosta, 3 minuty pěšky, zdarma. Interiér je sídlo regionu a v neděli zavřený, ale zvenku to je stejně ta lepší část.
+---
+NAME: Palazzo Lombardia — vyhlídka zdarma
+LAT: 45.48440
+LON: 9.19660
+COORD_CONF: med
+CITY: Milán
+CAT: vyhlidka
+TOP: no
+DESC: Nejvyšší veřejně přístupná vyhlídka v Miláně zdarma — 161 metrů, 360° na Alpy, Duomo i Porta Nuova. Historicky otevřeno jen v neděli asi 10:00–18:00, což je přesně váš den, ale v srpnu bývá zavřeno — OVĚŘTE DEN PŘEDEM. Z Centrale 8 minut pěšky po Via Melchiorre Gioia; kdyby to vyšlo, je to nejlepší vyhlídka ve vašem okně.
+---
+NAME: Piazza Gae Aulenti
+LAT: 45.48390
+LON: 9.19030
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: yes
+DESC: Vyvýšené kruhové náměstí s vodními kruhy, zrcadlícími se mrakodrapy a jehlou Unicredit Tower — sci-fi Milán, ostrý kontrast k Centrale. Metrem M2 z Centrale FS na Garibaldi FS (2 zastávky, 4 minuty, lístek 2,20 €) a 4 minuty pěšky, nebo celé pěšky asi 14 minut. Zdarma, nonstop, v neděli ráno prakticky prázdné — stihnete to v pohodě.
+---
+NAME: Bosco Verticale
+LAT: 45.48583
+LON: 9.19028
+COORD_CONF: high
+CITY: Milán
+CAT: architektura
+TOP: yes
+DESC: Dvě věže Stefana Boeriho obalené 900 stromy — nejfotogeničtější budova v Miláně, obzvlášť v srpnu, kdy je zeleň nejhustší. Od Piazza Gae Aulenti 3 minuty pěšky na sever, z Centrale celkem 12–15 minut. Nejlepší foto spot: severovýchodní roh parku BAM u Via Gaetano de Castillia, odkud jsou obě věže v ose a listy prosvícené ranním sluncem.
+---
+NAME: BAM — Biblioteca degli Alberi
+LAT: 45.48500
+LON: 9.19350
+COORD_CONF: med
+CITY: Milán
+CAT: priroda
+TOP: no
+DESC: Botanický park s kruhovými háji a klikatými cestami mezi mrakodrapy — místo, kde si po probdělé noci můžete deset minut lehnout do trávy. Leží přímo mezi Centrale a Bosco Verticale, asi 10 minut pěšky z nádraží, zdarma a nonstop. Zároveň nejlepší místo, odkud fotit Bosco Verticale zdola se zelení v popředí.
+---
+NAME: Unicredit Tower a jehla
+LAT: 45.48440
+LON: 9.19110
+COORD_CONF: med
+CITY: Milán
+CAT: foto
+TOP: no
+DESC: Nejvyšší budova Itálie, 231 metrů se špicí, od Césara Pelliho — zakřivená skleněná stěna s jehlou, která se ráno chová jako obří zrcadlo. Stojí přímo na Piazza Gae Aulenti, takže je to součást stejné zastávky, zdarma. Ideální je fotit ji zespodu z paty věže do ultraširokoúhlé perspektivy.
+---
+NAME: Torre Diamante
+LAT: 45.48690
+LON: 9.19410
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Fasetovaný skleněný diamant od Kohn Pedersen Fox, jehož hrany lámou světlo do ostrých trojúhelníků — nejpodceňovanější budova Porta Nuova. Jsou to 3 minuty pěšky od Bosco Verticale, takže ji uvidíte cestou bez ztráty času. Zdarma, jen zvenku.
+---
+NAME: Hunting Pollution — murál Iena Cruz
+LAT: 45.48380
+LON: 9.20230
+COORD_CONF: low
+CITY: Milán
+CAT: umeni
+TOP: yes
+DESC: Obří volavka na štítové zdi ve Via Antonio da Recanate, natřená smogožravou barvou Airlite — v době vzniku největší ekomurál v Evropě. Je to 5 minut pěšky z jižního východu Centrale směrem k Via Napo Torriani, zdarma, kdykoli. Nejlepší poměr husté umění/vzdálenost od nádraží — přesnou adresu si ověřte v mapě, souřadnice je odhad.
+---
+NAME: Isola — murály a Via Borsieri
+LAT: 45.48700
+LON: 9.19000
+COORD_CONF: med
+CITY: Milán
+CAT: umeni
+TOP: no
+DESC: Původní dělnická čtvrť schovaná za mrakodrapy — nízké domy, dvory, murály od Blu, Pao, Zed1, Ericailcane a Orticanoodles. Navazuje přímo na Bosco Verticale, takže je to asi 10 minut chůze navíc k už naplánované zastávce. V neděli ráno po Ferragostu bude prázdná a většina podniků zavřená, ale zdi tam jsou pořád.
+---
+NAME: Casa della Memoria
+LAT: 45.48800
+LON: 9.19100
+COORD_CONF: low
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Cihlová krabice od Baukuh, jejíž celá fasáda je obří mozaika z různě zbarvených cihel skládající fotografie z italského odboje — architektura jako pixelový obraz. Leží v Isole, asi 15 minut pěšky z Centrale nebo 5 minut od Bosco Verticale. Zvenku zdarma a kdykoli; interiér v neděli zavřený.
+---
+NAME: Cimitero Monumentale — Famedio
+LAT: 45.48583
+LON: 9.17906
+COORD_CONF: high
+CITY: Milán
+CAT: hidden
+TOP: yes
+DESC: Neogoticko-byzantská pruhovaná katedrála mrtvých a za ní 250 000 m² sochařského deliria — secesní andělé, futuristické hrobky, expresionistické figury, nic podobného v Evropě není. V neděli otevřeno 8:00–18:00, vstup ZDARMA. Cesta: metro M2 z Centrale na Garibaldi FS, přestup na M5 jednu zastávku na Monumentale, celkem asi 18 minut, lístek 2,20 €. Zpáteční cesta 40 minut plus 30 minut uvnitř přesně vejde do vašeho okna a je to jednoznačně nejsilnější možný bod pro tak krátký čas.
+---
+NAME: Monumentale — Edicola Bernocchi
+LAT: 45.48630
+LON: 9.17750
+COORD_CONF: low
+CITY: Milán
+CAT: umeni
+TOP: no
+DESC: Spirálová věž s reliéfy křížové cesty, art deco stupňovitá šroubovice — nejšílenější jednotlivý objekt hřbitova. Stojí jen pár desítek metrů za Famediem, takže žádný extra čas. Zdarma, v rámci otevírací doby hřbitova 8:00–18:00.
+---
+NAME: Monumentale — Tempio Crematorio
+LAT: 45.48750
+LON: 9.17550
+COORD_CONF: low
+CITY: Milán
+CAT: hidden
+TOP: no
+DESC: První krematorium v Itálii (1876), klasicistní chrám v zadní části hřbitova, kolem něj nejsurreálnější sekce hrobek. Je asi 7–8 minut chůze od vstupu, takže při třiceti minutách uvnitř je to hraniční — radši jen když poletíte. Zdarma.
+---
+NAME: Duomo di Milano
+LAT: 45.46417
+LON: 9.19194
+COORD_CONF: high
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: 135 fiál, 3400 soch, mramorová halucinace — ale je to daleko. Metro M3 z Centrale na Duomo, 4 zastávky, 8 minut jízdy, ale s cestou k soupravě a nahoru je to reálně 18–20 minut jednosměrně, tedy 40 minut tam a zpět. Stihnete to jen tak, že si necháte 25 minut na náměstí a nic jiného v Miláně neuvidíte — s batohy a nevyspáním bych to spíš vynechal ve prospěch Monumentale.
+---
+NAME: Střecha Duomu — NESTIHNETE
+LAT: 45.46400
+LON: 9.19230
+COORD_CONF: med
+CITY: Milán
+CAT: vyhlidka
+TOP: no
+DESC: Procházka mezi fiálami po střeše katedrály je jeden z nejsilnějších zážitků v Evropě, ale ve vašem okně to nejde. Otevírá se asi v 9:00, u vstupu je fronta na bezpečnostní kontrolu, výtah 15–16 €, pěšky 10–12 € a 253 schodů, samotná návštěva minimálně 45–60 minut. Plus 40 minut cesty znamená zaručeně zmeškaný Malpensa Express. Nechte na příště.
+---
+NAME: Galleria Vittorio Emanuele II
+LAT: 45.46583
+LON: 9.19000
+COORD_CONF: high
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Skleněná křížová klenba z roku 1877, mozaiková podlaha, býk, do kterého se šlape patou pro štěstí — v neděli v půl desáté skoro prázdná, což je vzácnost. Navazuje přímo na Duomo, takže žádný cestovní čas navíc, zdarma a průchozí nonstop. Dává smysl jedině jako součást varianty "jedeme na Duomo a nic jiného".
+---
+NAME: Santa Maria presso San Satiro
+LAT: 45.46278
+LON: 9.18694
+COORD_CONF: med
+CITY: Milán
+CAT: hidden
+TOP: no
+DESC: Bramanteho falešná perspektiva — chór, který ve skutečnosti měří 97 centimetrů, ale vypadá jako hluboká apsida; renesanční trik, který dodnes rozbíjí mozek. Jsou to 3 minuty pěšky od Duomu po Via Torino, vstup zdarma, v neděli otevřeno kolem bohoslužeb, přibližně od deváté. Reálně jen jako bonus k variantě s Duomem.
+---
+NAME: San Bernardino alle Ossa — kostnice
+LAT: 45.46222
+LON: 9.19278
+COORD_CONF: med
+CITY: Milán
+CAT: hidden
+TOP: no
+DESC: Kostnice obložená tisíci lebek a kostí uspořádaných do rokokových ornamentů, s růžovou freskovou klenbou — nejpodivnější místnost v Miláně. Pozor: v neděli je samotný ossario obvykle ZAVŘENÝ (svatyně bývá jen 9:30–12:00), takže je velká šance, že dojdete k zamčeným dveřím. Od Duomu 5 minut pěšky, zdarma — jen pokud si to dopředu ověříte telefonem.
+---
+NAME: Torre Velasca
+LAT: 45.45972
+LON: 9.18861
+COORD_CONF: med
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Brutalistní "houba" od BBPR z roku 1958 — středověká silueta donjonu přeložená do betonu, jedna z nejkontroverznějších budov Evropy, po nedávné rekonstrukci znovu zářivá. Je to 8 minut pěšky jižně od Duomu, tedy reálně 30 minut jednosměrně z Centrale. V jejich okně to nestihnete spolu s ničím jiným — zařaďte jen jako alternativu k Monumentale, ne navíc.
+---
+NAME: Casa Galimberti
+LAT: 45.47690
+LON: 9.20730
+COORD_CONF: low
+CITY: Milán
+CAT: architektura
+TOP: no
+DESC: Liberty dům z roku 1905 celý pokrytý keramickými panely s ženskými figurami a kovanými balkony — milánská secese v nejdivočejší podobě. Metro M3 z Centrale jednu zastávku na Repubblica a 8 minut pěšky, celkem asi 15 minut. Zdarma, jen zvenku, kdykoli — dobrá volba, pokud nechcete jezdit až na Monumentale.
+---
+NAME: Albergo Diurno Venezia
+LAT: 45.47540
+LON: 9.20620
+COORD_CONF: low
+CITY: Milán
+CAT: hidden
+TOP: no
+DESC: Podzemní art-deco lázně a holičství z roku 1926 pod Piazza Oberdan — mramor, mozaiky, opuštěné kabiny, nejkrásnější zapomenutý interiér v Miláně. Je to objekt FAI a otevírá jen na ohlášené prohlídky, v běžnou srpnovou neděli bude ZAVŘENO — nechoďte tam naslepo. Vstup je přímo v podchodu metra Porta Venezia, asi 12 minut z Centrale.
+---
+NAME: Osa Via Vittor Pisani
+LAT: 45.47940
+LON: 9.19680
+COORD_CONF: med
+CITY: Milán
+CAT: foto
+TOP: no
+DESC: Bulvár lemovaný platany a racionalistickými bloky, který vede přesně v ose od Centrale — nejlepší místo, odkud vyfotit nádraží celé, se zmenšující se perspektivou stromů. Jděte od nádraží po Via Vittor Pisani 10 minut a otočte se; zdarma. Skvělá procházková varianta, když nechcete nikam jezdit metrem.
+---
+NAME: Darsena a Navigli — NESTIHNETE
+LAT: 45.45170
+LON: 9.17690
+COORD_CONF: med
+CITY: Milán
+CAT: voda
+TOP: no
+DESC: Kanály, přístavní bazén a nejhezčí milánská voda — ale metrem M2 z Centrale na Porta Genova je to 20 minut jízdy plus chůze, tedy 55–65 minut tam a zpět. Ve vašem okně to nejde, navíc je Navigli ráno mrtvé (žije večer) a v neděli po Ferragostu skoro všechno zavřené. Zařazeno pro úplnost jako jasné ne.
+---
+NAME: Mercato Centrale Milano — snídaně
+LAT: 45.48720
+LON: 9.20630
+COORD_CONF: med
+CITY: Milán
+CAT: jidlo
+TOP: yes
+DESC: Foodhall přímo v budově nádraží, vstup z Via Sammartini 1, v neděli otevřeno 6:30–23:00 — tedy jistota i den po Ferragostu, kdy má půlka Milána zavřeno. Kafe 1,50–2 €, cornetto 1,80–2,50 €, focaccia nebo panini 5–8 €, kousek pizzy 5 €. Jsou to 3 minuty od nástupiště, ideální na snídani hned po příjezdu.
+---
+NAME: Pavé (pasticceria)
+LAT: 45.48160
+LON: 9.20370
+COORD_CONF: low
+CITY: Milán
+CAT: jidlo
+TOP: no
+DESC: Nejlepší snídaně v dosahu Centrale — Via Felice Casati 27, 8–10 minut pěšky jižně od nádraží, v neděli otevírá od osmé. Croissant 2,50–3,50 €, cappuccino asi 2 €, nedělní brunch kolem 14–15 €. Riziko: milánské pasticcerie často zavírají celý srpen kolem Ferragosta — ověřte na jejich webu nebo Instagramu den předem, jinak fallback Mercato Centrale.
+---
+NAME: Gelsomina — maritozzi
+LAT: 45.48170
+LON: 9.20150
+COORD_CONF: low
+CITY: Milán
+CAT: jidlo
+TOP: no
+DESC: Via Carlo Tenca 5, asi 8 minut pěšky z Centrale — maritozzo se šlehačkou kolem 4 € a slušné kafe, přesně to, co po probdělé noci potřebujete. Otevírá ráno a bývá otevřeno i o víkendu, ale stejně jako Pavé má riziko srpnové dovolené. Sedne to na cestu, když půjdete z nádraží pěšky směrem k Porta Venezia.
+---
+NAME: Úschovna KiPoint (Centrale)
+LAT: 45.48600
+LON: 9.20640
+COORD_CONF: med
+CITY: Milán
+CAT: prakticke
+TOP: no
+DESC: Úschovna na východní straně nádraží, Piazza Luigi di Savoia 1, přízemí; otevřeno zhruba 6:00–23:00. Cena 6 € za zavazadlo na prvních 5 hodin, tedy 12 € za dva batohy — při devadesátiminutové zastávce se to vyplatí jen když opravdu pojedete na Monumentale nebo Duomo. Odbavení může trvat 10 minut ve frontě, počítejte s tím.
+---
+NAME: Malpensa Express — odjezd z Centrale
+LAT: 45.48680
+LON: 9.20390
+COORD_CONF: low
+CITY: Milán
+CAT: prakticke
+TOP: yes
+DESC: Odjíždí ze západní strany nástupišť Centrale, typicky koleje 1–3, vždy ověřte na odjezdové tabuli. Jezdí přibližně každých 30 minut, zhruba v minutách :25 a :55, do T1 asi 51 minut, do T2 asi 60. Lístek 15 €, koupíte v automatech Trenord v hale nebo v appce; papírový je nutné označit. Pro let ve 13:25 doporučuju spoj v 10:25 (na letišti kolem 11:16) jako bezpečný, 10:55 jako poslední rozumný.
+---
+NAME: WC a hygiena na Centrale
+LAT: 45.48650
+LON: 9.20560
+COORD_CONF: low
+CITY: Milán
+CAT: prakticke
+TOP: no
+DESC: Placené záchody na úrovni nástupišť i v dolním patře, vstup asi 1 € přes turnikety, platba mincí i kartou, nedávno zrekonstruované. Veřejné sprchy na Centrale spolehlivě nenajdete — sprchy má jen lounge pro držitele lístků první třídy, takže po probdělé noci to bude jen umyvadlo. Někteří provozovatelé jídla v hale dávají kód na WC k účtence.
+---
+NAME: Lékárna a pitná voda u Centrale
+LAT: 45.48570
+LON: 9.20470
+COORD_CONF: low
+CITY: Milán
+CAT: prakticke
+TOP: no
+DESC: V nádražní budově je lékárna s velmi dlouhou otevírací dobou, v neděli obvykle otevřená, plus drogerie a supermarket v pasáži. Pitnou vodu zdarma naberete z milánských litinových kašniček zvaných vedovelle — nejbližší jsou v zeleni na Piazza Duca d'Aosta a v Giardini u Via Vittor Pisani, voda je pitná a studená. Ušetří to 2–3 € za lahev před letem.
+---
+NAME: Neděle 16. 8. — co je zavřené
+LAT: 45.48611
+LON: 9.20444
+COORD_CONF: high
+CITY: Milán
+CAT: prakticke
+TOP: no
+DESC: 15. 8. je sobota (Ferragosto), takže 16. 8. je normální neděle uprostřed nejmrtvějšího týdne v roce — většina nezávislých kaváren, pekáren a rodinných podniků má dovolenou celý týden a Milán je poloprázdný. Spolehlivě otevřeno: nádraží a Mercato Centrale, metro, Cimitero Monumentale 8:00–18:00, kostely kolem bohoslužeb, parky. Zavřeno nebo nejisté: kostnice San Bernardino, Albergo Diurno, vyhlídka Palazzo Lombardia, malé pasticcerie. Plánujte tak, aby jádro programu bylo venku a zdarma.
+---
+NAME: Plán na 90 minut v Miláně
+LAT: 45.48611
+LON: 9.20444
+COORD_CONF: high
+CITY: Milán
+CAT: prakticke
+TOP: yes
+DESC: Reálně použitelné okno je 09:15–10:45. Varianta A, nejsilnější: 09:15–09:35 nádraží zevnitř (kočárová galerie, pokladní hala, konec nástupišť) plus kafe v Mercato Centrale, 09:35 metro M2 a M5 na Monumentale, 09:55–10:25 hřbitov, 10:25 zpět, 10:50 na nástupišti, odjezd 10:55. Varianta B, klidnější a bez metra: nádraží, murál Hunting Pollution a pěšky přes BAM na Bosco Verticale a Gae Aulenti, zpět v 10:30 — všechno zdarma, nulové riziko zpoždění metra a jde to i s batohy na zádech.

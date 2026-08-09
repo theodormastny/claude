@@ -1,0 +1,305 @@
+NAME: Pisa S. Rossore (nádraží)
+LAT: 43.72396
+LON: 10.38790
+COORD_CONF: high
+CITY: Pisa
+CAT: prakticke
+TOP: no
+DESC: Malé, skoro venkovské nádražíčko — a přitom nejbližší k Šikmé věži (Pisa Centrale je 2 km daleko). Vystoupíte, projdete podchodem a jdete na východ přes Via Andrea Pisano k Porta Nuova. Tohle je váš start v 11:11. Pozor: nádraží nemá úschovnu ani skoro žádné zázemí, jen automat; hned si nastavte tempo, jde se do vedra.
+---
+NAME: Porta Nuova / Piazza Manin
+LAT: 43.72281
+LON: 10.39169
+COORD_CONF: med
+CITY: Pisa
+CAT: foto
+TOP: no
+DESC: Brána v středověké hradbě, kterou se vchází na Piazza dei Miracoli ze západu — a je to nejlepší možný "reveal": projdete tmavým obloukem a najednou před vámi bílé baptisterium, dóm a věž v jedné řadě. Turisté sem přicházejí zezadu z autobusů, vy máte ten filmový vstup zdarma. Cca 6 minut pěšky od S. Rossore. Na Piazza Manin je stín stromů a lavičky — dobré místo přehodit batoh a napít se.
+---
+NAME: Piazza dei Miracoli — trávník
+LAT: 43.72300
+LON: 10.39420
+COORD_CONF: med
+CITY: Pisa
+CAT: foto
+TOP: yes
+DESC: Nejšílenější zelený koberec Itálie: čtyři bílé mramorové monumenty na trávě, urbanisticky naprosto neevropské a proto to tak řeže do očí. Nejlepší kompozice je od západu (od baptisteria) — dóm v ose a věž jak se vyklání ven z fotky. Zdarma, cca 8 minut pěšky od S. Rossore. Pozor: části trávníku jsou oplocené a hlídané, sedět se smí jen na vyznačených plochách — hlídači píšou pokuty.
+---
+NAME: Šikmá věž (Torre pendente)
+LAT: 43.72295
+LON: 10.39660
+COORD_CONF: high
+CITY: Pisa
+CAT: architektura
+TOP: yes
+DESC: 251 schodů po točitém schodišti, které se pod vámi naklání — fyzicky dezorientující zážitek, ne jen fotka. ALE: vstup jen na rezervovaný časový slot (€20 samotná věž, €27 s celým areálem), v srpnu bývá vyprodáno na hodiny dopředu a dovnitř nesmí žádná taška. Cca 10–11 minut pěšky od S. Rossore. Doporučení: s batohy a dvěma hodinami času věž vynechte, pokud nemáte slot koupený předem na 11:30–12:00.
+---
+NAME: Battistero — šílená akustika
+LAT: 43.72253
+LON: 10.39336
+COORD_CONF: high
+CITY: Pisa
+CAT: umeni
+TOP: yes
+DESC: Největší baptisterium na světě a akusticky nejšílenější prostor, do kterého kdy vlezete: hlídač každou půlhodinu zazpívá pár tónů a ony visí ve vzduchu přes 10 sekund, takže se sám se sebou harmonizuje. Vstup €5 samostatně, €7 s Camposantem, €11 kombinovaně; batohy tu nevadí. Cca 8 minut pěšky od S. Rossore — když si pospíšíte, chytíte demonstraci v 11:30. Jděte hned nahoru na ochoz, zvuk je tam ještě lepší.
+---
+NAME: Camposanto — Triumf smrti
+LAT: 43.72389
+LON: 10.39417
+COORD_CONF: high
+CITY: Pisa
+CAT: umeni
+TOP: yes
+DESC: Dlouhá bílá gotická křížová chodba nad posvátnou hlínou z Golgoty, a na stěnách Buffalmaccův "Trionfo della Morte" (1336–41) — tři rozkládající se mrtvoly v otevřených rakvích, lovecká družina, která na ně narazí, a peklo vedle. Po 70 letech restaurování vráceno na zeď v roce 2018, jeden z nejbrutálnějších obrazů středověku. €5 samostatně / €7 s baptisteriem. Bonus: uvnitř je stín a skoro nikdo — ideální úkryt v poledním vedru.
+---
+NAME: Duomo di Pisa
+LAT: 43.72306
+LON: 10.39472
+COORD_CONF: high
+CITY: Pisa
+CAT: architektura
+TOP: no
+DESC: Pruhovaný mramorový interiér, zlatý kazetový strop, Pisanova kazatelna a bronzová lampa, podle legendy inspirující Galileiho k úvahám o kyvadle. Vstup je zdarma, ale potřebujete bezplatnou vstupenku s časem z pokladny — bez papírku vás dovnitř nepustí. Pokladna je u Museo delle Sinopie na jižní straně náměstí, ne u věže.
+---
+NAME: Museo delle Sinopie
+LAT: 43.72243
+LON: 10.39338
+COORD_CONF: med
+CITY: Pisa
+CAT: umeni
+TOP: no
+DESC: Přípravné kresby sejmuté z fresek Camposanta — obří červenohnědé skici v měřítku 1:1, syrovější a strašidelnější než hotové fresky. Naprosto přehlížené místo, obvykle poloprázdné, součást kombinované vstupenky €11. Je tu klimatizace a WC, a je to zároveň hlavní pokladna areálu.
+---
+NAME: Museo dell'Opera del Duomo
+LAT: 43.72238
+LON: 10.39749
+COORD_CONF: med
+CITY: Pisa
+CAT: umeni
+TOP: no
+DESC: Originály soch z fasád od Giovanniho Pisana, pokladnice a hlavně nádvoří s asi nejlepším "domácím" pohledem na věž zezadu — bez davu na trávníku. Součást vstupenky €11. Při dvou hodinách to obětujte ve prospěch Camposanta, pokud si musíte vybrat.
+---
+NAME: Mura di Pisa — vstup Torre S. Maria
+LAT: 43.72409
+LON: 10.39268
+COORD_CONF: med
+CITY: Pisa
+CAT: vyhlidka
+TOP: yes
+DESC: Nejlepší poměr zážitek/cena v Pise: vylezete na středověké hradby a jdete 11 metrů nad městem po koruně zdi — shora vidíte Piazza dei Miracoli tak, jak ji z trávníku nikdo nevidí, plus střechy, zahrady a Apuánské Alpy. €5 (snížené €3), v srpnu denně 10:00–20:00, celá trasa 3 km / ~1 h. Tip pro vás: jděte jen úsek Torre Santa Maria → Bastione del Parlascio (~20–25 min i s focením) a slezte tam. Nahoře není stín, vezměte vodu.
+---
+NAME: Bastione del Parlascio
+LAT: 43.72356
+LON: 10.39972
+COORD_CONF: med
+CITY: Pisa
+CAT: vyhlidka
+TOP: no
+DESC: Mohutná renesanční bašta na severovýchodním rohu hradeb — druhý vstup/výstup z ochozu a solidní vyhlídka zpět na věž. Zahrnuto ve vstupném na hradby (€5). Od věže 5 minut. Perfektní bod, kde ukončit hradby a vrátit se přes náměstí směrem na Pietrasantinu.
+---
+NAME: Bagni di Nerone (římské lázně)
+LAT: 43.72476
+LON: 10.39795
+COORD_CONF: low
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Cihlové ruiny římských termálních lázní z 1.–2. století přímo u severní hradby — kus antické Pisy, kolem kterého denně projdou tisíce lidí a nikdo se nezastaví. Zvenku volně přístupné a zdarma. Cca 5 minut od věže. Pozor: přesnou polohu si ověřte v mapě na místě, tahle souřadnice má nízkou jistotu.
+---
+NAME: Fontanelle — pitná voda
+LAT: 43.72285
+LON: 10.39557
+COORD_CONF: low
+CITY: Pisa
+CAT: prakticke
+TOP: no
+DESC: Po Pise je rozeseto hodně městských fontanelle s pitnou vodou zdarma a voda z kohoutku je v Itálii pitná — v srpnu je tohle váš nejlepší kamarád. Doplňte lahve tady i před odchodem na autobus. Fontánky bývají podél severní hradby a na Piazza Manin, hledejte litinové sloupky.
+---
+NAME: Veřejné WC Piazza del Duomo
+LAT: 43.72244
+LON: 10.39271
+COORD_CONF: low
+CITY: Pisa
+CAT: prakticke
+TOP: no
+DESC: Oficiální placené veřejné WC v areálu Piazza dei Miracoli (kolem €0,80–1, mějte drobné) — v srpnu tu bývá fronta, tak jděte hned po příchodu, ne až na poslední chvíli. Zdarma je WC uvnitř muzeí, pokud máte vstupenku. Skočit si do kavárny bez konzumace vám tady většinou neprojde, personál to hlídá.
+---
+NAME: Úschovna batohů u věže
+LAT: 43.72245
+LON: 10.39135
+COORD_CONF: low
+CITY: Pisa
+CAT: prakticke
+TOP: no
+DESC: V uličkách kolem Via Bonanno Pisano a Piazza Manin je několik komerčních úschoven (Radical Storage, Stasher) v barech a obchodech, typicky €5 za kus a den, rezervace přes appku. Bezplatná úschovna je jen uvnitř věže a jen po dobu výstupu. Upřímný tip: na dvě hodiny se to nevyplatí — batohy unesete, hradby i kostely vás s nimi pustí.
+---
+NAME: Orto Botanico di Pisa
+LAT: 43.71937
+LON: 10.39466
+COORD_CONF: med
+CITY: Pisa
+CAT: priroda
+TOP: yes
+DESC: Nejstarší univerzitní botanická zahrada na světě (1543) — obří magnólie, bambusy, historické skleníky a fontána z mušlí, a hlavně hluboký stín a ticho dva kroky od turistického šílenství. €6 (snížené €3), otevřeno cca 10:00–17:00. Od věže 7 minut na jih. Ideální úkryt, pokud v poledne nechcete stát ve frontě na mramor.
+---
+NAME: San Nicola — druhá šikmá věž
+LAT: 43.71833
+LON: 10.39664
+COORD_CONF: med
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Druhá šikmá věž Pisy, o které skoro nikdo neví: osmiboká románská kampanila s vnitřním šroubovicovým schodištěm, které prý studoval Bramante pro Vatikán. Kostel je zdarma, uvnitř Madona s dítětem od Nina Pisana. Cca 13 minut od S. Rossore, na Via Santa Maria — stinná studentská ulice s normálními cenami, dobrá alternativa k předraženému okolí věže.
+---
+NAME: Piazza dei Cavalieri
+LAT: 43.71943
+LON: 10.40005
+COORD_CONF: high
+CITY: Pisa
+CAT: architektura
+TOP: yes
+DESC: Politické srdce středověké Pisy, které Vasari přestavěl na scénografii Řádu sv. Štěpána — fasáda Palazzo della Carovana je pokrytá sgrafitovými figurami, znameními zvěrokruhu a bustami Medicejských, jedna z nejpodivnějších fasád v Toskánsku. Zdarma. Cca 17 minut od S. Rossore, tedy mimo úsporný plán — zařaďte jen když vynecháte hradby. Nejlepší světlo je dopoledne.
+---
+NAME: Torre della Fame (Ugolino)
+LAT: 43.71990
+LON: 10.40016
+COORD_CONF: med
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Budova s hodinami na Piazza dei Cavalieri v sobě skrývá zazděnou Torre della Muda — věž, kde nechali umřít hlady hraběte Ugolina se syny a vnuky. Právě tenhle příběh dal Dantovi 33. zpěv Pekla. Zvenku zdarma, uvnitř je knihovna Normale a dovnitř se nedostanete. Podívejte se na levý oblouk pod hodinami — tam byl vchod do věže.
+---
+NAME: Santo Stefano dei Cavalieri
+LAT: 43.71928
+LON: 10.40052
+COORD_CONF: med
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Vasariho kostel, jehož strop je ověšený skutečnými osmanskými válečnými prapory ukořistěnými v námořních bitvách 16.–17. století — taková sbírka jinde v Evropě není. Vstup pár eur, někdy zdarma, otevírací doba nepravidelná. Mimo dosah vašeho krátkého okna, ale kdybyste měli víc času, je to nejneotřelejší interiér v Pise.
+---
+NAME: Pizzeria Il Montino (cecina)
+LAT: 43.71960
+LON: 10.40205
+COORD_CONF: med
+CITY: Pisa
+CAT: jidlo
+TOP: no
+DESC: Kultovní podnik místních v uličce za Piazza dei Cavalieri: cecina — křupavá placka z cizrnové mouky pečená v peci na dřevo, vložená do teplé focaccie — plus místní limonáda spuma. Kolem €3–5 za kus, celé jídlo pod 10 €/os. Otevřeno po–so cca 10:30–15:00, berte hotovost. Mimo dosah, pokud jdete na hradby.
+---
+NAME: Piazza delle Vettovaglie
+LAT: 43.71802
+LON: 10.40093
+COORD_CONF: med
+CITY: Pisa
+CAT: jidlo
+TOP: no
+DESC: Dokonale dochovaná renesanční tržní piazza s arkádami po celém obvodu, kdysi Piazza dei Porci — přes den ovoce, sýry a levné bufety, večer studentské epicentrum. Vizuálně nejautentičtější kus staré Pisy. Jídlo v okolí 5–10 €/os. Cca 20 minut od S. Rossore, tedy mimo dosah — ale nejlepší food stop, kdyby vlak přijel dřív.
+---
+NAME: Borgo Stretto (arkády)
+LAT: 43.71790
+LON: 10.40190
+COORD_CONF: med
+CITY: Pisa
+CAT: architektura
+TOP: no
+DESC: Středověká hlavní tepna Pisy pod souvislými arkádami — stín po celé délce i v poledne, což je v srpnu argument sám o sobě. Cestou historická Caffè dell'Ussero a vstupy do bočních uliček k tržnici. Zdarma. Pokud spěcháte zpět, arkády jsou příjemnější než přímá trasa po slunci.
+---
+NAME: San Michele in Borgo — graffiti
+LAT: 43.71755
+LON: 10.40214
+COORD_CONF: med
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Románsko-gotická fasáda na Borgo Stretto, na jejíchž sloupech jsou dochované rytiny a graffiti ze 14.–16. století — doslova středověká komentářová sekce vyškrábaná do mramoru. Vstup zdarma, uvnitř klid a chlad. Hledejte nápisy ve výšce očí na levé straně portálu.
+---
+NAME: Ponte di Mezzo
+LAT: 43.71611
+LON: 10.40028
+COORD_CONF: med
+CITY: Pisa
+CAT: voda
+TOP: no
+DESC: Střed města na Arnu: z mostu jsou obě lungarna v jednom záběru — okrové a pastelové paláce odražené v řece, klasický pohled na Pisu bez věže na fotce. Zdarma, nonstop. Nejlepší je západním směrem k Ponte Solferino, kde v ose stojí Santa Maria della Spina.
+---
+NAME: Gelateria De' Coltelli
+LAT: 43.71664
+LON: 10.39781
+COORD_CONF: med
+CITY: Pisa
+CAT: jidlo
+TOP: yes
+DESC: Nejlepší zmrzlina v Pise a jedna ze 100 nejlepších v Itálii — přírodní, sezónní, sicilské granity a šílené příchutě jako jasmín nebo bergamot, na Lungarno Pacinotti přímo u řeky. Kopeček ~€3, dvojka ~€4,50. Cca 19 minut od S. Rossore, takže mimo dosah, pokud strávíte čas na Miracoli.
+---
+NAME: Santa Maria della Spina
+LAT: 43.71528
+LON: 10.39472
+COORD_CONF: med
+CITY: Pisa
+CAT: architektura
+TOP: yes
+DESC: Miniaturní gotická šperkovnice přímo na nábřeží Arna, celá z bílého a růžového mramoru, posetá fialami, sochami a špičatými vížkami — vypadá jako relikviář zvětšený do velikosti kostela. Postavena kolem 1230 pro trn z Kristovy koruny, v roce 1871 rozebrána a znovu postavena o patro výš kvůli povodním. Zvenku zdarma a exteriér je stejně to hlavní. Mimo dvouhodinové okno, ale po Miracoli nejkrásnější stavba Pisy.
+---
+NAME: Tuttomondo — Keith Haring
+LAT: 43.71232
+LON: 10.39724
+COORD_CONF: med
+CITY: Pisa
+CAT: umeni
+TOP: no
+DESC: 180 m² poslední veřejné murálky Keitha Haringa (červen 1989, rok před jeho smrtí) na zadní stěně kláštera Sant'Antonio Abate — 30 propletených figur o harmonii světa, jedno z mála Haringových děl zamýšlených jako trvalé. Zdarma, nonstop. Mimo dosah, pokud nechcete obětovat Piazza dei Miracoli. Nejlepší foto je z protějšího rohu s odstupem.
+---
+NAME: Palazzo Blu
+LAT: 43.71533
+LON: 10.39821
+COORD_CONF: med
+CITY: Pisa
+CAT: umeni
+TOP: no
+DESC: Pronikavě modrý palác na Lungarno Gambacorti s výstavami moderního umění a volně přístupným atriem — jeho barva je sama o sobě fotogenická anomálie mezi okrovými fasádami. Stálá sbírka bývá zdarma, velké výstavy ~€12. Uvnitř klimatizace a WC, kdyby vás vedro dostalo.
+---
+NAME: Torre Guelfa / Cittadella Vecchia
+LAT: 43.71559
+LON: 10.38584
+COORD_CONF: low
+CITY: Pisa
+CAT: vyhlidka
+TOP: no
+DESC: Věž staré citadely u ústí Arna, ze které je nejneotřelejší panorama Pisy — řeka, střechy, silueta Miracoli v dálce a zelený park San Rossore. Vstup zdarma, ale otevírá se jen sporadicky, což je hlavní háček. Geograficky v dosahu (15–17 min od S. Rossore), časově konkuruje Miracoli. Před cestou ověřte, jestli je vůbec otevřeno.
+---
+NAME: Museo Nazionale di San Matteo
+LAT: 43.71772
+LON: 10.40640
+COORD_CONF: med
+CITY: Pisa
+CAT: umeni
+TOP: no
+DESC: Bývalý klášter na Arnu s hustou sbírkou pisánské středověké malby a soch (Giovanni a Nino Pisano, Masaccio, Simone Martini) — a téměř prázdné sály, protože všichni stojí u věže. Vstup ~€5. Cca 25 minut od S. Rossore, jasně mimo vaše okno; poznamenáno pro případ delší návštěvy.
+---
+NAME: Santa Caterina d'Alessandria
+LAT: 43.72002
+LON: 10.40476
+COORD_CONF: med
+CITY: Pisa
+CAT: hidden
+TOP: no
+DESC: Dominikánský kostel s jednou z nejelegantnějších pisánsko-gotických mramorových fasád vůbec, stojící na velkém prázdném náměstí, kde nepotkáte skoro nikoho — kontrast s Miracoli je absurdní. Zdarma, uvnitř náhrobky a Nino Pisano. Nejlepší foto je zpříma z náměstí, fasáda krásně chytá dopolední světlo.
+---
+NAME: Pizzeria da Teresa (u Bagni di Nerone)
+LAT: 43.72470
+LON: 10.39805
+COORD_CONF: low
+CITY: Pisa
+CAT: jidlo
+TOP: no
+DESC: Poctivá čtvrťová pizzerie od roku 1972 hned u římských lázní, severovýchodně od Miracoli — pizza al taglio, cecina, panini a chlazené pití do 10 €/os., zatímco 300 m odtud platíte turistickou daň. Od věže 5 minut a leží zhruba ve směru vašeho odchodu na sever, dá se sem zaskočit cestou k autobusu.
+---
+NAME: Zastávka Pietrasantina (FlixBus)
+LAT: 43.72952
+LON: 10.38992
+COORD_CONF: high
+CITY: Pisa
+CAT: prakticke
+TOP: yes
+DESC: Odjezd FlixBusu 500 ve 13:50 do La Spezia. Je to jen odstavná plocha u silnice u záchytného parkoviště, tak si ji najděte s předstihem; poblíž je čerpací stanice, bar a WC. Z Piazza dei Miracoli 900 m / 11–13 minut pěšky přes Via Contessa Matilde. Odcházejte z náměstí nejpozději ve 13:20, ideálně 13:15 — s batohy a ve vedru počítejte s rezervou a doplňte vodu ještě na Miracoli.

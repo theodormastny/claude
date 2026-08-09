@@ -1,0 +1,422 @@
+NAME: Piazza dei Signori & Palazzo dei Trecento
+LAT: 45.66573
+LON: 12.24596
+COORD_CONF: high
+CITY: Treviso
+CAT: architektura
+TOP: yes
+DESC: Cihlové srdce města — románsko-gotický Palazzo dei Trecento (1207) na masivních arkádách, pod nimiž je ve vitríně vystaven ORIGINÁL Fontany delle Tette. Náměstí je zdarma a nonstop; interiér paláce s freskami je přístupný jen o víkendech, takže v pondělí zavřeno. Kafe na náměstí je předražené, dej si ho o blok dál.
+---
+NAME: Fontana delle Tette
+LAT: 45.66638
+LON: 12.24523
+COORD_CONF: high
+CITY: Treviso
+CAT: hidden
+TOP: yes
+DESC: Kašna z roku 1559 v podobě ženského poprsí — z jednoho prsu kdysi teklo bílé, z druhého červené víno, zdarma davu při slavnostech nového podesty. Dnes stojí kopie ve dvoře Palazzo Zignoli ve Vicolo Podestà (zdarma, přes den průchozí), originál pod loubím Palazzo dei Trecento. Absolutní bizarnost, kterou většina návštěvníků Trevisa mine, protože je schovaná v průchodu.
+---
+NAME: Canale dei Buranelli
+LAT: 45.66633
+LON: 12.24695
+COORD_CONF: high
+CITY: Treviso
+CAT: foto
+TOP: yes
+DESC: Nejfotogeničtější místo Trevisa: kanál Cagnan lemovaný podloubími a domy stojícími přímo ve vodě, jméno podle kupců z Burana, kteří tu měli sklad. Do druhé světové války tu pradleny praly prádlo přímo v kanálu. Nejlepší světlo brzy ráno — což je přesně, kdy dorazíte z letiště — nebo pozdě odpoledne. Zdarma, nonstop.
+---
+NAME: Isola della Pescheria
+LAT: 45.66670
+LON: 12.24830
+COORD_CONF: med
+CITY: Treviso
+CAT: voda
+TOP: yes
+DESC: Umělý ostrůvek uprostřed kanálu Cagnan, postavený za Rakouska schválně proto, aby se sem přesunul rybí trh a zápach odplouval po vodě. Pozor: rybí trh je v pondělí zavřený (běžně út–so dopoledne), ostrov ale zůstává volně přístupný a je krásný i prázdný, s platany a vodou ze všech stran. Ideální místo na svačinu ze supermarketu.
+---
+NAME: Ponte Dante — soutok Sile a Cagnan
+LAT: 45.66420
+LON: 12.25010
+COORD_CONF: med
+CITY: Treviso
+CAT: foto
+TOP: yes
+DESC: Místo, kde se kanál Cagnan vlévá do řeky Sile — Dante ho zmiňuje v Ráji IX ("dove Sile e Cagnan s'accompagna"). Mostu se přezdívalo "ponte dell'impossibile", protože Trevisané čekali, že spadne jako všechny předchozí. Zdarma, nonstop; nejlepší je sednout si na zábradlí a sledovat vodní trávu vlnící se v křišťálové vodě.
+---
+NAME: Mlýnská kola u Ponte San Francesco
+LAT: 45.66790
+LON: 12.24760
+COORD_CONF: low
+CITY: Treviso
+CAT: hidden
+TOP: no
+DESC: Na Cagnan Grande se dodnes točí dvě funkční mlýnská kola — pozůstatek mlýnů, které mlely mouku pro celé Benátky. Patřila benátským šlechticům Tron, později hrabatům Rinaldi, loupala se tu rýže. Zdarma, nonstop, z ulice; ověř přesnou polohu podle zvuku vody — je slyšet dřív, než je vidět.
+---
+NAME: Piazza Rinaldi — skrytý dvorek
+LAT: 45.66690
+LON: 12.24700
+COORD_CONF: low
+CITY: Treviso
+CAT: hidden
+TOP: no
+DESC: Maličké tiché náměstíčko s gotickými paláci rodiny Rinaldi, schované pár metrů od hlavního tahu, a v průvodcích prakticky neexistuje. Žádní turisté, žádný vstup, jen kamenná studna a fresky. Nonstop, zdarma — ideální pauza s batohy ve stínu.
+---
+NAME: Podloubí Calmaggiore
+LAT: 45.66640
+LON: 12.24500
+COORD_CONF: med
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Hlavní tepna mezi Piazza dei Signori a Dómem, celá pod souvislým podloubím s freskovanými fasádami — Treviso má přezdívku "urbs picta", město malované. Nadace Benetton zkatalogizovala 614 freskovaných domů v centru. Zdarma, nonstop, a v srpnovém vedru je to jediná stinná cesta městem.
+---
+NAME: Duomo San Pietro + krypta
+LAT: 45.66710
+LON: 12.24390
+COORD_CONF: med
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Katedrála se sedmi kupolemi; uvnitř Tizianovo Zvěstování (1517) v kapli Malchiostro a fresky Pordenoneho. Nejlepší je ale krypta: les románských sloupů, zbytky fresek z 11.–14. století a mozaiková podlaha s monstry. Otevřeno denně včetně pondělí 7:30–12:00 a 15:30–18:30, vstup zdarma.
+---
+NAME: Battistero San Giovanni
+LAT: 45.66700
+LON: 12.24365
+COORD_CONF: low
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Přísná románská křtitelnice z 11.–12. století hned vedle Dómu, do zdí zazděné římské kameny — nejstarší dochovaná stavba v centru. Bývá zavřená a otevírá se jen při akcích, ale i zvenku stojí za dvě minuty. Zdarma; v pondělí počítej se zavřeným interiérem.
+---
+NAME: Chiesa di San Nicolò
+LAT: 45.66350
+LON: 12.24150
+COORD_CONF: med
+CITY: Treviso
+CAT: umeni
+TOP: yes
+DESC: Největší kostel Trevisa (větší než katedrála), dominikánský, s obrovskými sloupy, na nichž Tomaso da Modena namaloval světce — a s monumentálním svatým Kryštofem přes celou stěnu. Vzadu renesanční náhrobek Agostina d'Onigo. Vstup zdarma, otevřeno i v pondělí zhruba 8:00–12:00 a 15:30–18:00, odpolední dobu ověř na místě.
+---
+NAME: Sala del Capitolo dei Domenicani
+LAT: 45.66300
+LON: 12.24095
+COORD_CONF: low
+CITY: Treviso
+CAT: umeni
+TOP: yes
+DESC: Kapitulní síň v biskupském semináři hned vedle San Nicolò: 40 dominikánů od Tomasa da Modena (1352), každý u svého pultu, každý s jiným výrazem — a mezi nimi vůbec první vyobrazení brýlí v dějinách umění. Vstup zdarma, otevřeno cca 8:00–18:00 i v pondělí. Je to seminář, ne muzeum — zazvoň. Naprostý vrchol dne a nikdo tam není.
+---
+NAME: Santa Lucia e San Vito
+LAT: 45.66540
+LON: 12.24450
+COORD_CONF: med
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Dva srostlé kostely na Piazza San Vito kousek od Piazza dei Signori; uvnitř gotické fresky giottovské školy a Madonna del Pavejon (Madona s motýlem) od Tomasa da Modena. V pondělí otevřeno POUZE 9:00–12:00 — naplánuj sem dopoledne hned po příjezdu. Vstup zdarma.
+---
+NAME: Chiesa di San Francesco
+LAT: 45.66870
+LON: 12.24680
+COORD_CONF: med
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Františkánský kostel s trámovým stropem, kde leží Pietro Alighieri (Dantův syn) a Francesca Petrarca (Petrarcova dcera) — dvě jména italské literatury v jednom bočním prostoru. Freska Madony s osmi světci připisovaná Tomasovi da Modena. Vstup zdarma, běžně otevřeno i v pondělí dopoledne a pozdě odpoledne, přes poledne zavřeno.
+---
+NAME: Santa Maria Maggiore
+LAT: 45.66590
+LON: 12.23960
+COORD_CONF: low
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Poutní kostel u západních hradeb, uvnitř zázračná freska Madony ze 14. století a barokní výzdoba; Trevisané sem chodí, turisté ne. Otevřeno běžně denně včetně pondělí, dopoledne a pozdní odpoledne, zdarma. Dobrá zastávka na cestě k Porta Santi Quaranta.
+---
+NAME: Museo di Santa Caterina
+LAT: 45.66790
+LON: 12.24880
+COORD_CONF: med
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Bývalý klášter s cyklem svaté Voršily od Tomasa da Modena — hlavní obrazárna města. V PONDĚLÍ ZAVŘENO (otevřeno út–čt 9–18, pá–ne 9–19), takže 10. 8. sem nechoď, jen si prohlédni klášter zvenčí a gotický portál. Vstupné cca 6–10 € podle výstavy.
+---
+NAME: Museo Luigi Bailo
+LAT: 45.66790
+LON: 12.24080
+COORD_CONF: low
+CITY: Treviso
+CAT: umeni
+TOP: no
+DESC: Bílá modernistická přestavba starého kláštera na Borgo Cavour, uvnitř asi 340 děl 20. století a největší sbírka soch Artura Martiniho. V pondělí zavřeno (jinak út–ne 10:00–18:00), ale samotná fasáda je architektonicky velmi silná a stojí za foto. Vstupné cca 6 €.
+---
+NAME: Ca' da Noal a Casa Robegan
+LAT: 45.66840
+LON: 12.24230
+COORD_CONF: low
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Benátsky gotický dům Ca' da Noal a renesanční palác Robegan ve Via Canova, s freskovanou fasádou a zahradou. Jako muzea jsou v pondělí zavřené, ale ulice s fasádami je zadarmo a je to jedna z nejhezčích "urbs picta" scén ve městě. Kombinuj s procházkou k Museo Bailo.
+---
+NAME: Ca' dei Ricchi
+LAT: 45.66630
+LON: 12.24280
+COORD_CONF: low
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Palác z 15. století ve Via Barberia, jehož fasáda je pokrytá stejnými velkými červenými diamanty jako benátský Dóžecí palác — jméno podle bohatství majitelů. Dnes kulturní centrum s kavárnou a dvorkem, do kterého se dá běžně nakouknout zdarma. Pondělní otevírací dobu vnitřku ověř na místě, exteriér nonstop.
+---
+NAME: Casa dei Carraresi
+LAT: 45.66500
+LON: 12.24730
+COORD_CONF: med
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Románsko-gotický dům ze 13. století s dochovanými středověkými freskami uvnitř, dnes výstavní síň a knihkupectví s enotékou. Otevírací doba se řídí aktuální výstavou, v pondělí často zavřeno. Zvenčí je zajímavá cihlová hmota s okny přímo nad uličkou.
+---
+NAME: Loggia dei Cavalieri
+LAT: 45.66640
+LON: 12.24690
+COORD_CONF: med
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Otevřená románská lodžie z roku 1276, kde se šlechtici scházeli hrát šachy a čekat na panovníka — dodnes bez dveří, jen sloupy a zbytky fresek. Volně průchozí nonstop, zdarma; v horku příjemně chladná a klidná. Skvělé místo, kde na chvíli odložit batohy.
+---
+NAME: Porta San Tomaso
+LAT: 45.66963
+LON: 12.25069
+COORD_CONF: high
+CITY: Treviso
+CAT: architektura
+TOP: yes
+DESC: Nejparádnější z trevisských bran (1518), celá v istrijském kameni jako římský triumfální oblouk, s benátským lvem nahoře a vodním příkopem před ní. Volně přístupná nonstop, zdarma; ráno má slunce zezadu, odpoledne zepředu. Kolem ní jsou nejlepší bacari na ombra před odjezdem.
+---
+NAME: Porta Santi Quaranta
+LAT: 45.66702
+LON: 12.23498
+COORD_CONF: high
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Třetí a nejstřídmější brána renesančních hradeb (1517), taky v istrijském kameni, na západním okraji centra. Zdarma, nonstop; okolo ní jde přímo po valu, takže se dá spojit s procházkou po bastionech. Nejméně turistů ze všech tří bran.
+---
+NAME: Porta Altinia
+LAT: 45.66148
+LON: 12.24700
+COORD_CONF: high
+CITY: Treviso
+CAT: architektura
+TOP: no
+DESC: Jižní brána stojící na místě antické římské brány na cestě do Altina — nejstarší jádro ze všech tří, s cihlovou věží. Zdarma, nonstop; leží na přirozené trase mezi nádražím a centrem, takže ji projdeš cestou z busu. Kousek odsud začíná stezka podél Sile.
+---
+NAME: Passeggiata sui Bastioni
+LAT: 45.66880
+LON: 12.24500
+COORD_CONF: low
+CITY: Treviso
+CAT: vyhlidka
+TOP: no
+DESC: Zelený val po vnitřní straně benátských hradeb, v 19. století upravený na stromořadí — jdeš po koruně hradeb s vodním příkopem a labutěmi po jedné straně a městem po druhé. Zdarma, nonstop, plný stín; nejlepší úsek je mezi Porta San Tomaso a Porta Santi Quaranta, asi 20 minut. Ideální kompenzace toho, že jsou v pondělí muzea zavřená.
+---
+NAME: Treviso Sotterranea
+LAT: 45.66963
+LON: 12.25069
+COORD_CONF: low
+CITY: Treviso
+CAT: dobrodruzstvi
+TOP: no
+DESC: Prohlídky podzemních chodeb a kasemat v renesančních hradbách u Porta San Tomaso, po restaurování znovu otevřené od června 2026; odjezdy 17:00, 17:30, 18:00 a 18:30. Nutná rezervace — mail info@trevisosotterranea.it nebo tel. 393 8138381. Ceny řádově 10 €/os., v podzemí je i v srpnu chladno, vezmi mikinu.
+---
+NAME: Riviera Santa Margherita
+LAT: 45.66270
+LON: 12.23820
+COORD_CONF: low
+CITY: Treviso
+CAT: foto
+TOP: no
+DESC: Západní nábřeží Sile s paláci stojícími přímo nad vodou; z kamenného Ponte de Pria je nejhezčí pohled zpátky na město přes zelenou řeku. Zdarma, nonstop, prakticky bez lidí. Přesnou polohu mostu si ověř v mapě, souřadnice je jen orientační.
+---
+NAME: Riviera Garibaldi
+LAT: 45.66280
+LON: 12.24890
+COORD_CONF: med
+CITY: Treviso
+CAT: foto
+TOP: no
+DESC: Jihovýchodní promenáda podél Sile s výhledem na kolonádu domů a rybářské lávky; voda je tak čistá, že je vidět dno a vlnící se vodní tráva. Zdarma, nonstop; nejlepší kolem 18.–20. hodiny, kdy sem chodí místní běhat a slunce jde napříč řekou. Spojuje centrum s Prato della Fiera a stezkou Restera.
+---
+NAME: Prato della Fiera
+LAT: 45.66150
+LON: 12.25130
+COORD_CONF: med
+CITY: Treviso
+CAT: priroda
+TOP: no
+DESC: Obrovská travnatá pláň mezi hradbami a Sile, historicky místo trhů a koňských jarmarků, dnes park s topoly. Zdarma, nonstop — ideální na piknik s věcmi ze supermarketu a odložení batohů do trávy před odjezdem. Odsud se přirozeně napojíš na cyklostezku podél řeky.
+---
+NAME: Restera — vlečná stezka podél Sile
+LAT: 45.66040
+LON: 12.25470
+COORD_CONF: low
+CITY: Treviso
+CAT: priroda
+TOP: yes
+DESC: Stará vlečná stezka podél Sile, po níž koně táhli nákladní bárky do Benátek — dnes rovná, stinná pěší a cyklo trasa přímo z Trevisa do Casier (asi 5 km) a dál na Casale. Zdarma, nonstop, žádné převýšení; s batohy zvládnutelné za hodinu a čtvrt. Nejlepší polodenní výlet, který nevyžaduje jízdenku ani otevírací dobu.
+---
+NAME: Cimitero dei Burci (Casier)
+LAT: 45.64510
+LON: 12.27950
+COORD_CONF: low
+CITY: Treviso
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Zátoka Sile plná trupů dřevěných nákladních lodí burci, které jejich majitelé v 70. letech na protest proti konci říční dopravy schválně potopili — a které dnes zpola vyčnívají z vody a zarostly stromy. Přístup zdarma, nonstop, po hliněné pěšině a dřevěné lávce z Restery; z Trevisa 5–6 km pěšky (asi 1:15) nebo busem MOM do Casier. Nejvíc apokalypticky vypadá při nízkém odpoledním světle. Nelez na vraky, dřevo je prohnilé.
+---
+NAME: Parco dello Storga
+LAT: 45.69220
+LON: 12.26520
+COORD_CONF: low
+CITY: Treviso
+CAT: priroda
+TOP: no
+DESC: Rozlehlý park s prameništi, rybníky a starou nemocniční kolonií na severu Trevisa; naprosto bez turistů, plný volavek. Zdarma, nonstop; z centra asi 4 km, dostupné městským busem MOM nebo na kole. Dobrá volba, když chceš zeleň a nechce se ti až k Sile.
+---
+NAME: Oasi Fontane Bianche (Lancenigo)
+LAT: 45.71150
+LON: 12.26350
+COORD_CONF: low
+CITY: Treviso
+CAT: voda
+TOP: no
+DESC: Prameniště, kde ze země vyvěrá průzračná voda o stálých 12 °C a rodí se říčka Melma — okruh asi 4 km po dřevěných lávkách mezi tůněmi. Vlakem Treviso–Lancenigo (6 minut, ~1,5 €) a pak asi 2 km pěšky; zdarma, nonstop, bez otevírací doby. Pozor: často se plete s jiným "Fontane Bianche" u Sernaglia della Battaglia, ověř si cíl v mapě.
+---
+NAME: Prameny Sile / Quinto di Treviso
+LAT: 45.65540
+LON: 12.16600
+COORD_CONF: low
+CITY: Treviso
+CAT: voda
+TOP: no
+DESC: Horní tok Sile u Quinta s Lago Superiore, mlýnem Cervara a nejdelší resurgentní řekou Evropy vyvěrající přímo z roviny. Vlakem z Treviso Centrale do Quinto di Treviso (10 minut, ~2 €), pak pěšky podél vody; areál parku je volně přístupný a zdarma i v pondělí. Klidná alternativa, když chcete vodu bez davu.
+---
+NAME: Kajak na Sile
+LAT: 45.66280
+LON: 12.24890
+COORD_CONF: low
+CITY: Treviso
+CAT: dobrodruzstvi
+TOP: no
+DESC: Sile se dá sjet na kajaku — půjčovny jezdí z Lughignana směr Casier a k vrakům burci, případně Canoa Club Sile a trasa Canizzano–Treviso přímo do města. Ceny typicky 20–30 €/os. na půlden, nutná rezervace předem, v pondělí často jen na objednávku. Bod je orientační nástupní místo v centru, konkrétní přístaviště si potvrď s půjčovnou.
+---
+NAME: Koupání v Sile — šedá zóna
+LAT: 45.66150
+LON: 12.25130
+COORD_CONF: low
+CITY: Treviso
+CAT: voda
+TOP: no
+DESC: ŠEDÁ ZÓNA: koupání v Sile v katastru Trevisa je obecní vyhláškou zakázané (hygiena, plavidla, proud u jezů) — místní se přesto v horku máčí na travnatých březích za Prato della Fiera. Bezpečná a legální varianta je namočit si nohy z břehu. Neplav v centru a rozhodně ne u jezů a mlýnských náhonů.
+---
+NAME: Le Beccherie — originální tiramisù
+LAT: 45.66540
+LON: 12.24520
+COORD_CONF: med
+CITY: Treviso
+CAT: jidlo
+TOP: yes
+DESC: Restaurace kousek za Piazza dei Signori, kde v roce 1972 Alba Campeol a cukrář Roberto Linguanotto vymysleli tiramisù — dodnes se tu dělá podle originálního receptu. Od března 2026 mají vedle vlastní cukrárnu zaměřenou jen na tiramisù, kde si dáš porci za 5–8 € místo celého menu. Oběd v restauraci přesahuje 15 €/os., takže logika je: levný oběd v bacaru a tiramisù tady. Pondělní zavíračku ověř.
+---
+NAME: Hostaria Dai Naneti
+LAT: 45.66610
+LON: 12.24630
+COORD_CONF: med
+CITY: Treviso
+CAT: jidlo
+TOP: no
+DESC: Jedna z nejstarších osterií ve městě (Vicolo Broli 2) — žádné stoly, jen pult, ombra vína, prkénka se salumi a sýry a cicchetti; hosté stojí venku v uličce. Dva lidi se najedí a napijí klidně do 20 € dohromady. Zavírá brzy odpoledne a v pondělí může mít volno, měj alternativu.
+---
+NAME: Trattoria Muscoli's
+LAT: 45.66680
+LON: 12.24800
+COORD_CONF: med
+CITY: Treviso
+CAT: jidlo
+TOP: no
+DESC: Kultovní osterie ve Via Pescheria přímo u rybího ostrova — proslulý panino al prosecco, mortadela a šunka krájené nožem, cicchetti s baccalà a sušenými rajčaty. Sendvič se sklenkou vyjde na 5–8 €, plný oběd do 15 €/os. Sedí se venku u kanálu; v poledne narváno, přijď před 12:30.
+---
+NAME: Bacari na Piazza Ancilotto
+LAT: 45.66550
+LON: 12.24530
+COORD_CONF: low
+CITY: Treviso
+CAT: bar
+TOP: no
+DESC: Miniaturní náměstíčko schované za Piazza dei Signori, kde vedle sebe stojí Osteria Trevisi a Cantinetta Venegazzù — cicchetti, crostini a víno na stojáka mezi středověkými fasádami. Spritz 2,50–3,50 €, sklenka vína od 2,50 €. Nejlepší mezi 18. a 20. hodinou, kdy se sem nahrne půl Trevisa; s batohy v pohodě, stojí se venku.
+---
+NAME: Antica Osteria Al Botegon
+LAT: 45.66830
+LON: 12.24950
+COORD_CONF: low
+CITY: Treviso
+CAT: bar
+TOP: no
+DESC: Ikona trevisského aperitivu ve stínu Porta San Tomaso — dřevěné stoly a sudy na chodníku, polpette, smaženky a cicchetti. Levné, hlučné, autentické; dva lidé se najedí a napijí kolem 15–20 € celkem. Leží přímo na cestě od hradeb zpátky do centra, hodí se jako poslední zastávka před busem.
+---
+NAME: Úschovna zavazadel u nádraží
+LAT: 45.65950
+LON: 12.24460
+COORD_CONF: low
+CITY: Treviso
+CAT: prakticke
+TOP: yes
+DESC: Treviso Centrale nemá klasickou staniční úschovnu, ale funguje síť partnerských obchodů — Radical Storage (asi 5 €/zavazadlo/den), Stasher a Eelway, některé nonstop. Rezervuj online ještě z letiště, dostaneš přesnou adresu partnera. Tohle udělej hned po příjezdu — celý den v Trevisu s batohy je zbytečná daň.
+---
+NAME: Autobusové nádraží Lungosile Mattei
+LAT: 45.65970
+LON: 12.24560
+COORD_CONF: med
+CITY: Treviso
+CAT: prakticke
+TOP: no
+DESC: Odsud jede linka 8E Treviso–Mestre–Venezia, cesta do Mestre trvá zhruba 45–55 minut. Terminál je 2 minuty pěšky od vlakového nádraží, je tu prodejna jízdenek MOM. Vlak do Mestre je ale rychlejší (25–30 minut, ~3,5 €) a jezdí častěji — bus ber jen když navazuje lépe.
+---
+NAME: Stazione Treviso Centrale
+LAT: 45.65900
+LON: 12.24450
+COORD_CONF: med
+CITY: Treviso
+CAT: prakticke
+TOP: no
+DESC: Hlavní nádraží 10 minut pěšky jižně od centra přes Porta Altinia; odsud vlaky do Venezia Mestre, Quinto di Treviso, Lancenigo, Conegliana i Castelfranca. Jízdenky z automatu, papírovou nezapomeň označit. Jsou tu placené WC i bary — dobré místo na doplnění vody před odjezdem.
+---
+NAME: Letiště Treviso — bus do centra
+LAT: 45.64850
+LON: 12.19440
+COORD_CONF: med
+CITY: Treviso
+CAT: prakticke
+TOP: no
+DESC: Z letiště Treviso-Sant'Angelo jede městská linka MOM č. 6 do Treviso Centrale zhruba každých 20–30 minut, cesta 20 minut, jízdenka 1,50–2,50 € z automatu nebo trafiky (u řidiče dráž). ATVO odsud jezdí i přímo do Mestre a Benátek. Při příletu v 8:00 jsi v centru s rezervou před devátou.
+---
+NAME: Supermarket a jídlo s sebou
+LAT: 45.66600
+LON: 12.24200
+COORD_CONF: low
+CITY: Treviso
+CAT: prakticke
+TOP: no
+DESC: V centru najdeš menší supermarkety (Conad, Alì, Prix) hlavně kolem Borgo Cavour, Via Sant'Agostino a Piazza Borsa; otevřeno běžně i v pondělí zhruba 8:00–20:00. Focaccia, mortadela, rajčata a voda vyjdou na 6–8 € pro dva a sní se to skvěle na Isola della Pescheria nebo v Prato della Fiera. Souřadnice orientační, konkrétní prodejnu si najdi v mapě.
+---
+NAME: Veřejné WC a pitná voda
+LAT: 45.66670
+LON: 12.24830
+COORD_CONF: low
+CITY: Treviso
+CAT: prakticke
+TOP: no
+DESC: Nejjistější veřejné WC je na nádraží (placené) a v barech — dej si kafe za 1,20 € a máš to legitimně; městská WC u Piazza Borsa a Pescherie bývají přes den otevřená, ale ne spolehlivě. Pitná voda: v Trevisu je řada kašen a fontánek v parcích a podél hradebního valu, voda je pitná, pokud není označeno "non potabile". Lahev doplňuj průběžně, srpen v Trevisu je dusný.

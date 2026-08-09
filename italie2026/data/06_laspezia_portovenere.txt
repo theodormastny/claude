@@ -1,0 +1,413 @@
+NAME: San Pietro, Portovenere
+LAT: 44.04890
+LON: 9.83370
+COORD_CONF: med
+CITY: Portovenere
+CAT: vyhlidka
+TOP: yes
+DESC: Černo-bílý pruhovaný gotický kostel posazený na holé skále přímo nad otevřeným mořem — jeden z nejfotogeničtějších bodů celé Ligurie, a vstup je zdarma. Jděte na terasu za kostelem a k lodžii s oblouky, odkud je výhled na Palmarii a útesy Muzzerone; nejlepší světlo je hodinu před západem, 14. 8. zapadá slunce kolem 20:20. Busem ATC 11/P z La Spezia (30–35 minut, 3 € v tabaccherii, u řidiče dvojnásobek) plus 10 minut pěšky vzhůru.
+---
+NAME: Grotta Byron (Grotta Arpaia)
+LAT: 44.04880
+LON: 9.83440
+COORD_CONF: med
+CITY: Portovenere
+CAT: voda
+TOP: yes
+DESC: Skalní zátoka pod kostelem San Pietro, pojmenovaná po Byronovi, který odtud údajně přeplaval záliv do Lerici. Koupat se dá — není to pláž, ale skalní plotny a hluboká, průzračná voda; krátké schody vedou dolů. Vstup volný přes průchod v hradbě od Piazza Spallanzani; ideální mezi 17:00 a 19:30, kdy davy odplouvají a voda je nejteplejší. Boty do vody se hodí, skály jsou ostré a když fouká, je tam proud.
+---
+NAME: Castello Doria, Portovenere
+LAT: 44.05060
+LON: 9.83460
+COORD_CONF: med
+CITY: Portovenere
+CAT: vyhlidka
+TOP: yes
+DESC: Janovská pevnost z 12.–16. století nad vesnicí, s obřími terasami a zdmi, ze kterých vidíte celý Golfo dei Poeti od Lerici po Palmarii. Vstupné kolem 5 €, ale hlídejte zavírací dobu — v létě obvykle do 18:00–19:00, takže sem jděte hned po příjezdu a San Pietro s Byronovou jeskyní si nechte na západ slunce. Terasy jsou geometricky šílené, kamenné rampy a kasematy skvělé na foto.
+---
+NAME: Calata Doria — barevná fronta
+LAT: 44.05230
+LON: 9.83660
+COORD_CONF: med
+CITY: Portovenere
+CAT: foto
+TOP: no
+DESC: Řada extrémně úzkých pastelových domů-věží, které tvoří obrannou zeď borga přímo z vody — nejlepší je vyfotit je z mola nebo z lodi při připlutí. Na začátku Calaty je malá volná plážička, kde se dá skočit do vody mezi loďkami. Večer se rozsvítí okna a je to nejhezčí místo na procházku po večeři.
+---
+NAME: San Lorenzo, Portovenere
+LAT: 44.05120
+LON: 9.83500
+COORD_CONF: med
+CITY: Portovenere
+CAT: architektura
+TOP: no
+DESC: Románský kostel z roku 1130 s pruhovanou fasádou, schovaný nad hlavní ulicí na cestě k hradu — turisté ho většinou minou. Uvnitř je uctívána Madonna Bianca, patronka Portovenere. Vstup zdarma, jen pár minut, ale je to klidná pauza uprostřed davu.
+---
+NAME: Spiaggia dell'Olivo
+LAT: 44.05680
+LON: 9.83730
+COORD_CONF: low
+CITY: Portovenere
+CAT: voda
+TOP: no
+DESC: Největší volná pláž Portovenere, oblázky s pískem, pár minut pěšky severně od centra podél silnice — dostupná bez lodi, takže ideální na rychlé osvěžení hned po příjezdu busem. Zdarma, bez servisu, vezměte si vlastní vodu. Odpoledne tu je stín z útesu poměrně brzy.
+---
+NAME: Skalní plotny pod San Pietro
+LAT: 44.04840
+LON: 9.83320
+COORD_CONF: low
+CITY: Portovenere
+CAT: dobrodruzstvi
+TOP: no
+DESC: Za kostelem San Pietro se dá po skalách sestoupit k plotnám, kde místní skáčou do hluboké vody přímo pod kostelem — brutálně estetická scenérie, ale žádné zábradlí. ŠEDÁ ZÓNA A RIZIKO: není to oficiální koupaliště, skoro nikde nejsou schody, skály jsou kluzké a při vlnách nebezpečné — nedělejte to, když je moře neklidné nebo tam nikdo není. Zdarma, nejlepší v bezvětří kolem 18:00.
+---
+NAME: Přívoz na Palmarii
+LAT: 44.05250
+LON: 9.83680
+COORD_CONF: med
+CITY: Portovenere
+CAT: prakticke
+TOP: no
+DESC: Z Calaty Doria jezdí Cooperativa Barcaioli na ostrov Palmaria prakticky nonstop, plavba trvá asi 5 minut, obousměrně 5–7 €. V létě jezdí i k Pozzale a Punta Secco. Poslední zpáteční spoje jsou brzy večer — než nasednete, zeptejte se na poslední odjezd zpět, jinak zůstanete na ostrově, kde není žádná veřejná doprava.
+---
+NAME: Palmaria — Terrizzo
+LAT: 44.05100
+LON: 9.84080
+COORD_CONF: low
+CITY: Palmaria
+CAT: priroda
+TOP: no
+DESC: Přístaviště na straně ostrova obrácené k Portovenere — odtud vede okružní stezka kolem celého ostrova (2–3 hodiny) a kratší napojení na Pozzale. Nejlepší efekt: přeplout na Palmarii jen na hodinu, dát si koupel a dívat se na Portovenere zvenčí, což je pohled, který z pevniny nemáte. Na ostrově je jen pár barů, vodu si vezměte s sebou.
+---
+NAME: Spiaggia del Pozzale, Palmaria
+LAT: 44.04570
+LON: 9.84680
+COORD_CONF: low
+CITY: Palmaria
+CAT: voda
+TOP: yes
+DESC: Oblázková pláž na odvrácené straně Palmarie s výhledem přes záliv na La Spezii — voda je tu čistší a lidí výrazně méně než v Portovenere. V létě sem jezdí barcaioli přímo, jinak pěšky z Terrizza asi 25 minut po stezce. Je to ta varianta "skok do moře", kterou chcete, když máte jen jedno odpoledne.
+---
+NAME: Punta Secco, Palmaria
+LAT: 44.05170
+LON: 9.84150
+COORD_CONF: low
+CITY: Palmaria
+CAT: voda
+TOP: no
+DESC: Molo a volná pláž na severním cípu ostrova, výchozí bod všech ostrovních stezek — plotny a hluboká voda hned u břehu. Skvělé pro rychlé namočení a návrat poslední lodí. Bez zázemí, počítejte s vlastním jídlem a pitím.
+---
+NAME: Forte Cavour, Palmaria
+LAT: 44.04310
+LON: 9.84020
+COORD_CONF: low
+CITY: Palmaria
+CAT: hidden
+TOP: no
+DESC: Obří opuštěná pevnost z 19. století na vrcholu Palmarie, mezi ostrůvky vojenských ruin a bunkrů — kulisa jako z postapokalyptického filmu. ŠEDÁ ZÓNA: části areálu jsou vojenské nebo oplocené a vstup dovnitř není povolen, exteriér a cesta kolem se ale běžně chodí. Výstup asi 40 minut od Terrizza a nestihne se, pokud jedete na Palmarii až po 18:00.
+---
+NAME: Monte Muzzerone — falesie
+LAT: 44.05430
+LON: 9.82440
+COORD_CONF: low
+CITY: Portovenere
+CAT: vyhlidka
+TOP: yes
+DESC: Bílé vápencové stěny padající kolmo do tyrkysového moře, jedna z nejdivočejších lezeckých falesií v Itálii — a stačí sem vyjít po stezce č. 1 z Portovenere za asi 30 minut. Z terasy Rifugia Muzzerone je výhled na Portovenere, Palmarii a Apeniny a dá se sem dojít i na pivo. Cesta je vzhůru a v srpnu horko: jděte po 17:30, vezměte 1,5 litru vody na osobu a čelovku na sestup.
+---
+NAME: Le Grazie — muscoli a Ferragosto
+LAT: 44.06770
+LON: 9.83530
+COORD_CONF: med
+CITY: Portovenere
+CAT: jidlo
+TOP: no
+DESC: Rybářská vesnička na trase busu 11/P mezi La Spezií a Portovenere, plná mušlových farem — tady se jedí pověstné muscoli ripieni, plněné slávky, mnohem levněji než v Portovenere. Bonus: 15.–17. srpna se tu koná Ferragosto in Borgata s jídlem a hudbou, takže 14. 8. večer už se obvykle staví stánky. Jízdné stejné jako do Portovenere, jen vystoupíte dřív.
+---
+NAME: Fezzano
+LAT: 44.07500
+LON: 9.83500
+COORD_CONF: low
+CITY: Portovenere
+CAT: hidden
+TOP: no
+DESC: Ještě menší a ještě méně turistická zátoka na téže lince 11/P, s malým přístavem a molem, ze kterého se dá skočit do vody při západu slunce. Nulová turistická infrastruktura, jen bar nebo dva — přesně to místo, kde večer sedí jen místní. Ideální kompromis, pokud nechcete tlačenici v Portovenere.
+---
+NAME: Molo Italia — lodě do Portovenere
+LAT: 44.10020
+LON: 9.83010
+COORD_CONF: low
+CITY: La Spezia
+CAT: prakticke
+TOP: yes
+DESC: Odtud vyplouvají lodě Navigazione Golfo dei Poeti do Portovenere a Lerici; sezona 2026 běží 28. 3. – 27. 9. Jednosměrná jízdenka do Portovenere stojí asi 6 €, zpáteční 12–15 €, plavba 30 minut a je to nejkrásnější příjezd, jaký existuje. Pozor: poslední lodě zpět z Portovenere jsou už kolem 18:30–19:00, takže správná kombinace je lodí tam a busem 11/P zpět v noci.
+---
+NAME: Zastávka busu 11/P, Via Chiodo
+LAT: 44.10310
+LON: 9.82910
+COORD_CONF: low
+CITY: La Spezia
+CAT: prakticke
+TOP: no
+DESC: Hlavní nástupní místo linky ATC 11/P do Portovenere v centru La Spezia, u nábřeží. V létě jezdí zhruba každých 20–30 minut od rána do cca 23:00; po 20:00 už jen jednou za hodinu, jízda 30–35 minut. Lístek asi 3 € kupte předem v tabaccherii, u řidiče je dvakrát dražší, a rovnou si vezměte i zpáteční, protože večer v Portovenere může být zavřeno.
+---
+NAME: La Spezia Centrale
+LAT: 44.10740
+LON: 9.81040
+COORD_CONF: med
+CITY: La Spezia
+CAT: prakticke
+TOP: no
+DESC: Odtud jede váš vlak v 09:20 do Riomaggiore. Z centra je to 15–20 minut pěšky do kopce, z ubytování na Via Severino Ferrari počítejte 30–35 minut pěšky nebo městský bus. Ráno 15. 8. je státní svátek: automaty fungují, ale fronty na Cinque Terre Card bývají brutální, takže buďte na nádraží aspoň 30 minut předem. Vlak do Riomaggiore trvá jen 8 minut.
+---
+NAME: FlixBus zastávka Via Carducci 128
+LAT: 44.11377
+LON: 9.84751
+COORD_CONF: high
+CITY: La Spezia
+CAT: prakticke
+TOP: no
+DESC: Sem přijedete ve 14:55 — je to zajížďka k parkovišti na východní straně města, ne v centru. Do centra a na nádraží jsou to asi 3 km / 35 minut pěšky, počítejte s městským busem nebo svižnou chůzí. Na ubytování na Via Severino Ferrari 101 je to naopak jen asi 1 km na západ, tedy 12–15 minut pěšky — check-in stihnete pohodlně do 15:20.
+---
+NAME: Ubytování Via Severino Ferrari 101
+LAT: 44.11506
+LON: 9.83594
+COORD_CONF: low
+CITY: La Spezia
+CAT: prakticke
+TOP: no
+DESC: Esterina Rooms, severovýchodní část La Spezia, asi 1 km od FlixBus zastávky a 2 km od centra a nábřeží. Check-in 15:00–19:00 je úzké okno — jděte tam rovnou od busu, odložte batohy a hned pokračujte do centra na bus 11/P, ať jste v Portovenere kolem 17:00. Souřadnice odpovídají středu ulice, číslo 101 může být o pár desítek metrů jinde.
+---
+NAME: Via del Prione
+LAT: 44.10600
+LON: 9.82600
+COORD_CONF: med
+CITY: La Spezia
+CAT: architektura
+TOP: yes
+DESC: Páteřní pěší třída starého města — úzký kaňon mezi vysokými domy, který vede od nábřeží až k Piazza Sant'Agostino, plný focaccerií, vinoték a starých krámků. Nejlepší je večer po 19:00, kdy se otevře aperitivo a ulice ožije místními. Tady vyřešíte večeři, gelato i nákup na zítřek — nejefektivnější ulice ve městě.
+---
+NAME: Quartiere Umbertino — liberty fasády
+LAT: 44.10930
+LON: 9.82830
+COORD_CONF: low
+CITY: La Spezia
+CAT: architektura
+TOP: no
+DESC: Čtvrť severně od centra, postavená kolem roku 1900 pro námořní arzenál — pravidelná mřížka ulic s nečekaně bohatými secesními fasádami, štuky, balkony a kovanými zábradlími. Je to sešlé, žité a fotograficky mnohem zajímavější než vylízané centrum. Zdarma, klidně cestou z ubytování do centra.
+---
+NAME: Piazza Verdi — instalace Daniela Burena
+LAT: 44.10740
+LON: 9.82970
+COORD_CONF: low
+CITY: La Spezia
+CAT: umeni
+TOP: no
+DESC: Náměstí přestavěné podle návrhu francouzského konceptualisty Daniela Burena — pruhované sloupy, barevná zrcadlová pole a geometrie, kterou buď milujete, nebo nenávidíte. Místní ji dodnes proklínají, což je samo o sobě dobrý důvod se tam jít podívat. V noci nasvícené, dobré na foto, cestou k nábřeží.
+---
+NAME: Palazzo delle Poste — futuristická mozaika
+LAT: 44.10720
+LON: 9.82930
+COORD_CONF: low
+CITY: La Spezia
+CAT: umeni
+TOP: no
+DESC: Racionalistická pošta z 30. let ukrývá uvnitř obří futuristickou mozaiku od Fillii — jeden z nejlepších příkladů italského futurismu v architektuře, o kterém skoro nikdo neví. Vstup zdarma během otevírací doby pošty, tedy všední dny dopoledne, takže 14. 8. odpoledne to spíš nestihnete. Exteriér ale stojí za pohled.
+---
+NAME: Castello San Giorgio
+LAT: 44.10470
+LON: 9.82960
+COORD_CONF: med
+CITY: La Spezia
+CAT: vyhlidka
+TOP: yes
+DESC: Pevnost na kopci nad starým městem s terasou, ze které vidíte celý záliv, arzenál a lodě. Letní otevírací doba je zhruba 10:30–17:30, v úterý zavřeno; vstup do muzea je placený, ale nahoru vede veřejný VÝTAH ZDARMA. Vzhledem k příjezdu ve 14:55 je to buď rychlá zastávka před odjezdem do Portovenere, nebo si aspoň vyjeďte výtahem na terasu za výhledem.
+---
+NAME: Passeggiata Morin
+LAT: 44.10250
+LON: 9.82850
+COORD_CONF: med
+CITY: La Spezia
+CAT: foto
+TOP: yes
+DESC: Palmová promenáda podél zálivu s výhledem na vojenský arzenál a kopce nad Portovenere — večerní korzo místních, kde se sejde celé město. Sem se vraťte po návratu z Portovenere na noční procházku a poslední drink; je to zdarma a v srpnu tu bývá živá hudba a stánky.
+---
+NAME: Mercato coperto, Piazza Cavour
+LAT: 44.10820
+LON: 9.82530
+COORD_CONF: med
+CITY: La Spezia
+CAT: jidlo
+TOP: no
+DESC: Zastřešená tržnice a venkovní stánky na Piazza Cavour — ryby, sýry, focaccia, ovoce, vše výrazně levněji než v podnicích. Funguje dopoledne zhruba 7:00–13:00, takže 14. 8. odpoledne už nic nekoupíte; okolní bary a lokály ale jedou večer a sedí tam místní. Pro nákup na trek je lepší supermarket.
+---
+NAME: CAMeC — moderní umění
+LAT: 44.10800
+LON: 9.82720
+COORD_CONF: low
+CITY: La Spezia
+CAT: umeni
+TOP: no
+DESC: Centro Arte Moderna e Contemporanea na Piazza Cesare Battisti, s dobrou sbírkou italského poválečného umění a měnícími se výstavami. Je součástí kumulované vstupenky za 14 €, která platí 72 hodin a zahrnuje i Castello San Giorgio a Museo Lia. Otevřeno do pozdního odpoledne — hodí se jako záložní plán, kdyby se pokazilo počasí.
+---
+NAME: Museo Amedeo Lia
+LAT: 44.10680
+LON: 9.82340
+COORD_CONF: low
+CITY: La Spezia
+CAT: umeni
+TOP: no
+DESC: Soukromá sbírka v bývalém františkánském klášteře na Via del Prione — Tizian, Bellini, Pontormo a k tomu ohromující sbírka miniatur a skla, v prostoru, který sám o sobě stojí za vstup. Naprosto nedoceněné muzeum na italské poměry, skoro prázdné. Vstup zvlášť nebo v kombinované vstupence za 14 €.
+---
+NAME: La Pia Centenaria — farinata
+LAT: 44.10620
+LON: 9.82480
+COORD_CONF: low
+CITY: La Spezia
+CAT: jidlo
+TOP: yes
+DESC: Legendární podnik z roku 1887 ve Via Magenta, kde se dělá pravá ligurská farinata — křupavá cizrnová placka z pece na dřevo — a pizza. Kus farinaty vyjde na pár eur, plná večeře pro dva pod 25 €. Chodí se sem stát fronta, ale je to nejlepší poměr chuť/cena ve městě; v pátek večer před Ferragostem přijďte spíš v 19:00 než ve 21:00.
+---
+NAME: Gran Gusto — plněná focaccia
+LAT: 44.10630
+LON: 9.82440
+COORD_CONF: low
+CITY: La Spezia
+CAT: jidlo
+TOP: no
+DESC: Via del Prione 162: 47 druhů plněné focaccie, každá pojmenovaná po jedné čtvrti La Spezia, se surovinami DOP a IGP. Rychlé, levné (5–7 € za pořádnou porci) a ideální na zabalení sendviče na zítřejší trek v Cinque Terre. Vezměte si dvě navíc na ráno — 15. 8. je svátek a spousta krámů bude zavřená.
+---
+NAME: Spezialità — focacceria bistrò
+LAT: 44.10490
+LON: 9.82870
+COORD_CONF: low
+CITY: La Spezia
+CAT: jidlo
+TOP: no
+DESC: Via del Prione 5/7, hned u nábřežního konce ulice — focaccia, kterou hosté opakovaně označují za nejlepší, co kdy jedli, plus bistro menu. Dobré na rychlou zastávku před odjezdem busu 11/P do Portovenere. Ceny nízké, otevírá i na aperitivo.
+---
+NAME: Muscoli ripieni v Portovenere
+LAT: 44.05190
+LON: 9.83600
+COORD_CONF: low
+CITY: Portovenere
+CAT: jidlo
+TOP: yes
+DESC: Podniky podél Calaty Doria servírují místní specialitu — obří slávky z farem v zálivu, plněné chlebem, bylinkami a sýrem, nebo prostě alla marinara. Porce vyjde na 12–16 € a s výhledem na barevné domy a hrad je to nejlepší večeře dne. Tip pro rozpočet: dejte si jen muscoli, focacciu a pivo, hlavní chody jsou tu předražené. V pátek před Ferragostem rezervujte nebo přijďte v 19:00.
+---
+NAME: Aperitivo na Porto Mirabello
+LAT: 44.10060
+LON: 9.83300
+COORD_CONF: low
+CITY: La Spezia
+CAT: bar
+TOP: no
+DESC: Jachtařský přístav a bary kolem terminálu dělají aperitivo přímo u vody — spritz kolem 6–8 € a k němu švédský stůl slaných věcí, což bývá levnější než večeře. Bývají tu DJ sety a živé kapely, obzvlášť o víkendu před svátkem. Je to trochu turističtější než centrum, ale výhled na kopce a lodě to vyváží.
+---
+NAME: Bary na Corso Cavour
+LAT: 44.10820
+LON: 9.82600
+COORD_CONF: low
+CITY: La Spezia
+CAT: bar
+TOP: no
+DESC: Okolí Corso Cavour a Piazza Cavour je ta část města, kde večer sedí spezzini, ne turisté — koktejlové bary, pivnice a vinárny v hustotě několik na blok. Aperitivo vyjde na 5–7 €, začíná se kolem 19:00 a jede se do noci. Skvělá volba, pokud se z Portovenere vrátíte posledním busem kolem jedenácté a chcete ještě někam sednout.
+---
+NAME: Vinárny E.C.L.E.T.T.I.C.A. a La Scuna
+LAT: 44.10650
+LON: 9.82700
+COORD_CONF: low
+CITY: La Spezia
+CAT: bar
+TOP: no
+DESC: Dva podniky, které se v místních přehledech opakují: E.C.L.E.T.T.I.C.A. dělá koktejly na místních surovinách, La Scuna je poctivá sousedská vinárna s pivem. Sklenka ligurského Vermentina kolem 4–5 €, atmosféra bez turistického nádechu. Obojí je v docházkové vzdálenosti od Via del Prione.
+---
+NAME: Lerici — hrad nad zátokou
+LAT: 44.07550
+LON: 9.91140
+COORD_CONF: med
+CITY: Lerici
+CAT: architektura
+TOP: no
+DESC: Pisánsko-janovská pevnost na skále nad barevným městečkem na druhé straně zálivu — jiná, měkčí verze Portovenere, s promenádou a plážemi. Jede sem bus ATC z La Spezia (30–40 minut, 3 €), poslední spoje zpět v létě bývají kolem 23:00, ale ověřte si to u řidiče, jinak uvíznete. Upřímně: v jeden večer se stihne buď Lerici, NEBO Portovenere — a Portovenere je vizuálně silnější.
+---
+NAME: San Terenzo
+LAT: 44.08010
+LON: 9.90130
+COORD_CONF: low
+CITY: Lerici
+CAT: voda
+TOP: no
+DESC: Zátoka se skutečnou písečnou pláží, malým hradem na ostrohu a vilou, kde bydleli Shelleyovi — 20 minut pěšky od Lerici po pobřežní promenádě. Nejlepší koupání v celém zálivu, které je dostupné busem a zdarma. Na 14. 8. večer se sem tradičně sjíždějí lidé na předferragostové oslavy, ale programy se zveřejňují na poslední chvíli.
+---
+NAME: Tellaro
+LAT: 44.05340
+LON: 9.92610
+COORD_CONF: med
+CITY: Lerici
+CAT: hidden
+TOP: yes
+DESC: Růžovo-oranžová vesnička nalepená na skálu nad mořem, jedna z nejkrásnějších vesnic Itálie a mnohem tišší než Cinque Terre — uličky končí přímo nad vodou a dá se skočit ze skal u kostela. Jede se busem přes Lerici s přestupem, celkem 50–60 minut z La Spezia. Pozor: poslední bus zpět je brzy a spojení je řídké — jako večerní výlet je to riskantní, funguje spíš jako alternativa k Portovenere na celé odpoledne.
+---
+NAME: Fiascherino — skalní zátoky
+LAT: 44.05880
+LON: 9.92240
+COORD_CONF: low
+CITY: Lerici
+CAT: voda
+TOP: no
+DESC: Dvě malé zátoky mezi Lerici a Tellarem, obklopené borovicemi a skalami, s výrazně čistší vodou než městské pláže. Dojedete busem Lerici–Tellaro a pak sejdete pěšinou dolů; část je volná pláž, část placený stabilimento. Sestup i výstup jsou strmé, počítejte 15 minut zpět nahoru na bus.
+---
+NAME: Forte Monte Parodi
+LAT: 44.13400
+LON: 9.83300
+COORD_CONF: low
+CITY: La Spezia
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Opuštěná pevnost z let 1883–85 na kopci nad La Spezií, dnes bez ostrahy, s otevřenou branou a jen pár rádiovými vysílači — ticho, kasematy a naprosto brutální rozhled na celý záliv, Cinque Terre, Apuánské Alpy a Versilii. Od parkoviště pod vrcholem asi 300 metrů po pěšině. ŠEDÁ ZÓNA: objekt je oficiálně opuštěný a nezajištěný, vstupujete na vlastní nebezpečí. Bez auta je to náročné, výstup pěšky z města 1,5–2 hodiny, takže na 14. 8. odpoledne to reálně nestihnete.
+---
+NAME: Forte Bramapane
+LAT: 44.12900
+LON: 9.82400
+COORD_CONF: low
+CITY: La Spezia
+CAT: hidden
+TOP: no
+DESC: Druhá z opuštěných pevností nad městem, od konce druhé světové války zarostlá a rozpadlá — kultovní cíl místních nedělních výletů a urbexových fotografů. Přístup po značených stezkách z okraje La Spezia. ŠEDÁ ZÓNA: neudržovaný objekt, propadlé stropy a nezajištěné šachty — dovnitř nechoďte, exteriér a výhled bohatě stačí.
+---
+NAME: Campiglia Tramonti — západ slunce
+LAT: 44.09300
+LON: 9.79600
+COORD_CONF: low
+CITY: La Spezia
+CAT: vyhlidka
+TOP: no
+DESC: Vesnička na hřebeni nad Cinque Terre, kam jede městský bus z La Spezia (linka 2, asi 3 €, 30 minut) — odtud jsou terasovité vinice padající 300 metrů kolmo do moře a nejlepší západ slunce v okolí bez lodí. Je to druhá strana hor, takže slunce zapadá přímo do moře. Poslední bus zpět jede brzy večer, ověřte si ho PŘED výjezdem, jinak jdete 2 hodiny dolů pěšky.
+---
+NAME: Supermarket na trek
+LAT: 44.10990
+LON: 9.83070
+COORD_CONF: low
+CITY: La Spezia
+CAT: prakticke
+TOP: yes
+DESC: Kolem Piazza Brin a Corso Nazionale je několik supermarketů (Conad, Coop, Carrefour), otevřených zhruba do 20:00–21:00 — nakupte VEČER 14. 8., protože 15. 8. je Ferragosto a většina obchodů bude zavřená nebo jen dopoledne. Na trek si vezměte minimálně 2 litry vody na osobu, focacciu, sůl nebo elektrolyty a ovoce. V Riomaggiore je všechno dvakrát až třikrát dražší.
+---
+NAME: Lékárna a pohotovostní služba
+LAT: 44.10700
+LON: 9.82600
+COORD_CONF: low
+CITY: La Spezia
+CAT: prakticke
+TOP: no
+DESC: Lékárny jsou hustě rozeseté po Corso Cavour a Via del Prione; přes svátek 15. 8. funguje rotační pohotovostní služba (farmacia di turno), seznam visí ve výloze každé lékárny. Kupte si opalovací krém a náplasti na puchýře už 14. večer. Evropský průkaz pojištěnce tady funguje.
+---
+NAME: Ferragosto — co se kdy koná
+LAT: 44.05230
+LON: 9.83660
+COORD_CONF: med
+CITY: Portovenere
+CAT: prakticke
+TOP: no
+DESC: Ověřeno: velká Festa della Madonna Bianca v Portovenere je až 17. 8. (přes 2000 pochodní na skalách i v Byronově jeskyni), takže ji nestihnete. Palio del Golfo s ohňostrojem v La Spezii proběhl 2. 8., Ferragosto in Borgata v Le Grazie je 15.–17. 8. Na 14. 8. není potvrzená žádná velká oficiální akce, ale je to pátek před svátkem: bary, nábřeží a Via del Prione budou plné a festival La Spezia Estate běží do 16. 8. Program si ověřte na visitspezia.it nebo na plakátech ve městě.

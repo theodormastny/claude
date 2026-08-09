@@ -1,0 +1,611 @@
+NAME: Vstupné do Benátek — 11. 8. se NEPLATÍ
+LAT: 45.44120
+LON: 12.32090
+COORD_CONF: med
+CITY: Benátky
+CAT: prakticke
+TOP: no
+DESC: Contributo di accesso se v roce 2026 vybíral jen 60 vybraných dní od 3. 4. do 26. 7., vždy 8:30–16:00. Úterý 11. 8. do toho okna nespadá — neplatíte nic, nepotřebujete QR kód ani registraci. Venezia Unica City Pass také není povinný, je to jen dobrovolný balíček slev. Pro jistotu si den před cestou zkontrolujte cda.ve.it.
+---
+NAME: Vaporetto — jízdné a linky
+LAT: 45.44540
+LON: 12.34140
+COORD_CONF: med
+CITY: Benátky
+CAT: prakticke
+TOP: no
+DESC: Jednotlivá jízdenka ACTV stojí 9,50 € a platí 75 minut (přestupy ano, zpáteční cesta ne), 24hodinová 25 €, 48h 35 €. Pokud plánujete ostrovy, 24h pass se vyplatí už při třetí jízdě. Bod je Fondamente Nove, odkud jedou linky 4.1/4.2 na San Michele (5 minut) a linka 12 na Murano–Burano–Torcello. Pass platí i na autobusy na Lidu.
+---
+NAME: Scuola Grande di San Rocco
+LAT: 45.43700
+LON: 12.32620
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Tintorettova "Sixtinská kaple" — přes 60 obrazů, které maloval 23 let přímo pro tenhle dům, a nikdo je odsud nikdy neodnesl. V Sala Superiore si vezměte zrcadlo (leží tam v koších) a dívejte se do stropu, jinak si zničíte krk. Denně 9:30–17:30, 12 €, kombi s kostelem San Rocco 14 €. Choďte hned po otevření nebo po 16:00.
+---
+NAME: San Pantalon — největší malovaný strop světa
+LAT: 45.43556
+LON: 12.32417
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Zvenku ošklivá cihlová fasáda bez obkladu, uvnitř 443 m² plátna od Fumianiho — 44 pláten poskládaných tak, že strop opticky mizí do nebe. Fumiani na tom dělal 24 let a pak spadl z lešení a zabil se. Vstup zdarma, obvykle otevřeno dopoledne a pozdě odpoledne, přes poledne zavřeno. Vejděte, sedněte si do lavice a lehněte hlavu dozadu — nejlepší bezplatný zážitek v Benátkách.
+---
+NAME: Madonna dell'Orto — Tintorettův kostel
+LAT: 45.44634
+LON: 12.33247
+COORD_CONF: high
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Tintorettova farnost, jeho hrob a dvě obří plátna po stranách presbytáře (Poslední soud a Klanění zlatému teleti, každé přes 14 metrů vysoké) — surová, temná, bez davu. Cihlová gotická fasáda s bílými sochami apoštolů patří k nejhezčím v Benátkách. Chorus Pass (16 €, 18 kostelů) nebo 3 € jednotlivě, po–so cca 10:30–16:30. Okolní Cannaregio je nejtišší kout centra.
+---
+NAME: Santa Maria dei Miracoli
+LAT: 45.43945
+LON: 12.33926
+COORD_CONF: high
+CITY: Benátky
+CAT: architektura
+TOP: yes
+DESC: Renesanční kostelík Pietra Lombarda celý obložený barevným mramorem zvenku i zevnitř, jako by někdo postavil kostel z italské zmrzliny. Stojí v úzkém kanálu, takže se odráží ve vodě; nejlepší foto z mostu Ponte dei Miracoli brzy ráno. Chorus Pass nebo 3 €, po–so 10:30–16:30. Prohlídka 15 minut, ale je to jeden z nejkrásnějších interiérů města.
+---
+NAME: San Sebastiano — Veroneseho kostel
+LAT: 45.43124
+LON: 12.31896
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Veronese tu maloval přes deset let a je tu i pohřben — strop, stěny, presbytář, sakristie i varhanní dvířka, kompletní cyklus na jednom místě. Turisté sem skoro nechodí, protože je to na okraji Dorsodura u univerzity. Chorus Pass nebo 3 €, po–so 10:30–16:30. Spojte s procházkou po Fondamenta San Basilio a Zattere směrem k západu slunce.
+---
+NAME: Scuola Grande dei Carmini
+LAT: 45.43473
+LON: 12.32311
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: no
+DESC: Devět Tiepolových stropních pláten v Sala Capitolare — světlá, vzdušná, rokoková protiváha Tintorettovy temnoty u San Rocca. Skoro prázdno, vstupné kolem 7–8 €, otevřeno zhruba 11:00–16:00, hodiny kolísají. Dva kroky od Campo Santa Margherita, kde si pak dáte spritz mezi studenty.
+---
+NAME: Scuola di San Giorgio degli Schiavoni
+LAT: 45.43690
+LON: 12.34440
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Jedna malá dřevem obložená místnost s kompletním Carpacciovým cyklem z let 1502–09 — svatý Jiří s drakem, svatý Jeroným a jeho lev v klášteře, kde mniši prchají. Kapacita pár lidí naráz, atmosféra jako v šperkovnici. Vstup 6 €, út–so 9:15–13:00 a 14:45–18:00. Absolutní hidden gem v Castellu.
+---
+NAME: Chiesa dei Gesuiti — mramor jako látka
+LAT: 45.44490
+LON: 12.34000
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: yes
+DESC: Barokní šílenost: zelenobílý mramor vykládaný tak, že vypadá jako damaškové závěsy — na sloupech, kazatelně i na "koberci" u oltáře. Všechno je kámen, nic není textil. Navíc Tizianovo Umučení svatého Vavřince, jeden z prvních nočních výjevů v dějinách malby. Příspěvek 1 €, v úterý 10:30–13:00 a 16:00–18:30. Blízko Fondamente Nove, ideální před odjezdem na ostrovy.
+---
+NAME: San Zaccaria — zatopená krypta
+LAT: 45.43430
+LON: 12.34240
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: yes
+DESC: V hlavní lodi Belliniho Sacra Conversazione, možná nejkrásnější oltářní obraz v Benátkách (vhoďte minci do osvětlení), ale skutečný zážitek je krypta — trvale zatopená, sloupy se odrážejí v černé vodě, hrobky osmi dóžat pod hladinou. Kostel zdarma, krypta 1,50 €, po–so 10:00–12:00 a 16:00–18:00. Sto metrů od San Marca a naprosto prázdné.
+---
+NAME: Frari — Tizianova Assunta
+LAT: 45.43694
+LON: 12.32667
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Obří gotická cihlová loď a na hlavním oltáři Tizianovo Nanebevzetí — červená spirála, kterou vidíte už ode dveří přes dřevěný chór. Navíc Tizianův náhrobek, Canovova pyramidová hrobka a Belliniho triptych v sakristii. Vstup 3 €, po–so 9:00–18:00. Nepatří do Chorus Pass, platí se na místě. Klasika, ale nepřekonatelná.
+---
+NAME: Scala Contarini del Bovolo
+LAT: 45.43406
+LON: 12.33520
+COORD_CONF: med
+CITY: Benátky
+CAT: vyhlidka
+TOP: yes
+DESC: Renesanční točité schodiště v arkádové věži schované ve slepém dvorku pár kroků od Campo Manin — najít vchod je půlka zábavy. Nahoře altánek s výhledem přes střechy a kopule San Marca. Denně 10:00–18:00, 7–9 €, REZERVACE NUTNÁ — vstup po 30 minutách, max 20 lidí. Rezervujte pár dní dopředu na gioiellinascostidivenezia.it.
+---
+NAME: Campanile San Giorgio Maggiore
+LAT: 45.42930
+LON: 12.34330
+COORD_CONF: high
+CITY: Benátky
+CAT: vyhlidka
+TOP: yes
+DESC: Výtahem, žádné schody, na vrchol Palladiovy zvonice a máte 360° pohled, na kterém je vidět i samotné náměstí San Marco — což z Campanile na San Marcu logicky nejde. Fronty minimální oproti hlavní zvonici. Výtah 8 €, raději hotovost, po–so 9:30–12:30 a 14:30–18:30, kostel zdarma. Vaporetto linka 2 ze San Zaccaria, 3 minuty. Choďte pozdě odpoledne kvůli světlu.
+---
+NAME: Torre dell'Orologio — vnitřek stroje
+LAT: 45.43460
+LON: 12.33870
+COORD_CONF: med
+CITY: Benátky
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Prohlídka jen s průvodcem, max 5 lidí, strmé kovové schody a průlezy uvnitř renesanční věže — vidíte původní hodinový mechanismus zblízka a nakonec vylezete na terasu k bronzovým Maurům, kteří tlučou zvon přímo vedle vás. Anglicky po–st 10:00 a 11:00, takže v úterý ano. 15 €, rezervace povinná na torreorologio.visitmuve.it, lístky se vyzvedávají v Museo Correr. Není to pro klaustrofobiky.
+---
+NAME: Fondaco dei Tedeschi — terasa je ZAVŘENÁ
+LAT: 45.43800
+LON: 12.33660
+COORD_CONF: med
+CITY: Benátky
+CAT: prakticke
+TOP: no
+DESC: Slavná bezplatná střešní terasa nad Rialtem už nefunguje — DFS zavřelo obchoďák v květnu 2025 a terasa se zatím neotevřela. Nechoďte tam zbytečně a nespoléhejte na starší průvodce. Náhrada za výhled zdarma: Zattere, Punta della Dogana, most Accademia; za peníze campanile San Giorgio Maggiore.
+---
+NAME: Punta della Dogana
+LAT: 45.43111
+LON: 12.33611
+COORD_CONF: med
+CITY: Benátky
+CAT: foto
+TOP: yes
+DESC: Trojúhelníkový cíp staré celnice, kde se Canal Grande potkává s Giudeccou — 270° panorama na San Marco, San Giorgio i Giudeccu, zdarma a kdykoli. Sedněte si na kamenné schody k vodě s lahví vína a čekejte na západ slunce, v půlce srpna kolem 20:20. Ráno tu nebývá skoro nikdo. Za rohem Santa Maria della Salute, vstup zdarma.
+---
+NAME: Fondamenta Zattere
+LAT: 45.43000
+LON: 12.32700
+COORD_CONF: med
+CITY: Benátky
+CAT: foto
+TOP: no
+DESC: 1,7 km široká promenáda podél kanálu Giudecca, kde chodí Benátčané, ne turisté — jediné místo v centru s otevřeným horizontem. Pozdě odpoledne se sem opře slunce a fasády Giudekky zezlátnou. Po cestě Gelateria Nico a několik plovoucích barů s pontony přímo nad vodou.
+---
+NAME: Cantine del Vino già Schiavi (Bottegon)
+LAT: 45.43040
+LON: 12.32530
+COORD_CONF: low
+CITY: Benátky
+CAT: bar
+TOP: yes
+DESC: Nejlepší cicchetti v Dorsoduru: pult plný krajíčků s divokými kombinacemi (tuňák se zázvorem, ricotta s fíky, baccalà). Nikdo si nesedá, všichni stojí venku u kanálu naproti squeru. Cicchetto 1,80–2 €, ombra od 1,50 €. Zavírají relativně brzy večer, přes den ideální jako oběd za 8 €. Kupte si sklenku a jděte s ní na most.
+---
+NAME: Squero di San Trovaso — dílna na gondoly
+LAT: 45.43072
+LON: 12.32697
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Jedna z posledních tří loděnic, kde se gondoly pořád staví a opravují — dřevěné tyrolské domky přímo nad kanálem, protože řemeslníci přišli z Cadore. Dovnitř se nesmí, ale z protějšího nábřeží Fondamenta Nani vidíte obrácené gondoly i lidi při práci. Zdarma, nejlepší dopoledne v pracovní den. Vedle je Bottegon, takže spritz v ruce a koukat.
+---
+NAME: Libreria Acqua Alta
+LAT: 45.44333
+LON: 12.33444
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Knihy naskládané v gondole, ve vanách a ve člunech, aby přežily záplavy, na dvorku schodiště postavené z rozmočených encyklopedií a kočky spící na svazcích. Zdarma, otevřeno cca 9:00–19:30. Je to už dost objevené a v poledne narvané — jděte hned po otevření. Zadní východ vede k malému kanálu, odkud jsou nejlepší fotky.
+---
+NAME: Ponte Chiodo — most bez zábradlí
+LAT: 45.44090
+LON: 12.33390
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Jeden ze dvou zbylých benátských mostů bez zábradlí — přesně tak vypadaly všechny mosty ve středověku. Postavila ho soukromá rodina Chiodo jako přístup ke svému domu. Volně přístupný, zdarma, kdykoli. Pár kroků od Ca' d'Oro na Fondamenta San Felice; přejděte ho opatrně, spadnout do rio je snadné a rozhodně to není hygienické.
+---
+NAME: Campo dei Mori a Tintorettův dům
+LAT: 45.44560
+LON: 12.33320
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Malé náměstí se čtyřmi středověkými kamennými sochami Maurů zasazenými do zdí — jeden má železný nos, který mu přidělali, když ten původní upadl. O pár metrů dál na Fondamenta dei Mori je dům, kde Tintoretto bydlel a zemřel. Zdarma, kdykoli, nikdo tam není. Odsud jsou to 3 minuty k Madonna dell'Orto.
+---
+NAME: Sotoportego dei Preti — cihlové srdce
+LAT: 45.43450
+LON: 12.34710
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: V klenutém průchodu v Castellu je do zdi zasazená načervenalá cihla ve tvaru srdce, velká asi jako dlaň. Legenda o rybáři Oriovi a mořské panně Melusině; kdo se jí dotkne společně jako pár, prý zůstane spolu. Zdarma, veřejný průchod, ale je poloslepý a musíte ho hledat pohledem po stěnách. Souřadnice orientační — jděte k San Giovanni in Bragora a ptejte se na "sotoportego dei preti".
+---
+NAME: Sotoportego de la Corte Nova
+LAT: 45.43640
+LON: 12.34860
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Průchod u Calle Zorzi, který není jen průchodem — od roku 1630 je to votivní kaple. Místní žena tu namalovala Madonu a Corte Nova jako jediná v okolí prý neměla ani jednu oběť moru. Dodnes je tam obrázek, svíčky a květiny od sousedů, a podle pověry se nesmí šlápnout na určitý kámen. Zdarma, kdykoli, absolutně nikdo tam nechodí. Souřadnice orientační, hledejte za Campo Santa Maria Formosa.
+---
+NAME: Ghetto Ebraico
+LAT: 45.44530
+LON: 12.32700
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: no
+DESC: Campo di Ghetto Nuovo je jediné benátské náměstí bez kostela, zato s nejvyššími domy ve městě — Židé nesměli stavět do šířky, tak stavěli do výšky, sedm pater s nízkými stropy — a s bronzovým památníkem holokaustu na severní zdi. Pět synagog schovaných v obytných domech, poznáte je podle pěti oken nad sebou. Náměstí zdarma, prohlídky synagog s průvodcem každou hodinu 10:00–17:00.
+---
+NAME: Sant'Alvise — Tiepolo bez lidí
+LAT: 45.44880
+LON: 12.32700
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: no
+DESC: Nejsevernější kostel Cannaregia, na konci fondamenty, kam už nikdo nedojde. Uvnitř tři rané Tiepolovy pašijové obrazy a naivní dřevěné "barco", visutý chór jeptišek. Chorus Pass nebo 3 €, po–so 10:30–17:00. Cesta sem po Fondamenta della Sensa a Ormesini je sama o sobě to nejhezčí, co v Benátkách potkáte — prádlo, kanály, žádné suvenýry.
+---
+NAME: Fondamenta Misericordia a Ormesini
+LAT: 45.44490
+LON: 12.32950
+COORD_CONF: med
+CITY: Benátky
+CAT: bar
+TOP: yes
+DESC: Kilometr nábřeží v Cannaregiu, kde večer sedí půlka mladých Benátek přímo na dlažbě u vody se sklenkou v ruce. Vino Vero (naturální vína, výborné cicchetti), Al Timon, u kterého kotví dřevěná loď, na níž se sedí, a Paradiso Perduto. Ombra 2–4 €, spritz 3–4 €. Nejlepší od 19:00 do půlnoci — jediné místo v centru, kde je večer opravdu živo.
+---
+NAME: Cantina Do Mori — nejstarší bacaro (1462)
+LAT: 45.43860
+LON: 12.33390
+COORD_CONF: low
+CITY: Benátky
+CAT: bar
+TOP: no
+DESC: Tmavá úzká místnost bez jediné židle, měděné hrnce nad hlavou, tácky s francobolli — miniaturními sendviči velikosti poštovní známky. Casanova sem prý chodil. Ombra od 1,50 €, francobollo 1,50–2 €. Otevřeno zhruba 8:00–19:30, zavřeno v neděli. Je to úzká slepá ulička kousek od Rialto Market, hledejte nízké dveře bez cedule.
+---
+NAME: All'Arco — cicchetti u rybího trhu
+LAT: 45.43855
+LON: 12.33413
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: yes
+DESC: Otec se synem dělají cicchetti z toho, co ráno koupili o padesát metrů dál na Pescarii — syrová tuňáková tataki, kanice s pomerančem, jemné baccalà. Nechte si poradit, neobjednávejte z vitríny. Cicchetto 2–3,50 €, sklenka 2–3 €. Otevřeno JEN přes den (9:00–14:30) — plánujte jako oběd, ne večeři. Malé, stojí se venku.
+---
+NAME: Rialto Mercato a Pescaria
+LAT: 45.43944
+LON: 12.33417
+COORD_CONF: med
+CITY: Benátky
+CAT: foto
+TOP: no
+DESC: Gotická hala rybího trhu s kamennými sloupy přímo nad Canal Grande — mořští pavouci, měkkýši, chobotnice a rybáři, kteří na sebe řvou. Zdarma. Pozor: rybí trh je v pondělí zavřený a v úterý funguje jen do cca 13:00, takže jděte hned ráno mezi 7:30 a 11:00, potom je z toho prázdná hala. Ovocný trh vedle funguje déle.
+---
+NAME: Bacareto da Lele — nejlevnější sklenka
+LAT: 45.43620
+LON: 12.32020
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: no
+DESC: Malé okénko na Campo dei Tolentini u architektonické fakulty, kde studenti kupují mini-panini se salámem nebo sopressou za cca 1,20 € a sklenku vína za 0,80–1 €. Sedí se na zemi a na schodech u kanálu. Otevřeno jen přes den, zavřeno o víkendu. Ideální levná svačina cestou z nádraží Santa Lucia, 8 minut pěšky.
+---
+NAME: Osteria alla Vedova — polpette
+LAT: 45.44100
+LON: 12.33330
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: no
+DESC: Stará osteria u Ca' d'Oro, kde se chodí pro jednu věc: smažené masové kuličky, křupavé venku, šťavnaté uvnitř, asi 2 € kus. U baru se stojí, v sále se sedí a je nutná rezervace. Zavřeno ve čtvrtek. Klasika mezi Benátčany, ale v úterý večer se dá dostat i na stání.
+---
+NAME: Gelatoteca Suso
+LAT: 45.43810
+LON: 12.33690
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: no
+DESC: Malá gelaterie v uličce u Rialta s vlastními recepturami (gorgonzola s ořechy, tiramisù) a poctivými surovinami místo pastových prášků. Kopeček asi 2 €, otevřeno dlouho do večera. Poznávací znamení dobré zmrzlárny v Benátkách: gelato je v kovových kanystrech pod víkem, ne v nabarvených horách — Suso to splňuje.
+---
+NAME: Gelateria Nico — gianduiotto na Zattere
+LAT: 45.43040
+LON: 12.32760
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: no
+DESC: Instituce z roku 1935 na sluneční promenádě Zattere. Objednejte gianduiotto da passeggio: kostka lískooříškové zmrzliny hozená do sklenice a utopená ve šlehačce, 5–6 €. Sednete si na pontonovou terasu přímo nad vodou s výhledem na Giudeccu. Nejlepší v podvečer, když se kanál rozzáří.
+---
+NAME: San Michele — hřbitovní ostrov
+LAT: 45.45510
+LON: 12.34790
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: yes
+DESC: Celý ostrov obehnaný cihlovou zdí s cypřiši, kam Benátčané od Napoleona vozí své mrtvé. Renesanční kostel San Michele in Isola (první renesanční fasáda v Benátkách) hned u mola, uvnitř mřížkové cesty s hroby Stravinského, Ďagileva — na jeho hrobě leží baletní střevíčky — a Ezry Pounda. Vstup ZDARMA, otevřeno 7:30–18:00. Linka 4.1/4.2 z Fondamente Nove, 5 minut. Je to funkční hřbitov, chovejte se tiše.
+---
+NAME: Torcello — byzantské mozaiky
+LAT: 45.49657
+LON: 12.41731
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: yes
+DESC: Ostrov, který byl kdysi větší než Benátky a dnes na něm žije pár desítek lidí. V bazilice Santa Maria Assunta (639 n. l.) je zlatá byzantská Madona v apsidě a na západní stěně obří Poslední soud z 12. století — mozaiky srovnatelné s Ravennou, ale bez zástupů. Bazilika 5 €, kampanila 5 €, kombi 9 €. Linka 12 z Fondamente Nove, asi 45 minut s přestupem v Buranu. Počítejte celé půldne a ověřte poslední spoje zpět.
+---
+NAME: Ponte del Diavolo, Torcello
+LAT: 45.49560
+LON: 12.41630
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Druhý ze dvou dochovaných benátských mostů bez zábradlí — kamenný oblouk přes kanál uprostřed polí, cestou od přístaviště k bazilice. Kolem rákosí, vinice a ticho, které v Benátkách jinde neexistuje. Zdarma, kdykoli. Vedle je kamenné "Attilovo křeslo", což je ve skutečnosti soudcovský stolec, ale legenda je hezčí.
+---
+NAME: Torre Massimiliana, Sant'Erasmo
+LAT: 45.44720
+LON: 12.38460
+COORD_CONF: low
+CITY: Benátky
+CAT: dobrodruzstvi
+TOP: no
+DESC: Sant'Erasmo je zemědělský ostrov, zelinářská zahrada Benátek se slavnými artyčoky, velikostí srovnatelný s historickým centrem, kde nejsou skoro žádní turisté — jen pole, cyklisté a kanály. Kruhová rakouská pevnost z roku 1844 je zrestaurovaná, dá se vyjít na valy s výhledem na lagunu, a hned vedle je malá pláž. Linka 13 z Fondamente Nove, 30–50 minut. Vezměte piknik, obchodů je tu minimum.
+---
+NAME: Spiaggia degli Alberoni — divoká pláž
+LAT: 45.33950
+LON: 12.31400
+COORD_CONF: low
+CITY: Lido
+CAT: voda
+TOP: yes
+DESC: Jižní cíp Lida s dunami, borovicovým lesem a kilometry volné čisté písečné pláže. Z nábřeží Santa Maria Elisabetta jeďte autobusem A (v ceně 24h passu) asi 25 minut na konečnou Alberoni, pak doleva podél placeného úseku k ceduli "limite concessione" — odtud je pláž zdarma a prázdná. Voda v srpnu kolem 26 °C. Vezměte vodu a ručník, infrastruktura je minimální; zpět počítejte hodinu a půl.
+---
+NAME: Lido San Nicolò — starý židovský hřbitov
+LAT: 45.42430
+LON: 12.38720
+COORD_CONF: low
+CITY: Lido
+CAT: hidden
+TOP: no
+DESC: Severní špička Lida u vjezdu do laguny: kostel a klášter San Nicolò, obří pobřežní opevnění a antický židovský hřbitov ze 14. století s nakloněnými náhrobky pod stromy (dovnitř jen s prohlídkou, jinak přes plot). Odsud dóže házel prsten do moře při obřadu Sposalizio del Mare. Zvenku zdarma, dostupné na kole nebo autobusem. Klidné a bez turistů.
+---
+NAME: San Lazzaro degli Armeni
+LAT: 45.41290
+LON: 12.36020
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Malý ostrov, kde od roku 1717 žijí arménští mniši mechitaristé — knihovna s 200 000 svazky, egyptská mumie, sbírka rukopisů a pokoj, kde se lord Byron učil arménsky. Vstoupit se dá jen s prohlídkou v 15:25, jednou denně, po rezervaci (visite@mechitar.org), vstupné asi 6 €. Linka 20 ze San Zaccaria, 20 minut — musíte stihnout přesně jeden spoj, jinak nemáte šanci.
+---
+NAME: Poveglia — morový ostrov, NELZE VSTOUPIT
+LAT: 45.38130
+LON: 12.33080
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Opuštěný ostrov s ruinou psychiatrické léčebny a masovými hroby obětí moru, nejznámější strašidelné místo Itálie. VSTUP JE V ROCE 2026 ZAKÁZANÝ — nejezdí tam vaporetto, přistání bez povolení města je nelegální a hrozí pokuta; kdo vám nabízí "tour s výstupem", porušuje zákon. Legálně to jde jen z vody, kajakem nebo vodním taxíkem kolem ostrova. Zařazeno spíš pro kontext při pohledu z jižní laguny.
+---
+NAME: Ocean Space — v úterý ZAVŘENO
+LAT: 45.43730
+LON: 12.34540
+COORD_CONF: low
+CITY: Benátky
+CAT: umeni
+TOP: no
+DESC: Obří odsvěcený kostel San Lorenzo, dvě staletí zavřený a napůl v ruinách, dnes prostor pro zvukové a světelné instalace o oceánu. Kombinace holého cihlového interiéru s masivní kamennou přepážkou uprostřed lodi a současné instalace je vizuálně brutální. Vstup zdarma, ale otevřeno st–ne 11:00–18:00 — v ÚTERÝ ZAVŘENO, takže 11. 8. to nevyjde.
+---
+NAME: Negozio Olivetti — Carlo Scarpa
+LAT: 45.43420
+LON: 12.33800
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: no
+DESC: Bývalý showroom psacích strojů přímo pod loubím Piazza San Marco, který Carlo Scarpa v roce 1958 proměnil v miniaturní architektonickou báseň — schodiště z bloků istrijského kamene, které se vznáší, mozaiková podlaha ze skleněných kostek, mosaz a voda. Nejlepší modernistický interiér v Benátkách, uvnitř pár lidí, kolem 50 000 na náměstí. Út–ne 10:00–18:30, asi 8 €.
+---
+NAME: Fondazione Querini Stampalia
+LAT: 45.43690
+LON: 12.34050
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: no
+DESC: Scarpa tu v přízemí paláce nechal vodu vtékat dovnitř, místo aby ji vyháněl — betonové kanálky, mosazné detaily a v zadní části tajná zahrada s alabastrovou fontánou. Nahoře patricijský byt z 18. století s obrazy benátského každodenního života od Gabriela Belliho. Út–ne 10:00–18:00, asi 14 €, lístek platí celý den. V úterý otevřeno.
+---
+NAME: San Nicolò dei Mendicoli
+LAT: 45.43140
+LON: 12.31450
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Nejzápadnější kostel Benátek v někdejší rybářské čtvrti — kostra ze 7. století, zlacené dřevěné sochy podél celé lodi a portikus, kde se schovávali chudí. Natáčel se tu Roegův Neohlížej se. Vstup zdarma, 10:00–12:00 a 16:00–19:00; za drobnou minci se rozsvítí osvětlení a interiér vybuchne zlatem. Cestou projdete Campo Angelo Raffaele, nejtišší kout Dorsodura.
+---
+NAME: San Pietro di Castello
+LAT: 45.43444
+LON: 12.35972
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Až do roku 1807 to byla katedrála Benátek, ne San Marco — a je to zapadlý ostrov na východním konci města s travnatým campem, kde si místní suší prádlo a hrají děti. Codussiho zvonice z bílého istrijského kamene je viditelně nakloněná. Chorus Pass nebo 3 €, po–so 10:30–16:30, uvnitř bizarní "trůn svatého Petra" — arabská náhrobní stéla s koránskými verši. Nádherná odpolední procházka od Via Garibaldi.
+---
+NAME: Arsenale — Porta Magna a lvi
+LAT: 45.43470
+LON: 12.34960
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: no
+DESC: První renesanční brána v Benátkách (1460) a před ní čtyři antičtí mramoroví lvi ukořistění v Řecku — na jednom z nich je vyrytý runový nápis vikinských žoldnéřů z 11. století. Za branou je pořád vojenská zóna a dovnitř se nesmí, ale most před bránou je veřejný a zdarma. Nejlepší podvečer, když se cihly zbarví.
+---
+NAME: Biennale Arte 2026
+LAT: 45.42890
+LON: 12.35720
+COORD_CONF: med
+CITY: Benátky
+CAT: umeni
+TOP: no
+DESC: 61. ročník běží 9. 5. – 22. 11. 2026, v úterý otevřeno 11:00–19:00 (zavírá se v pondělí). Jeden lístek 30 € (do 26 let 16 €) platí pro obě lokace — Giardini s historickými národními pavilony i obří lodní haly Arsenale, kam se jinak nedostanete. Na obojí potřebujete klidně 6 hodin; pokud máte jen jeden den v Benátkách, zvažte jen Arsenale kvůli architektuře.
+---
+NAME: Giardini Reali — v úterý ZAVŘENO
+LAT: 45.43290
+LON: 12.33840
+COORD_CONF: med
+CITY: Benátky
+CAT: priroda
+TOP: no
+DESC: Zrestaurovaná napoleonská zahrada se skleníkem hned vedle Piazza San Marco, vstup zdarma, oáza stínu uprostřed davu. Ale od 5. 8. do 15. 10. 2026 je otevřeno jen st–ne 9:30–19:00, tedy v pondělí a v úterý zavřeno. Zmiňuji hlavně proto, abyste sem 11. 8. nešli zbytečně.
+---
+NAME: San Giacomo dell'Orio
+LAT: 45.44000
+LON: 12.32700
+COORD_CONF: med
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Nepravidelné, stromy porostlé náměstí, kde si Benátčané dávají aperitiv a děti hrají fotbal — nulový turistický ruch. V kostele obrácený lodní kýl místo stropu a sloup ze zeleného verde antico ukradený v Byzanci. Chorus Pass nebo 3 €, po–so 10:30–16:30. Ideální zastávka mezi nádražím a Rialtem, když jdete zadními uličkami.
+---
+NAME: Ponte dei Tre Archi
+LAT: 45.44540
+LON: 12.31820
+COORD_CONF: med
+CITY: Benátky
+CAT: foto
+TOP: no
+DESC: Jediný benátský most se třemi oblouky, přes Canale di Cannaregio, z roku 1688 — široký záběr s odrazem ve vodě a lodí projíždějící pod ním. Zdarma, kdykoli. Nejlepší při západu slunce, kdy slunce zapadá přesně proti kanálu. Odsud je to 10 minut na Fondamenta Misericordia na večerní ombru.
+---
+NAME: Il Redentore, Giudecca
+LAT: 45.42710
+LON: 12.32780
+COORD_CONF: med
+CITY: Benátky
+CAT: architektura
+TOP: no
+DESC: Palladiův chrám postavený jako dík za konec moru 1576, s dokonalou bílou fasádou přes celý kanál Giudecca. Chorus Pass nebo 3 €, po–so 10:30–16:30. Pravý smysl ale má přejít na Giudeccu vaporettem a projít celou fondamentu — máte odsud nejlepší pohled na Benátky jako celek a přitom je tu klid a obyčejný život.
+---
+NAME: Skyline Rooftop Bar, Molino Stucky
+LAT: 45.42780
+LON: 12.31530
+COORD_CONF: med
+CITY: Benátky
+CAT: bar
+TOP: no
+DESC: Osmé patro neogotického obřího mlýna na západním konci Giudekky — jediná opravdová střešní terasa v Benátkách, kde slunce zapadá přímo za lagunu. Otevřeno cca 16:00–01:00. Koktejl 20–25 €, což je hodně, ale vstup je zdarma a jeden drink si dovolit můžete; přijďte asi 45 minut před západem slunce, pro dobrý stůl rezervujte.
+---
+NAME: Sant'Elena a Parco delle Rimembranze
+LAT: 45.42620
+LON: 12.36420
+COORD_CONF: low
+CITY: Benátky
+CAT: priroda
+TOP: no
+DESC: Nejvýchodnější a nejméně navštívená čtvrť Benátek — skutečný park se stromy, lavičkami a pohledem přes lagunu na Lido. Bydlí tu obyčejní lidé, jsou tu hřiště a nulové suvenýry. Zdarma, kdykoli. Dobré místo na piknik nebo siestu mezi Biennale a večerní cestou zpět. Zastávka vaporetta Sant'Elena.
+---
+NAME: Fondamente Nove — Dolomity na obzoru
+LAT: 45.44540
+LON: 12.34140
+COORD_CONF: med
+CITY: Benátky
+CAT: foto
+TOP: no
+DESC: Severní nábřeží obrácené do otevřené laguny — vidíte cypřiše hřbitovního ostrova San Michele a za jasného dne i zasněžené Dolomity na obzoru. Není tu žádný turistický provoz, jen lidé čekající na vaporetto. Zdarma, kdykoli; nejlepší brzy ráno, kdy je vzduch nejčistší a laguna je sklo.
+---
+NAME: Campo Santa Margherita
+LAT: 45.43556
+LON: 12.32444
+COORD_CONF: med
+CITY: Benátky
+CAT: bar
+TOP: no
+DESC: Velké nepravidelné náměstí v Dorsoduru s bary, které mají ceny pro místní, ne pro turisty — spritz od 3 €, večer se sedí na kamenných lavicích a na zemi. Ideální začátek večera před cestou zpět do Mestre. Na jedné straně stánek s rybami, na druhé zvonice bez kostela. Kolem 19:00 se to začne plnit.
+---
+NAME: Ca' Macana — dílna na masky
+LAT: 45.43470
+LON: 12.32620
+COORD_CONF: low
+CITY: Benátky
+CAT: hidden
+TOP: no
+DESC: Jedna z mála skutečných dílen, kde se masky pořád dělají z papírové hmoty ručně — dodávali Kubrickovi pro Eyes Wide Shut — a vidíte formy, brusy a barvení přímo v obchodě. Prohlídka zdarma, masky od 25 €, workshopy malování kolem 40–50 € s rezervací předem. Pozor na okolní obchody s plastovými maskami z Číny, poznáte je podle jednotného lesku a nulové vůně papíru.
+---
+NAME: Alaska Gelateria — artyčokové gelato
+LAT: 45.43880
+LON: 12.32370
+COORD_CONF: low
+CITY: Benátky
+CAT: jidlo
+TOP: no
+DESC: Carlo Pistacchi dělá zmrzlinu z čehokoli — artyčoky ze Sant'Erasma, zázvor, chřest, ricotta s fíky — a je z toho spíš laboratoř než gelaterie. Bio suroviny, nic umělého, kopeček asi 2 €. Schované v Santa Croce mimo trasy, takže žádná fronta. Zeptejte se, co je dnes divné, a dejte si to.
+---
+NAME: Mestre — Piazza Ferretto
+LAT: 45.49056
+LON: 12.23806
+COORD_CONF: med
+CITY: Mestre
+CAT: architektura
+TOP: no
+DESC: Srdce Mestre: dlážděná pěší piazza se středověkou hodinovou věží, katedrálou San Lorenzo a secesním kinem Excelsior. Nejsou to Benátky, ale večer je tu příjemný italský ruch bez jediného turisty a ceny o třetinu nižší. Zdarma, nejlepší kolem 19:00–21:00 při passeggiatě. Odsud vycházejí všechny ostatní tipy pro Mestre.
+---
+NAME: Mestre — Osteria Al Buso
+LAT: 45.49040
+LON: 12.23810
+COORD_CONF: low
+CITY: Mestre
+CAT: jidlo
+TOP: no
+DESC: Osteria a cicchetteria přímo na Piazza Ferretto s benátskou kuchyní a stoly venku na náměstí. Dobrá volba na první večer, když chcete ochutnat benátské věci (baccalà mantecato, sarde in saor) za mestrenské ceny — hlavní chod 12–18 €, cicchetto 1,50–2,50 €. Pro stůl venku přijďte do 20:00 nebo zavolejte dopředu.
+---
+NAME: Mestre — Osteria Lupo Nero
+LAT: 45.49000
+LON: 12.23730
+COORD_CONF: low
+CITY: Mestre
+CAT: jidlo
+TOP: no
+DESC: Via Giorgio Ferro 21, minutu od Piazza Ferretto — rodinná osteria a cicchetteria, kam chodí místní. Otevřeno po–pá 12:00–14:30 a 18:30–22:30. Levné, poctivé, benátská klasika bez turistické přirážky; večeře pro dva s vínem kolem 45–55 €. Rezervace na večer se vyplatí.
+---
+NAME: Mestre — Hanky Panky (koktejly)
+LAT: 45.49110
+LON: 12.23930
+COORD_CONF: low
+CITY: Mestre
+CAT: bar
+TOP: no
+DESC: Calle Giovanni Legrenzi 5, malý bar s přes 40 druhy ginu a jediný mestrenský podnik, který se objevil na Venice Cocktail Week. Dobrá volba na jeden pozdní drink po večeři, když nechcete jen další spritz. Koktejl 8–12 €. Otevřeno večer; v pondělí ověřte, některé mestrenské bary mají na začátku týdne zavřeno.
+---
+NAME: Mestre — Parco San Giuliano
+LAT: 45.47800
+LON: 12.26000
+COORD_CONF: low
+CITY: Mestre
+CAT: priroda
+TOP: no
+DESC: Jeden z největších městských parků v Evropě, položený přímo na okraji laguny — z hráze vidíte siluetu Benátek přes vodu, což je pohled, který z Benátek samotných nikdy nedostanete. Zdarma, kdykoli, ideální při západu slunce. Z centra Mestre asi 25 minut pěšky nebo autobusem; berte repelent, u laguny jsou v srpnu komáři.
+---
+NAME: Mestre — Forte Marghera
+LAT: 45.47530
+LON: 12.27000
+COORD_CONF: low
+CITY: Mestre
+CAT: hidden
+TOP: no
+DESC: Napoleonsko-rakouská pevnost s vodními příkopy, cihlovými kasematy a doky, dnes proměněná v kulturní areál s bary, výstavami a letním programem — polorozpadlé kasárny mezi rákosím vypadají skvěle a nikdo tam není. Vstup do areálu zdarma, výstavní prostory 10:00–18:00, v pondělí zavřené. Tramvají nebo busem z Mestre asi 15 minut. Legální a bezpečná verze urbexu.
+---
+NAME: Mestre — M9 Museo del '900
+LAT: 45.49180
+LON: 12.24000
+COORD_CONF: low
+CITY: Mestre
+CAT: architektura
+TOP: no
+DESC: Multimediální muzeum italského 20. století v budově od Sauerbruch Hutton, jejíž barevná keramická fasáda je sama o sobě důvod tam dojít; vnitřní pasáž a nádvoří jsou volně průchozí zdarma i bez lístku. Muzeum je v pondělí zavřené, takže 10. 8. večer si projděte jen architekturu a nádvoří. Deset minut od Piazza Ferretto.
+---
+NAME: Mestre — nádraží, supermarket, prádelna
+LAT: 45.48200
+LON: 12.23200
+COORD_CONF: med
+CITY: Mestre
+CAT: prakticke
+TOP: no
+DESC: Bod je nádraží Venezia Mestre, odkud jedou vlaky na Santa Lucia každých asi 10 minut, jízda 10–12 minut, lístek kolem 1,50 € (papírový nezapomeňte validovat). Kolem nádraží a na Via Piave je několik supermarketů (Despar, Conad) otevřených do 20:00–21:00 i v pondělí. Prádelna Lineablu je na Via Felice Cavallotti 19a, samoobslužné lavanderie jsou i podél Via Piave. Z Via Cavalieri di Vittorio Veneto počítejte 20–30 minut pěšky.

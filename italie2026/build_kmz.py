@@ -48,8 +48,9 @@ REGIONS = [
       "torcello", "giudecca", "sant'erasmo", "santerasmo", "poveglia",
       "san michele", "certosa", "vignole", "pellestrina", "malamocco",
       "san servolo", "san lazzaro"),                  "Út 11. 8.",            (45.20, 45.53, 12.20, 12.60)),
-    (("florencie", "firenze", "florence", "fiesole",
-      "settignano", "bagno a ripoli"),                "St 12. – Pá 14. 8.",   (43.68, 43.87, 11.14, 11.40)),
+    (("florencie", "firenze", "florence", "fiesole", "settignano",
+      "bagno a ripoli", "signa", "sieci", "compiobbi"),
+                                                      "St 12. – Pá 14. 8.",   (43.68, 43.87, 11.05, 11.42)),
     (("pisa",),                                       "Pá 14. 8. 11:11–13:20",(43.68, 43.76, 10.34, 10.44)),
     (("la spezia", "portovenere", "porto venere", "lerici", "palmaria",
       "tellaro", "fiascherino", "campiglia", "biassa", "san terenzo"),
@@ -118,25 +119,33 @@ def validate(points):
                 continue
         ok.append(p)
 
-    # duplicity: stejné jméno (normalizované) nebo body do 25 m od sebe se stejným začátkem názvu
-    seen = {}
+    # Duplicitou je jen shodný název. Body, které jen sdílejí souřadnici s něčím
+    # jiným (jeden roh, dvě různá místa), rozestrčíme o ~15 m, ať se piny nepřekrývají.
+    by_name = {}
     uniq = []
     for p in ok:
         key = re.sub(r"[^a-z0-9]+", "", p["name"].lower())[:24]
-        pos = (round(p["lat"], 4), round(p["lon"], 4))
-        if key in seen or pos in seen.values():
-            prev = uniq[[i for i, q in enumerate(uniq)
-                         if re.sub(r"[^a-z0-9]+", "", q["name"].lower())[:24] == key
-                         or (round(q["lat"], 4), round(q["lon"], 4)) == pos][0]]
-            # ponech ten, co má delší popis; TOP vyhrává
+        prev = by_name.get(key)
+        if prev is not None:
             if (p["top"], len(p["desc"])) > (prev["top"], len(prev["desc"])):
                 uniq[uniq.index(prev)] = p
-                seen[key] = pos
+                by_name[key] = p
+                dropped.append((prev, f"duplicita s „{p['name']}“"))
             else:
                 dropped.append((p, f"duplicita s „{prev['name']}“"))
             continue
-        seen[key] = pos
+        by_name[key] = p
         uniq.append(p)
+
+    taken = {}
+    for p in uniq:
+        pos = (round(p["lat"], 5), round(p["lon"], 5))
+        n = taken.get(pos, 0)
+        if n:
+            # spirálovité rozestrčení: ~15 m na krok
+            p["lat"] += 0.00013 * ((n + 1) // 2) * (1 if n % 2 else -1)
+            p["lon"] += 0.00018 * (n // 2) * (1 if n % 2 else -1)
+        taken[pos] = n + 1
     return uniq, dropped
 
 

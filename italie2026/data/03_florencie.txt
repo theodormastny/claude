@@ -1,0 +1,782 @@
+NAME: Via San Zanobi 49 — základna
+LAT: 43.77958
+LON: 11.25358
+COORD_CONF: med
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Vaše ubytování — klidná ulice v San Lorenzo, 8 minut pěšky od Santa Maria Novella, 6 od Mercato Centrale, 5 od Piazza San Marco, 10 od Duomu. Velká výhoda: Cenacolo di Sant'Apollonia i Chiostro dello Scalzo, obojí zdarma, máte doslova za rohem, takže je stihnete ráno před snídaní.
+---
+NAME: Santa Maria Novella — nádraží
+LAT: 43.77639
+LON: 11.24806
+COORD_CONF: high
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Z bytu 8–10 minut pěšky přes Via Nazionale a Via Faenza, takže v pátek ráno stačí vyjít 25 minut před odjezdem vlaku v 09:53. Úschovna KiPoint je na peróně 16, otevřeno od 6:00, asi 6 € za prvních 5 hodin. Ve stanici jsou placené WC a lékárna otevřená dlouho do noci.
+---
+NAME: Cenacolo di Sant'Apollonia
+LAT: 43.77861
+LON: 11.25667
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Nejlepší poměr zážitek/cena v celé Florencii: Poslední večeře od Andrey del Castagno (1447) v původním refektáři, brutální perspektiva a mramorové panely, nad ní Ukřižování a Zmrtvýchvstání — a vstup je ZDARMA. Prakticky nikdy tam nikdo není, budete tam sami. Otevřeno jen dopoledne, cca 8:15–13:50, takže naplánujte na čtvrtek 13. 8. ráno. Od bytu 3 minuty.
+---
+NAME: Chiostro dello Scalzo
+LAT: 43.77944
+LON: 11.25806
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Malý rajský dvůr celý pokrytý monochromními freskami Andrey del Sarta (život Jana Křtitele, 1509–26) — vypadá to jako obří kamenná rytina, esteticky naprosto unikátní věc. Vstup zdarma, otevřeno pondělí a ČTVRTEK 8:15–13:50, takže 13. 8. to vyjde. Kombinujte se Sant'Apollonií, jsou od sebe 200 metrů.
+---
+NAME: Cenacolo di San Salvi
+LAT: 43.77417
+LON: 11.29222
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Nejkrásnější Poslední večeře ve Florencii — Andrea del Sarto, obrovská, měkká, barevná, v prázdném refektáři bývalého opatství. Vstup ZDARMA, út–ne cca 8:15–13:50, a je tam běžně pět lidí za hodinu. Je to 25 minut pěšky od Santa Croce nebo pár zastávek busem směr Campo di Marte — ta cesta ven z centra je součást zážitku.
+---
+NAME: Cenacolo del Fuligno
+LAT: 43.77556
+LON: 11.25000
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Perugino s dílnou namaloval tuhle Poslední večeři s klidnou umbrijskou krajinou v pozadí; refektář bývalého kláštera ve Via Faenza 42, pár kroků od nádraží. Vstup zdarma, ale otevírací doba je vrtošivá, obvykle jen několik dopolední v týdnu — před cestou ověřte. Ideální nouzový tip na páteční ráno před vlakem, 5 minut od nádraží.
+---
+NAME: Cenacolo di Ognissanti (Ghirlandaio)
+LAT: 43.77250
+LON: 11.24444
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Ghirlandaiova Poslední večeře z roku 1480 s pávem, třešněmi a pomerančovníky vyrůstajícími přímo ze zdi — nejpůvabnější z florentských cenacoli, vstup zdarma. Pozor: bývá otevřeno jen po, út a so dopoledne, takže 12.–14. 8. to nejspíš nevyjde; zajděte aspoň do kostela vedle, kde je Botticelliho hrob a Ghirlandaiův svatý Jeroným.
+---
+NAME: Santa Felicita — Pontormova Deposizione
+LAT: 43.76722
+LON: 11.25278
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Padesát metrů od Ponte Vecchio, v kostele, kolem kterého denně projdou tisíce lidí a nikdo do něj nevejde: Cappella Capponi s Pontormovým Snímáním z kříže (1528) — kyselé růžové, tyrkysové a citronové barvy, které vypadají jako z jiného století. Kostel zdarma, do kaple se dívá přes zábradlí, osvětlení na minci. Nad kaplí vede Vasariho chodba a má sem okno — Medicejští chodili na mši, aniž je někdo viděl.
+---
+NAME: Cappella Brancacci
+LAT: 43.76806
+LON: 11.24333
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Masacciovy fresky, které vynalezly renesanci — Vyhnání z ráje je jedna z nejemotivnějších věcí, co ve Florencii uvidíte, a je to komorní prostor pro pár desítek lidí. Vstup asi 10 €, rezervace časového okna doporučena, návštěva omezená na 30 minut. Poslední roky se dá občas jít i po lešení přímo k freskám — pokud to zrovna jede, berte to bez váhání.
+---
+NAME: Museo di San Marco — cely Fra Angelica
+LAT: 43.77778
+LON: 11.25861
+COORD_CONF: high
+CITY: Florencie
+CAT: umeni
+TOP: yes
+DESC: Čtyřicet mnišských cel, v každé jedna freska Fra Angelica — chodíte prázdnou chodbou a otevíráte dveře jako adventní kalendář. Na konci Zvěstování na schodech, jedna z nejkrásnějších maleb v Itálii, a Savonarolova cela s jeho věcmi. 8 €, út–ne, od bytu 6 minut; jděte hned po otevření v 8:15, do desáté je tam ticho.
+---
+NAME: Badia Fiorentina
+LAT: 43.77083
+LON: 11.25778
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Naproti Bargellu: v kostele Filippino Lippiho Zjevení Panny Marie svatému Bernardovi, temné a přízračné, a nad ním dvoupatrový Pomerančový klášter s freskovým cyklem z 15. století, kam se běžně nedostanete. Klášter bývá přístupný typicky jen v pondělí odpoledne, takže v jejich termínu to nevyjde. Zvon Badie odbíjí od 11. století a je slyšet po celém centru.
+---
+NAME: Santa Maria Maddalena de' Pazzi
+LAT: 43.77361
+LON: 11.26472
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: V kapitulní síni bývalého kláštera na Borgo Pinti je Peruginovo obrovské Ukřižování rozvržené do tří oken s modrozelenou umbrijskou krajinou — vypadá to, jako by zeď zmizela. Chodí sem asi deset lidí denně, vstup symbolický nebo zdarma, otevřeno omezeně dopoledne. Cestou si všimněte kláštera od Giuliana da Sangalla s jónskými sloupy.
+---
+NAME: Santo Spirito (Brunelleschi)
+LAT: 43.76694
+LON: 11.24778
+COORD_CONF: high
+CITY: Florencie
+CAT: architektura
+TOP: yes
+DESC: Zvenku holá omítnutá stěna bez fasády, uvnitř nejčistší renesanční prostor na světě — les šedých sloupů, 38 kaplí po obvodu, absolutní geometrie. Vstup do kostela zdarma; v sakristii je za 2 € dřevěný krucifix, který vyřezal Michelangelo v sedmnácti. Chodí se sem odpoledne po otevření kolem 15:00 a pak rovnou ven na náměstí na aperitivo.
+---
+NAME: Cenacolo di Santo Spirito
+LAT: 43.76722
+LON: 11.24750
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Zbytek gotického refektáře přilepený k levému boku Santo Spirita: obří Ukřižování od Orcagny, torzo Poslední večeře a sbírka románských fragmentů rozestavěná jako sochařská instalace. Vstup asi 3 €, otevřeno jen několik dní v týdnu — zeptejte se přímo na dveřích. Uvnitř je za horkého dne příjemný chlad a naprosté ticho 20 metrů od rušného náměstí.
+---
+NAME: Chiostro Verde a Cappellone degli Spagnoli
+LAT: 43.77417
+LON: 11.24861
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Kláštery Santa Maria Novella: Zelený ambit s Uccellovými freskami malovanými zelenou hlinkou — Potopa světa je halucinační — a Španělská kaple s obrovským cyklem, kde po zemi běhají černobílí psi (domini canes, hříčka na dominikány). Vstupenka do komplexu asi 7,50 € a je tu zlomek lidí oproti Duomu. Perfektní na páteční ráno, 6 minut od nádraží.
+---
+NAME: Percorsi Segreti — Palazzo Vecchio
+LAT: 43.76944
+LON: 11.25611
+COORD_CONF: high
+CITY: Florencie
+CAT: hidden
+TOP: yes
+DESC: Tajné schodiště vysekané v tloušťce zdi, které si nechal postavit vévoda z Athén, aby mohl utéct, Studiolo Francesca I. — klenutá skříň s alchymií a tajnými dvířky — a prostor NAD stropem Sálu pěti set, kde chodíte po krovu Vasariho kazetového stropu. Jen s průvodcem, 10–17 € podle varianty, nutná rezervace předem na musefirenze.it. O řád zajímavější než samotné muzeum.
+---
+NAME: Corridoio Vasariano
+LAT: 43.76778
+LON: 11.25333
+COORD_CONF: high
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Znovu otevřený kilometr dlouhý soukromý tunel Medicejských nad Ponte Vecchio — okna přímo nad řekou, průchod nad Santa Felicitou, absurdní pocit chodit městem a nebýt v něm. Přes den jen v kombinaci s Uffizi (asi 43 € plus rezervační poplatek), v sezoně bývají levnější večerní vstupy kolem 20 €. Draho, ale pokud si chcete dopřát jednu drahou věc, tohle je ta pravá.
+---
+NAME: Palazzo Davanzati
+LAT: 43.76972
+LON: 11.25139
+COORD_CONF: med
+CITY: Florencie
+CAT: architektura
+TOP: no
+DESC: Nejlépe zachovaný středověký florentský dům — pokoje s freskovými "tapetami" napodobujícími látky, papoušci na zdech, původní latríny, studna vedoucí do všech pater a otvory ve stropě průjezdu na lití vroucí vody na útočníky. Vstup asi 6 €, dopoledne, skoro prázdné. Nejlepší představa, jak se ve Florencii doopravdy bydlelo.
+---
+NAME: Biblioteca Laurenziana — vestibul
+LAT: 43.77472
+LON: 11.25361
+COORD_CONF: med
+CITY: Florencie
+CAT: architektura
+TOP: yes
+DESC: Michelangelovo schodiště, které vytéká z knihovny jako kamenná láva — nejpodivnější manýristický prostor v Evropě, sloupy zapuštěné do zdi, konzoly, které nic nenesou. Vstup do vestibulu a čítárny asi 4 €, vchod z ambitu San Lorenza, obvykle dopoledne. Zvládne se za 20 minut a je to naprostý architektonický zásah.
+---
+NAME: Orsanmichele — muzeum v patře
+LAT: 43.77083
+LON: 11.25444
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Bývalá obilná sýpka přeměněná na kostel; ve venkovních nikách jsou kopie soch cechů od Donatella, Ghibertiho a Verrocchia, originály jsou v obřím gotickém sále nahoře, kam vede vlastní vchod. Z oken sálu je nezvyklý pohled do ulic přesně mezi Duomem a Signorií. Vstup asi 8 €, po rekonstrukci znovu otevřeno, fronty minimální.
+---
+NAME: San Miniato al Monte
+LAT: 43.75945
+LON: 11.26512
+COORD_CONF: high
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Nejkrásnější kostel Florencie a zároveň nejlepší výhled — o 200 metrů výš a o kilometr klidnější než Piazzale Michelangelo. Zelenobílá geometrická fasáda, kryptová podlaha s intarzovaným zvěrokruhem, Michelozzova kaple. Vstup zdarma; přijďte na mnišské nešpory v gregoriánském chorálu (v létě obvykle 17:30–18:30) a pak zůstaňte venku na schodech na západ slunce. Nejlepší florentský večer, který se dá mít zdarma.
+---
+NAME: Cimitero delle Porte Sante
+LAT: 43.75917
+LON: 11.26583
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: yes
+DESC: Hřbitov namačkaný do hradeb kolem San Miniata — miniaturní město mauzoleí, secesních andělů a kaplí, terasovitě spadající k městu, s výhledem mezi náhrobky. Leží tu Carlo Collodi, autor Pinocchia. Vstup zdarma, otevřeno do cca 18:00, absolutně fotogenické v pozdním odpoledním světle a téměř prázdné.
+---
+NAME: San Salvatore al Monte
+LAT: 43.76083
+LON: 11.26389
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: no
+DESC: Střízlivý kostelík od Cronacy, kterému Michelangelo říkal "la bella villanella", hezká venkovanka, na půl cesty mezi Piazzale Michelangelo a San Miniatem. Před ním je travnatá terasa, kde nikdo nestojí — stejný výhled jako z Piazzale, ale bez davu a stánků. Zdarma, ideální 10 minut před západem slunce.
+---
+NAME: Giardino delle Rose
+LAT: 43.76389
+LON: 11.26250
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Terasovitá růžová zahrada pod Piazzale Michelangelo se vstupem ZDARMA, japonskou zahradou a dvanácti bronzy Jeana-Michela Folona rozesetými v trávě — melancholické postavy s kufry na pozadí kupole. Nejlepší místo na lehnutí si do trávy s lahví vína a výhledem na celé město. V létě otevřeno do cca 20:00, nejlepší hodinu před soumrakem.
+---
+NAME: Giardino Bardini — terasa
+LAT: 43.76361
+LON: 11.25611
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Barokní schodiště zaříznuté do svahu, na jehož horním konci je kavárenská terasa s asi nejlepším sezením nad Florencií — kupole přímo v ose, olivy a hortenzie okolo. V srpnu bez vistárie, zato prázdno a stín. Vstup asi 10 €, často v kombinaci s Boboli; do zahrady se jde z Via de' Bardi 1r nebo od Costa San Giorgio.
+---
+NAME: Forte Belvedere
+LAT: 43.76194
+LON: 11.25139
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Medicejská pevnost s obřími travnatými bastiony, odkud vidíte Florencii z jihozápadu — pohled, který nemá skoro nikdo, plus hradby Boboli klesající dolů. V létě tu bývá výstava a program, vstup 8 €, út–ne 10:00–20:00, ALE přístup jen do kavárny a na terasy je zdarma zvláštním vchodem — to je ten trik. Kavárna otevřená st–ne do 23:00, takže se dá zůstat i po setmění.
+---
+NAME: Torre San Niccolò
+LAT: 43.76472
+LON: 11.26639
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: no
+DESC: Jediná florentská městská brána, která si zachovala plnou výšku — vylezete strmým dřevěným schodištěm na ochoz nad Arnem. Otevřeno jen v létě, prohlídky každých 30 minut mezi 17:00 a 19:30, 6 €, POVINNÁ rezervace na 055 2768224 nebo info@muse.comune.fi.it. Při dešti se ruší; spojte s Rampe a Giardino delle Rose hned nad tím.
+---
+NAME: Le Rampe del Poggi
+LAT: 43.76472
+LON: 11.26528
+COORD_CONF: med
+CITY: Florencie
+CAT: foto
+TOP: no
+DESC: Zrestaurovaná soustava kaskád, jeskyněk a mozaikových nik, po které se serpentinami stoupá od Porta San Niccolò k Piazzale — Poggiho romantická inženýrská hračka z 19. století, kde teče voda a chladí vzduch. Zdarma a průchozí nonstop. Vezměte tudy cestu nahoru na San Miniato místo schodů, je to pomalejší a desetkrát hezčí.
+---
+NAME: Bellosguardo
+LAT: 43.75972
+LON: 11.23472
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Kopec na jihozápadě, kam turisté nechodí vůbec: z Porta Romana nebo z Piazza Tasso se jde 30–40 minut mezi zdmi vil a cypřiši a nahoře je náměstíčko a panorama, které obdivoval kdekdo od Henryho Jamese po Foscola. Zdarma, veřejná cesta. Nejlepší brzy ráno nebo těsně po západu slunce, kdy se rozsvítí město; cesta dolů je osvětlená.
+---
+NAME: Fiesole — Piazza Mino (bus 7)
+LAT: 43.80722
+LON: 11.29278
+COORD_CONF: high
+CITY: Fiesole
+CAT: vyhlidka
+TOP: yes
+DESC: Etruské město nad Florencií, 25 minut busem č. 7 z Piazza San Marco, což je 5 minut od bytu — jízdenka 2 €, platí 90 minut, kupte v tabaccherii, v busu je dráž. Nahoře je najednou chladno, výhled na celou kotlinu a jiný svět. Jeďte na pozdní odpoledne kvůli západu slunce a zpátky posledním spojem, jezdí do cca 23–24 hodin.
+---
+NAME: Fiesole — Convento di San Francesco
+LAT: 43.80806
+LON: 11.29167
+COORD_CONF: med
+CITY: Fiesole
+CAT: vyhlidka
+TOP: yes
+DESC: Prudké dlážděné stoupání z Piazza Mino, 10 minut pořádně do kopce, končí na nejvyšším bodě Fiesole: klášterní terasa a lavička s výhledem přímo na Brunelleschiho kupoli 6 km daleko. Kostel a maličký klášter s podivným misijním muzeem (mumie, čínské předměty) jsou zdarma. Tohle je ten západ slunce, kvůli kterému stojí za to do Fiesole jet.
+---
+NAME: Fiesole — římské divadlo
+LAT: 43.80833
+LON: 11.29417
+COORD_CONF: med
+CITY: Fiesole
+CAT: architektura
+TOP: no
+DESC: Římské divadlo z 1. století př. n. l. zasazené do olivového svahu, k tomu lázně, etruský chrám a kus etruských hradeb, v pozadí toskánské kopce. Vstup 7 €, v létě denně 10:00–19:00. V srpnu tu běží festival Estate Fiesolana — koncert v antickém divadle za soumraku je jeden z nejsilnějších zážitků okolí Florencie.
+---
+NAME: Fiesole — etruské hradby
+LAT: 43.80917
+LON: 11.29222
+COORD_CONF: low
+CITY: Fiesole
+CAT: hidden
+TOP: no
+DESC: Za archeologickým areálem vede volně přístupná ulička podél původní etruské hradby ze 4.–3. století př. n. l. — kyklopské kvádry vysoké několik metrů, zarostlé kaprifolem, a nikdo tam není. Zdarma, kdykoli. Krásné napojení na procházku k Monte Ceceri.
+---
+NAME: Monte Ceceri — Leonardovy lomy
+LAT: 43.80389
+LON: 11.30833
+COORD_CONF: low
+CITY: Fiesole
+CAT: dobrodruzstvi
+TOP: no
+DESC: Lesní park nad Fiesole s opuštěnými lomy na pietra serena, ze kterých se těžil kámen na půl Florencie — chodí se tmavými štolami a po hranách jam v lese. Odsud podle tradice startoval Leonardův pokus o let, je tu jeho pamětní kámen. Zdarma, značené cesty z Fiesole asi 40 minut, vezměte vodu a čelovku; za tmy se sem nechoďte.
+---
+NAME: Pěšky z Fiesole dolů — Via Vecchia Fiesolana
+LAT: 43.80028
+LON: 11.28806
+COORD_CONF: low
+CITY: Fiesole
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Zpátky z Fiesole se dá jít pěšky celých 6 km: úzká historická Via Vecchia Fiesolana klesá mezi kamennými zdmi vil, kolem Badia Fiesolana a San Domenico, pak přes Via Boccaccio do města. Trvá 1,5–2 hodiny, samý výhled, auta téměř žádná. Nejlepší varianta: nahoru busem, dolů pěšky za soumraku, poslední úsek je osvětlený.
+---
+NAME: Terrazza Biblioteca delle Oblate
+LAT: 43.77139
+LON: 11.25917
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: yes
+DESC: Nejlepší levný výhled na Brunelleschiho kupoli ve městě: kavárna na střeše městské knihovny, kupole je tak blízko, že vypadá neskutečně. Vstup do knihovny zdarma, káva 1,50–2 €, spritz kolem 6 €. Otevřeno dlouho — knihovna běžně do půlnoci v pracovní dny — takže ideální kombinace s večerní procházkou.
+---
+NAME: Caffè del Verone (Innocenti)
+LAT: 43.77694
+LON: 11.26083
+COORD_CONF: med
+CITY: Florencie
+CAT: vyhlidka
+TOP: no
+DESC: Loggie v nejvyšším patře Brunelleschiho nalezince, dlouhá krytá terasa s výhledem přes střechy k Duomu a na kopce. Do kavárny se dá vejít bez vstupenky do muzea, má vlastní výtah — káva a aperol za normální ceny, žádné davy. Nejlepší kolem 19:00, kdy světlo padá na cihlové střechy.
+---
+NAME: La Terrazza — Rinascente
+LAT: 43.77139
+LON: 11.25361
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Střešní bar obchodního domu na Piazza della Repubblica: nemusíte nic kupovat, abyste vyjeli výtahem do 5. patra a stoupli si k zábradlí přímo naproti kupoli a Giottově zvonici. Nápoj kolem 10–12 €, kvalita průměrná, ale výhled zadarmo je nejlepší trik v centru. Chodí se sem před západem slunce.
+---
+NAME: Loggia Roof Bar (Palazzo Guadagni)
+LAT: 43.76667
+LON: 11.24806
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: yes
+DESC: Otevřená renesanční loggie v podkroví paláce nad Piazza Santo Spirito — sloupy, staré dlaždice, střechy Oltrarna a v dálce kopce. Levnější a mnohem méně nafoukané než hotelové střechy za řekou; koktejl kolem 10 €, aperitivo s malým bufetem. Přijďte v 19:00, sedněte si k rohu loggie a pak sejděte dolů na náměstí, kde večer teprve začíná.
+---
+NAME: La Specola — anatomické vosky
+LAT: 43.76389
+LON: 11.24722
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: yes
+DESC: Nejbizarnější muzeum Itálie: stovky voskových modelů z 18. století, kde rozpitvané ženy leží v póze spících krásek s perlovým náhrdelníkem, plus obří zoologická sbírka ve starých vitrínách. Po rekonstrukci znovu otevřeno, út–ne 9:00–17:00. Vosky POUZE s prohlídkou (11:00, 12:00 nebo 15:00, max 15 lidí) a lístek na ně se kupuje jen na pokladně ve Via Romana 17 — přijďte hned po otevření, jinak je vyprodáno.
+---
+NAME: Museo Stefano Bardini
+LAT: 43.76639
+LON: 11.25806
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Dům starožitníka, který si celý interiér natřel na sytě modrou "Bardini blue" a poskládal do něj sochy, kilimy, brnění a Donatellovy reliéfy jako scénografii — vizuálně nejsilnější muzejní prostor ve městě a skoro prázdný. Je tu i původní Kanec (Porcellino) a Ďábel od Giambologny. Vstup asi 7 €, otevřeno jen některé dny, obvykle pá–po, ověřte.
+---
+NAME: Museo Horne
+LAT: 43.76806
+LON: 11.26000
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Renesanční palác zařízený tak, jak by v něm florentský měšťan skutečně žil — nábytek, majolika, kuchyňské náčiní, Giottova deska, a nikdo uvnitř. Vstup asi 7 €, dopoledne. Skvělé, když chcete atmosféru 15. století bez muzejního provozu; z Ponte alle Grazie 2 minuty.
+---
+NAME: Officina Profumo di Santa Maria Novella
+LAT: 43.77417
+LON: 11.24750
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: yes
+DESC: Nejstarší lékárna světa (1221) — vejdete z nenápadné ulice do freskované gotické kaple přeměněné na prodejnu, s vitrínami, křišťálem a vůní kosatce a růžové vody. Vstup zdarma, můžete jen chodit a čichat; nejlevnější suvenýr je mýdlo nebo Acqua di Santa Maria Novella. Nezapomeňte na zadní sály se starým herbářem a destilačními přístroji.
+---
+NAME: Farmacia SS. Annunziata 1561
+LAT: 43.77500
+LON: 11.25889
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Menší, méně známá a méně turistická sestra Officiny — dřevěné regály z 19. století, keramické lékárnické nádoby a vlastní řada kosmetiky podle historických receptur. Vstup zdarma, obsluha ochotně dá vzorky. Ve Via dei Servi, přesně na cestě mezi Duomem a Piazza SS. Annunziata.
+---
+NAME: Legatoria Il Torchio
+LAT: 43.76694
+LON: 11.25528
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Knihařská dílna ve Via dei Bardi, kde se dodnes ručně šijí vazby a mramoruje papír — dílnu vidíte přímo z krámku a klidně vás nechají chvíli koukat. Zápisník od 15 €, kožená vazba dráž; nejlepší dárek z Florencie, co není z kůže z tržnice. Zavírá kolem 18:00, o víkendu omezeně.
+---
+NAME: Legatoria Alberto Cozzi
+LAT: 43.77083
+LON: 11.24944
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Čtvrtá generace mramorovačů papíru ve Via del Parione — restaurují staré knihy a v zadní místnosti máčejí archy v barvené lázni. Archy mramorovaného papíru od pár eur, což je nejhezčí levný suvenýr vůbec. Ve stejné ulici je několik dalších starých dílen, takže si projděte celý Parione.
+---
+NAME: Antico Setificio Fiorentino
+LAT: 43.76944
+LON: 11.23917
+COORD_CONF: low
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Tkalcovna hedvábí z roku 1786 v San Frediano, která dodnes tká na dřevěných stavech z 18. století a na snovadle navrženém podle Leonardova nákresu — brokáty sem objednávají paláce a muzea. Není to běžné muzeum: prohlídka jen po předchozí domluvě e-mailem, ale i výloha a dvorek stojí za zajížďku. Via Lorenzo Bartolini 4.
+---
+NAME: Zecchi — pigmenty a barvy
+LAT: 43.77222
+LON: 11.25667
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Obchod pro restaurátory kousek od Duomu: police plné skleněných nádob se sytými pigmenty — lapis, rumělka, sienská hlinka — plátkové zlato, štětce a kožené vazby. Vizuálně je to muzeum a přitom si tam koupíte sáček pigmentu za pár eur. Otevřeno v běžné pracovní době, v sobotu odpoledne zavírá.
+---
+NAME: Mercato delle Pulci — blešák
+LAT: 43.77000
+LON: 11.26861
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Blešák se stálými boudami — staré rytiny, mosazné kliky, rámy, kufry, pohlednice, laboratorní sklo. Levné, autentické a je to jeden z mála koutů centra, kde jsou skoro jen Florenťané. Kousek od Sant'Ambrogia, takže se spojí s tržnicí a lampredottem; nejlepší dopoledne.
+---
+NAME: Babae — vinné okénko
+LAT: 43.76861
+LON: 11.24583
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: yes
+DESC: Jediné místo, kde se rituál vinného okénka dělá pořádně: ve Via Santo Spirito 21r se každý večer, obvykle kolem 19:00–20:00, otevřou malá dvířka ve zdi a podávají se jimi skleničky vína — zazvoníte, ruka podá sklenici, dvířka se zavřou. Sklenka 5–7 €. Přijďte přesně na začátek okna, jinak stojíte frontu.
+---
+NAME: Buchette del vino — Via delle Belle Donne
+LAT: 43.77306
+LON: 11.24861
+COORD_CONF: low
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Ve Florencii je zdokumentováno přes 150 zazděných vinných okének ze 16.–17. století — malé obloučky ve výši pasu, kterými šlechtické rody prodávaly víno z vlastních statků, aniž musely otevřít krám. Mapu má Associazione Buchette del Vino; jedno z nejhezčích je právě tady, další ve Via del Trebbio 1r, Via de' Palchetti 4 a Via Ginori 14. Zdarma a je z toho výborná hra při procházce.
+---
+NAME: L'Importuno di Michelangelo
+LAT: 43.76944
+LON: 11.25528
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Vpravo od vchodu do Palazzo Vecchio, na kamenné lavici ve výši ramen, je vyrytý profil muže — podle tradice ho tam Michelangelo vysekal za zády, aby dokázal, že to umí i naslepo, protože ho ten člověk otravoval. Je maličký a projdou kolem tisíce lidí denně. Zdarma, hledejte na rohu směrem k Uffizi.
+---
+NAME: Berta — hlava ve zdi zvonice
+LAT: 43.77250
+LON: 11.25139
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Ve zdi zvonice kostela Santa Maria Maggiore, ve výšce druhého patra, kouká z kamene ženská hlava — údajně trhovkyně Berta, nebo pohanské torzo; podle jiné legendy sem byl zazděn pohled nekromanta Cecca d'Ascoli, upáleného kousek odsud. Zdarma, jen je nutné vědět, kam se dívat, na nároží Via de' Cerretani. Krásná zastávka cestou od nádraží do centra.
+---
+NAME: Ponte Santa Trinita — západ slunce
+LAT: 43.76944
+LON: 11.25000
+COORD_CONF: high
+CITY: Florencie
+CAT: foto
+TOP: yes
+DESC: Nejelegantnější most Evropy (Ammannati, elipsové oblouky) a nejlepší místo na západ slunce ve městě: z jeho středu máte Ponte Vecchio přesně v ose proti slunci a zlatou vodu pod sebou. Zdarma, přijďte 30 minut před západem (v půlce srpna kolem 20:20) a zůstaňte i po něm, modrá hodina je tu ještě lepší. Po setmění sedněte na kamenné zábradlí u sochy Jara, chodí sem Florenťané s pivem.
+---
+NAME: Pescaia di Santa Rosa — schody k Arnu
+LAT: 43.77000
+LON: 11.23972
+COORD_CONF: med
+CITY: Florencie
+CAT: voda
+TOP: yes
+DESC: Na Lungarno Santa Rosa v San Frediano vedou kamenné schody dolů na břeh k jezu — dá se sednout přímo k vodě, nohy do řeky, výhled na Ponte alla Carraia a přes vodu na Cascine. Zdarma, večer sem chodí místní s vínem a hraje se na kytaru. Koupání v Arnu je zakázané a voda je špinavá — namočit nohy ano, plavat ne.
+---
+NAME: Easy Living — pláž na Arnu
+LAT: 43.76528
+LON: 11.26361
+COORD_CONF: med
+CITY: Florencie
+CAT: voda
+TOP: no
+DESC: Letní městská pláž na Lungarno Serristori pod Piazza Poggi: písek, lehátka, bar s kioskem, DJ sety a filmy pod širým nebem, přímo u hladiny Arna pod Torre San Niccolò. Vstup zdarma, pití levné, otevřeno do noci, typicky do půl druhé. Ověřte, jestli letos běží — provozovatel se občas mění, ale místo pod Rampe žije každé léto.
+---
+NAME: Canottieri Firenze — pod Uffizi
+LAT: 43.76694
+LON: 11.25528
+COORD_CONF: med
+CITY: Florencie
+CAT: voda
+TOP: no
+DESC: Veslařský klub sídlí doslova v podzemních obloucích pod Galerií Uffizi a má vlastní molo na Arnu — nejpodivnější adresa ve Florencii. Veřejné projížďky na tradičních člunech renaiole nabízejí i jiní provozovatelé od Ponte Vecchio, kolem 20–30 €/os. za hodinu. Pohled na město z hladiny je úplně jiné město.
+---
+NAME: Parco delle Cascine a Le Pavoniere
+LAT: 43.78167
+LON: 11.23056
+COORD_CONF: med
+CITY: Florencie
+CAT: priroda
+TOP: no
+DESC: Tříkilometrový park podél Arna, kde Florencie končí a začíná stín platanů; uvnitř je venkovní bazén Le Pavoniere v klasicistním pavilonu, vstup 12–15 € na den, večer se mění na bar. V úterý ráno je tu obří levné tržiště. Do parku 20 minut pěšky po nábřeží nebo tramvají T1; večer v odlehlých částech raději ne.
+---
+NAME: Parco dei Renai (Signa) — koupání
+LAT: 43.78056
+LON: 11.10556
+COORD_CONF: low
+CITY: Signa
+CAT: voda
+TOP: no
+DESC: Nejbližší legální koupání u Florencie: jezero s plážemi, půjčovnou paddleboardů a barem asi 15 km po proudu. Vlakem ze Santa Maria Novella do Signy asi 20 minut (2,60 €) a pak 15 minut pěšky. Vstup do parku levný, koupání ve vyhrazené části. V Arnu ve městě se koupat nesmí, tohle je ta legální varianta.
+---
+NAME: Gualchiere di Remole
+LAT: 43.78056
+LON: 11.36389
+COORD_CONF: low
+CITY: Florencie
+CAT: dobrodruzstvi
+TOP: no
+DESC: Středověké valchy na sukno ze 14. století stojící přímo v Arnu u Sieci, opuštěné, s jezem a mlýnskými náhony — jedna z nejfotogeničtějších ruin v okolí. Dostanete se sem vlakem do Sieci nebo Compiobbi asi za 20 minut a pak pěšky po břehu. ŠEDÁ ZÓNA: areál je oplocený a vstup dovnitř bez povolení není legální, ale zvenku od cyklostezky a od jezu je to skvělé. Do vody tady nelezte, proud u jezu je nebezpečný.
+---
+NAME: Piazza Santo Spirito — večer
+LAT: 43.76694
+LON: 11.24778
+COORD_CONF: high
+CITY: Florencie
+CAT: bar
+TOP: yes
+DESC: Náměstí, kde Florencie tráví letní večery: schody kostela plné lidí, pivo z Volume nebo Pop Café za 4–5 €, aperitivo do 21:00 a potom se to samo přelije do ulic. Autentické, hlučné, levné a bez turbo-turistiky Santa Croce. Pozor na věci v batohu a vezměte si vodu, kohoutek tu není.
+---
+NAME: Piazza della Passera
+LAT: 43.76694
+LON: 11.25028
+COORD_CONF: med
+CITY: Florencie
+CAT: foto
+TOP: no
+DESC: Nejmenší a nejhezčí náměstíčko Oltrarna — pět stolů, zmrzlinárna, dvě trattorie, okrové omítky. Jméno má buď od nemocného vrabce, nebo pravděpodobněji od nevěstince, který tu stával. Zdarma; přijďte kolem 20:00, kdy je nasvícené, a projděte se odsud Via Toscanella a Sdrucciolo de' Pitti.
+---
+NAME: Via dell'Ardiglione (San Frediano)
+LAT: 43.76806
+LON: 11.24333
+COORD_CONF: low
+CITY: Florencie
+CAT: foto
+TOP: no
+DESC: Zapadlá klenutá ulička v San Frediano, kde se narodil Filippo Lippi — nízké průjezdy, dílny, prádlo, žádní turisté; napojuje se na Borgo San Frediano a Via del Leone. Nejlepší za pozdního odpoledne, kdy světlo padá do klenby. Zdarma a je to přesně ta esteticky šílená Florencie bez kulis.
+---
+NAME: Mercato di Sant'Ambrogio
+LAT: 43.77000
+LON: 11.26694
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: yes
+DESC: Skutečná florentská tržnice bez foodcourtu: venku zelenina a ovoce za poloviční ceny než v centru, uvnitř řezníci, sýry a legendární Trattoria da Rocco, kde se obědvá u společného stolu za 12–15 € (těstoviny 5 €, druhé 7 €). Otevřeno po–so cca 7:00–14:00. Nejlevnější a nejlepší oběd ve městě.
+---
+NAME: Sergio Pollini — lampredotto
+LAT: 43.76972
+LON: 11.26722
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: yes
+DESC: Nejlepší lampredotto ve Florencii podle většiny místních žebříčků: vozík ve Via de' Macci u Sant'Ambrogia, otec a syn, panino za 4–5 €, k tomu salsa verde a pikantní olej. Řekněte "bagnato" (namočená houska) a "con tutte e due le salse". Jen dopoledne do brzkého odpoledne, hotovost.
+---
+NAME: Nerbone (Mercato Centrale)
+LAT: 43.77639
+LON: 11.25361
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Legendární stánek uvnitř Mercato Centrale od roku 1874 — panino con bollito (vařené hovězí) nebo lampredotto za 5 €, sklenka vína 2 €, mramorové stolky, fronta místních. Otevřeno po–so od 7:00 do cca 14:00, ideální hned po ránu, 5 minut od bytu. V patře je turistický foodcourt, ta pravá věc je dole ve staré tržnici.
+---
+NAME: Semel — mikroskopická paninoteka
+LAT: 43.76972
+LON: 11.26833
+COORD_CONF: low
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Mikroskopický pult u Sant'Ambrogia, pět druhů netradičních panini denně (kachní, sardela s vlašskými ořechy, tuňák s hruškou), každý kolem 4–5 €, jí se vestoje na ulici. Otevřeno jen pár hodin kolem oběda, a když dojde chleba, zavírá. Skvělé v kombinaci s tržnicí a blešákem.
+---
+NAME: Trattoria Sabatino
+LAT: 43.76944
+LON: 11.23528
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: yes
+DESC: Za Porta San Frediano, papírové ubrusy, dělnická jídelna z roku 1956 — plná menu za 15–20 € na osobu s vínem, ribollita, bollito, pasta kolem 5 €. Jen po–pá, oběd a večeře do cca 21:30, hotovost. Nejlepší poměr cena/autenticita ve městě a nulová šance potkat tam turistickou skupinu.
+---
+NAME: Trattoria La Casalinga
+LAT: 43.76667
+LON: 11.24778
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Rodinná trattorie kousek od Santo Spirito, hlučná, rychlá, hromadná — ribollita, trippa alla fiorentina, peposo; dva se najedí kolem 30–35 € včetně vína. Nerezervuje se snadno, přijďte v 19:30 nebo počítejte s čekáním. Perfektní kombinace: večeře tady a pak pivo na náměstí.
+---
+NAME: Gelateria della Passera
+LAT: 43.76667
+LON: 11.25028
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: yes
+DESC: Nejzajímavější zmrzlina ve městě — malé šarže, opravdové suroviny, příchutě jako profumi d'oriente (zázvor, kardamom, šafrán) nebo ricotta s fíky; kopeček od 2,50 €. Miniaturní krám na stejnojmenném náměstíčku, žádné nakupené barevné hory, což je znak průmyslové zmrzliny. Otevřeno do pozdního večera.
+---
+NAME: Vivoli
+LAT: 43.77000
+LON: 11.26056
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Nejstarší gelateria Florencie (1930) ve slepé uličce u Santa Croce — bez kornoutů, jen kelímky, dělají jen to, co ten den vyrobili. Berte rýžovou, crema nebo affogato s espressem; kelímek od 2,50 €. Skvělé pozdě večer po procházce centrem.
+---
+NAME: Badiani — Buontalenti
+LAT: 43.78889
+LON: 11.27139
+COORD_CONF: low
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Kousek za centrem na Viale dei Mille; tady v roce 1979 vymysleli příchuť Buontalenti (vaječný krém, recept dodnes tajný) a je to nejlepší krémová zmrzlina ve městě. Cesta busem nebo 25 minut pěšky, ale místní si sem jezdí schválně. Otevřeno dlouho do noci — dobrá výmluva na noční procházku severní Florencií.
+---
+NAME: Sbrino Gelatificio Contadino
+LAT: 43.76694
+LON: 11.24444
+COORD_CONF: med
+CITY: Florencie
+CAT: jidlo
+TOP: no
+DESC: Malá gelateria ve Via dei Serragli, která si dováží mléko z jedné konkrétní farmy a dělá všechno denně v malých šaržích — chuťově nejčistší zmrzlina v Oltrarnu, výborné ovocné sorbety. Kopeček 2,50–3 €. Na cestě mezi Santo Spirito a Porta Romana.
+---
+NAME: Le Volpi e l'Uva
+LAT: 43.76750
+LON: 11.25278
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Nenápadná vinárna na náměstíčku za Ponte Vecchio, kde se točí desítky vín po skleničce od malých toskánských vinařů (od 5 €) a k tomu crostini a sýry. Personál poradí a nepřeprodává. Otevřeno od pozdního odpoledne, pár stolků venku — ideální první zastávka večer po příjezdu 12. 8.
+---
+NAME: Casa del Vino
+LAT: 43.77556
+LON: 11.25333
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Historická vinárnička ve Via dell'Ariento za Mercato Centrale, dřevěný interiér z 19. století, sklenka vína od 3 €, crostini a panini s tuňákem a artyčoky za pár eur. Chodí sem trhovci a stojí se u pultu. Otevřeno hlavně přes den — perfektní rychlá zastávka 4 minuty od bytu.
+---
+NAME: Mad Souls & Spirits
+LAT: 43.76944
+LON: 11.24028
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Nejlepší koktejlový bar v Oltrarnu na Borgo San Frediano, malý, nabitý, s ručně kreslenými menu a drinky kolem 9–11 € — kvalita jako v Londýně za florentské ceny. Nerezervuje se, přijďte před 21:00 nebo pijte vestoje na ulici, což tu dělají všichni. Kolem je celý pás dobrých barů.
+---
+NAME: Rasputin (speakeasy)
+LAT: 43.76583
+LON: 11.24722
+COORD_CONF: low
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Nemá ceduli ani okno — hledáte dřevěná dvířka v Borgo Tegolaio, zaklepete a projdete do sametového podzemí s klavírem a bez menu, barman míchá podle nálady. Drink 12–15 €, doporučuje se napsat předem přes Instagram. Trochu kýčovité, ale hodně zábavné.
+---
+NAME: Le Murate Caffè Letterario
+LAT: 43.77028
+LON: 11.26722
+COORD_CONF: med
+CITY: Florencie
+CAT: bar
+TOP: no
+DESC: Bývalá klášterní věznice přeměněná na kulturní centrum: nádvoří mezi celami s pouličním osvětlením, koncerty, promítání a bar, kde je spritz kolem 6 €. Vstup zdarma, otevřeno do půlnoci a dál. Nejlepší alternativní večer v centru — 12 minut od Duomu, ale svět stranou.
+---
+NAME: Giardino dell'Orticoltura — Tepidarium
+LAT: 43.79000
+LON: 11.25972
+COORD_CONF: med
+CITY: Florencie
+CAT: priroda
+TOP: no
+DESC: Obří litinovo-skleněný skleník z roku 1880 — nejkrásnější kus průmyslové architektury ve Florencii, uvnitř výstavy a občas koncerty; okolo zahrada s drakem a vyhlídkovou terasou na město. Vstup ZDARMA, otevřeno do večera. 20 minut pěšky na sever od bytu.
+---
+NAME: Manifattura Tabacchi
+LAT: 43.78472
+LON: 11.22778
+COORD_CONF: med
+CITY: Florencie
+CAT: architektura
+TOP: no
+DESC: Racionalistická tabáková továrna z 30. let, dnes napůl oživená čtvrť s galeriemi, ateliéry, kavárnou a letním programem koncertů a filmů na nádvořích. Brutálně fotogenické betonové geometrie, nulová turistika, vstup zdarma. Tramvají T1 nebo 25 minut pěšky přes Cascine.
+---
+NAME: Cimitero degli Inglesi
+LAT: 43.77778
+LON: 11.26583
+COORD_CONF: med
+CITY: Florencie
+CAT: hidden
+TOP: no
+DESC: Ostrůvek uprostřed rušného kruhového objezdu Piazzale Donatello: oválný kopeček s cypřiši a bílými náhrobky protestantů 19. století, mimo jiné Elizabeth Barrett Browningové — obraz, který Böcklin použil pro Ostrov mrtvých. Vstup za dobrovolný příspěvek asi 2 €, otevřeno omezené hodiny. Naprosto surreálné místo, 15 minut pěšky od bytu.
+---
+NAME: Grotta del Buontalenti (Boboli)
+LAT: 43.76528
+LON: 11.24917
+COORD_CONF: med
+CITY: Florencie
+CAT: umeni
+TOP: no
+DESC: Manýristická umělá jeskyně u vchodu do Boboli: stěny tající do krápníků, z nichž se vynořují pastýři a zvířata, v koutech kopie Michelangelových Otroků a v poslední komoře Giambolognova Venuše. Nejbizarnější renesanční interiér ve Florencii. Vyžaduje vstupenku do Boboli (asi 10 €); vstup do grotty bývá po skupinách v pravidelných intervalech, ptejte se hned u brány.
+---
+NAME: Perseidy v noci 12./13. 8.
+LAT: 43.80806
+LON: 11.29167
+COORD_CONF: med
+CITY: Fiesole
+CAT: dobrodruzstvi
+TOP: yes
+DESC: Maximum meteorického roje Perseid vychází letos právě na noc z 12. na 13. 8. a je NOV — tedy ideální podmínky, jednou za roky. Nejlepší dostupné tmavé místo: svah nad Fiesole (terasa u San Francesco, louky u Monte Ceceri) nebo Bellosguardo; ve městě je světelný smog. Vezměte deku, vodu a čelovku a počítejte s návratem nočním busem nebo taxíkem.
+---
+NAME: Prádelna Wash & Dry
+LAT: 43.77694
+LON: 11.25139
+COORD_CONF: med
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Samoobslužná prádelna 5 minut od bytu na Via Nazionale, otevřeno cca 7:30–22:30 denně; praní asi 4,50 €, sušení 4 €, prášek z automatu. Řetězec má pobočky i ve Via dei Servi 105r a Via Ghibellina. Když cestujete nalehko, tohle ušetří půl batohu.
+---
+NAME: Fontanelli — pitná voda zdarma
+LAT: 43.77000
+LON: 11.26389
+COORD_CONF: low
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Publiacqua provozuje po městě fontanelli s vodou zdarma, přírodní i perlivou — v centru například ve Via dell'Agnolo, mapa je na publiacqua.it. Kromě toho jsou po celém centru staré kašničky a pítka, ze kterých se běžně pije. Ve 35stupňovém srpnu je láhev a znalost nejbližšího pítka důležitější než jakákoli vstupenka.
+---
+NAME: Veřejné WC — Piazza della Signoria
+LAT: 43.76944
+LON: 11.25806
+COORD_CONF: low
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Placené veřejné WC asi za 1 € ve Via Filippina za Palazzo Vecchio; další jsou u Mercato Centrale, na Piazza Santa Maria Novella a na Piazzale Michelangelo, obvykle 9:00–19:00. Jinak platí pravidlo: dát si u baru espresso za 1,20 € vyjde nastejno a je to civilizovanější.
+---
+NAME: Levné nákupy — Via Nazionale
+LAT: 43.77639
+LON: 11.25139
+COORD_CONF: low
+CITY: Florencie
+CAT: prakticke
+TOP: no
+DESC: Ulice mezi bytem a nádražím má několik malých supermarketů (Conad City, Carrefour Express) otevřených typicky do 21:00 — víno od 4 €, pecorino, focaccia, voda za 40 centů. Pro čerstvé věci je lepší Mercato Sant'Ambrogio nebo stánky před Mercato Centrale. Pozor: kolem Ferragosta mají menší krámy zavřeno nebo zkrácenou dobu.
