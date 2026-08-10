@@ -149,61 +149,99 @@ def validate(points):
     return uniq, dropped
 
 
-def kml(doc_name, points):
-    used = sorted({p["cat"] for p in points})
-    styles = []
-    for cat in used:
-        color = CATEGORIES[cat][0]
-        styles.append(
-            f'  <Style id="placemark-{color}">\n'
-            f'    <IconStyle>\n'
-            f'      <Icon><href>http://mapswith.me/placemarks/placemark-{color}.png</href></Icon>\n'
-            f'    </IconStyle>\n'
-            f'  </Style>'
-        )
-
-    marks = []
+def sort_points(points):
     order = {c: i for i, c in enumerate(
         ["vyhlidka", "hidden", "dobrodruzstvi", "voda", "architektura",
          "priroda", "jidlo", "prakticke"])}
     daykey = {d: i for i, (_, d, _) in enumerate(REGIONS)}
-    for p in sorted(points, key=lambda q: (daykey.get(q["day"], 99),
-                                           order.get(q["cat"], 99),
-                                           q["name"])):
-        color, catlabel = CATEGORIES[p["cat"]]
+    return sorted(points, key=lambda q: (daykey.get(q["day"], 99),
+                                         order.get(q["cat"], 99),
+                                         q["name"]))
+
+
+def describe(p):
+    head = " · ".join(x for x in [p["day"], p["city"], CATEGORIES[p["cat"]][1]] if x)
+    return f"{head}\n\n{p['desc']}" if head else p["desc"]
+
+
+def kml(doc_name, points):
+    """KML v dialektu, který exportuje sám MAPS.ME.
+
+    Jeho parser je ruční a citlivý: chce starý jmenný prostor earth.google.com,
+    definice všech stylů předem a popis jako obyčejný escapovaný text — CDATA
+    a novější schéma OGC mu import tiše shodí.
+    """
+    styles = "\n".join(
+        f'  <Style id="placemark-{color}">\n'
+        f'    <IconStyle>\n'
+        f'      <Icon>\n'
+        f'        <href>http://mapswith.me/placemarks/placemark-{color}.png</href>\n'
+        f'      </Icon>\n'
+        f'    </IconStyle>\n'
+        f'  </Style>'
+        for color in ["red", "blue", "purple", "yellow",
+                      "pink", "brown", "green", "orange"]
+    )
+
+    marks = []
+    for p in sort_points(points):
+        color = CATEGORIES[p["cat"]][0]
         name = ("★ " if p["top"] else "") + p["name"]
-        head = " · ".join(x for x in [p["day"], p["city"], catlabel] if x)
-        body = f"{head}\n\n{p['desc']}" if head else p["desc"]
-        body = body.replace("]]>", "]] >")  # ať nerozbijeme CDATA
         marks.append(
             "  <Placemark>\n"
             f"    <name>{html.escape(name)}</name>\n"
-            f"    <description><![CDATA[{body}]]></description>\n"
+            f"    <description>{html.escape(describe(p))}</description>\n"
+            f"    <TimeStamp><when>2026-08-10T08:00:00Z</when></TimeStamp>\n"
             f"    <styleUrl>#placemark-{color}</styleUrl>\n"
-            f"    <Point><coordinates>{p['lon']:.6f},{p['lat']:.6f},0</coordinates></Point>\n"
+            f"    <Point><coordinates>{p['lon']:.6f},{p['lat']:.6f}</coordinates></Point>\n"
             "  </Placemark>"
         )
 
     return (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<kml xmlns="http://www.opengis.net/kml/2.2">\n'
+        '<kml xmlns="http://earth.google.com/kml/2.2">\n'
         '<Document>\n'
         f'  <name>{html.escape(doc_name)}</name>\n'
         '  <visibility>1</visibility>\n'
-        + "\n".join(styles) + "\n"
+        + styles + "\n"
         + "\n".join(marks) + "\n"
         '</Document>\n'
         '</kml>\n'
     )
 
 
-def write_kmz(path, doc_name, points):
+def gpx(doc_name, points):
+    """Záložní formát. Barvy v něm nepřežijí, ale importuje ho úplně každá appka."""
+    wpts = []
+    for p in sort_points(points):
+        name = ("★ " if p["top"] else "") + p["name"]
+        wpts.append(
+            f'  <wpt lat="{p["lat"]:.6f}" lon="{p["lon"]:.6f}">\n'
+            f"    <name>{html.escape(name)}</name>\n"
+            f"    <desc>{html.escape(describe(p))}</desc>\n"
+            "  </wpt>"
+        )
+    return (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<gpx version="1.1" creator="Italie2026" '
+        'xmlns="http://www.topografix.com/GPX/1/1">\n'
+        f"  <metadata><name>{html.escape(doc_name)}</name></metadata>\n"
+        + "\n".join(wpts) + "\n"
+        "</gpx>\n"
+    )
+
+
+def write_all(path, doc_name, points):
+    """Uloží stejný seznam jako .kmz, .kml i .gpx — ať je co zkusit, když appka vzdoruje."""
     os.makedirs(os.path.dirname(path), exist_ok=True)
+    doc = kml(doc_name, points)
     with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED) as z:
-        z.writestr("doc.kml", kml(doc_name, points))
+        z.writestr("doc.kml", doc)
     with open(path[:-4] + ".kml", "w", encoding="utf-8") as f:
-        f.write(kml(doc_name, points))
-    print(f"  → {os.path.relpath(path, ROOT)}  ({len(points)} bodů)")
+        f.write(doc)
+    with open(path[:-4] + ".gpx", "w", encoding="utf-8") as f:
+        f.write(gpx(doc_name, points))
+    print(f"  → {os.path.relpath(path, ROOT)[:-4]}.{{kmz,kml,gpx}}  ({len(points)} bodů)")
 
 
 def main():
@@ -235,9 +273,11 @@ def main():
     per_cat = Counter(p["cat"] for p in points)
     print("  " + " · ".join(f"{CATEGORIES[c][1]} {n}" for c, n in per_cat.most_common()))
 
-    write_kmz(os.path.join(OUT, "Italie2026_TOP.kmz"), "Itálie 2026 ★ TOP", top)
-    write_kmz(os.path.join(OUT, "Italie2026_ZBYTEK.kmz"), "Itálie 2026 · zbytek", rest)
-    write_kmz(os.path.join(OUT, "Italie2026_VSE.kmz"), "Itálie 2026 · vše", points)
+    write_all(os.path.join(OUT, "Italie2026_TOP.kmz"), "Itálie 2026 ★ TOP", top)
+    write_all(os.path.join(OUT, "Italie2026_ZBYTEK.kmz"), "Itálie 2026 · zbytek", rest)
+    write_all(os.path.join(OUT, "Italie2026_VSE.kmz"), "Itálie 2026 · vše", points)
+    # Tři body na ověření, že import v appce vůbec funguje, než se řeší velký soubor.
+    write_all(os.path.join(OUT, "TEST_3body.kmz"), "TEST 3 body", top[:3])
     return points
 
 

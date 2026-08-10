@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>TEST 3 body</name>
+  <visibility>1</visibility>
+  <Style id="placemark-red">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-red.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-blue">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-blue.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-purple">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-purple.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-yellow">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-yellow.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-pink">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-pink.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-brown">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-brown.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-green">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-green.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Style id="placemark-orange">
+    <IconStyle>
+      <Icon>
+        <href>http://mapswith.me/placemarks/placemark-orange.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Placemark>
+    <name>★ Canale dei Buranelli</name>
+    <description>Po 10. 8. · Treviso · Vyhlídka &amp; foto
+
+Nejfotogeničtější místo Trevisa: kanál Cagnan lemovaný podloubími a domy stojícími přímo ve vodě, jméno podle kupců z Burana, kteří tu měli sklad. Do druhé světové války tu pradleny praly prádlo přímo v kanálu. Nejlepší světlo brzy ráno — což je přesně, kdy dorazíte z letiště — nebo pozdě odpoledne. Zdarma, nonstop.</description>
+    <TimeStamp><when>2026-08-10T08:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-red</styleUrl>
+    <Point><coordinates>12.246950,45.666330</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>★ Fontana delle Tette</name>
+    <description>Po 10. 8. · Treviso · Hidden gem
+
+Kašna z roku 1559 v podobě ženského poprsí — z jednoho prsu kdysi teklo bílé, z druhého červené víno, zdarma davu při slavnostech nového podesty. Dnes stojí kopie ve dvoře Palazzo Zignoli ve Vicolo Podestà (zdarma, přes den průchozí), originál pod loubím Palazzo dei Trecento. Absolutní bizarnost, kterou většina návštěvníků Trevisa mine, protože je schovaná v průchodu.</description>
+    <TimeStamp><when>2026-08-10T08:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-pink</styleUrl>
+    <Point><coordinates>12.245230,45.666380</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>★ Piazza dei Signori &amp; Palazzo dei Trecento</name>
+    <description>Po 10. 8. · Treviso · Architektura &amp; umění
+
+Cihlové srdce města — románsko-gotický Palazzo dei Trecento (1207) na masivních arkádách, pod nimiž je ve vitríně vystaven ORIGINÁL Fontany delle Tette. Náměstí je zdarma a nonstop; interiér paláce s freskami je přístupný jen o víkendech, takže v pondělí zavřeno. Kafe na náměstí je předražené, dej si ho o blok dál.</description>
+    <TimeStamp><when>2026-08-10T08:00:00Z</when></TimeStamp>
+    <styleUrl>#placemark-purple</styleUrl>
+    <Point><coordinates>12.245960,45.665730</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>

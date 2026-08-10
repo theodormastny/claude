@@ -5,7 +5,8 @@
 
 ## Soubory
 
-Hotové mapy jsou v `out/`:
+Hotové mapy jsou v `out/`. Každý seznam je ve třech formátech — `.kml`, `.kmz` a `.gpx`.
+Maps.me umí všechny tři, ale ne vždycky stejně spolehlivě: začni `.kml`.
 
 | Soubor | Co obsahuje |
 |---|---|
