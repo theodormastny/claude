@@ -22,8 +22,9 @@ pro případ, že by appka zazipovanou verzi nevzala.
 
 `out/mapa.html` je jeden samostatný soubor, který si stačí uložit do telefonu:
 mapa s body nahoře, nad ní filtry (den, kategorie, ★, hledání), klepnutím na bod
-se pod mapou rozbalí popis s odkazem do Apple Maps. Mapa zobrazuje jen to, co
-projde filtry. Žádné externí skripty — z internetu se tahají pouze dlaždice
+se pod mapou rozbalí popis s odkazem do Apple Maps. Body mimo filtr z mapy
+nezmizí — zůstanou jako matné tečky, aby byl vidět kontext okolí, a klepnout
+na ně jde pořád. Seznam pod mapou se filtruje. Žádné externí skripty — z internetu se tahají pouze dlaždice
 OpenStreetMap, takže bez signálu funguje seznam, hledání i filtry dál.
 
 Přegeneruje se přes `python3 build_mapa.py`.

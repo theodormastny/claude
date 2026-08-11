@@ -80,7 +80,12 @@ h1{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:1.5rem;margin:
   border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.5);
 }
 .mk.top i{width:16px;height:16px;box-shadow:0 0 0 2px var(--ochre),0 1px 3px rgba(0,0,0,.5)}
+/* Body mimo filtr zůstanou na mapě jako matné tečky — kvůli přehledu o okolí. */
+.mk.off{z-index:0}
+.mk.off i{width:7px;height:7px;border-width:1px;opacity:.42;box-shadow:none}
+.mk.off.top i{width:8px;height:8px;box-shadow:none}
 .mk.sel{z-index:5}
+.mk.sel.off i{opacity:1}
 .mk.sel i{width:22px;height:22px;border-width:3px;box-shadow:0 0 0 3px var(--accent),0 2px 6px rgba(0,0,0,.5)}
 .mapui{position:absolute;right:8px;bottom:8px;display:flex;flex-direction:column;gap:6px;z-index:10}
 .mapui button{
@@ -818,7 +823,8 @@ function apply(){
   let n = 0;
   P.forEach((p,i) => {
     p._on = pass(p);
-    marks[i].el.style.display = p._on ? '' : 'none';
+    /* Značka na mapě nezmizí, jen zšedne — klepnout na ni jde pořád. */
+    marks[i].el.classList.toggle('off', !p._on);
     rowEls[i].style.display = p._on ? '' : 'none';
     if(p._on) n++;
   });
@@ -828,10 +834,6 @@ function apply(){
   });
   countEl.textContent = n === P.length ? P.length + ' míst' : n + ' z ' + P.length;
   emptyEl.style.display = n ? 'none' : 'block';
-  if(sel >= 0 && !P[sel]._on){
-    marks[sel].el.classList.remove('sel'); rowEls[sel].classList.remove('sel');
-    sel = -1; dEl.classList.remove('on');
-  }
 }
 
 function toggle(btn, set, key){
