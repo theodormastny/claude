@@ -18,6 +18,20 @@ Naimportuj buď TOP + ZBYTEK (dva seznamy, dají se v appce zvlášť zapínat a
 nebo jen VSE, když chceš všechno pohromadě. Vedle každého `.kmz` leží i rozbalené `.kml`
 pro případ, že by appka zazipovanou verzi nevzala.
 
+## Stránka s mapou pro mobil
+
+`out/mapa.html` je jeden samostatný soubor, který si stačí uložit do telefonu:
+mapa s body nahoře, nad ní filtry (den, kategorie, ★, hledání), klepnutím na bod
+se pod mapou rozbalí popis s odkazem do Apple Maps. Mapa zobrazuje jen to, co
+projde filtry. Žádné externí skripty — z internetu se tahají pouze dlaždice
+OpenStreetMap, takže bez signálu funguje seznam, hledání i filtry dál.
+
+Přegeneruje se přes `python3 build_mapa.py`.
+
+Odkaz **Apple Maps** hledá místo podle názvu v okolí uložené souřadnice, takže
+appka snapne na skutečný podnik i tam, kde je souřadnice o pár desítek metrů vedle.
+**Přesný bod** otevře souřadnici tak, jak je v datech.
+
 ## Import do maps.me
 
 Otevři soubor přímo v telefonu (z e-mailu, Souborů nebo Disku) a zvol otevřít v maps.me —
