@@ -169,6 +169,7 @@ h1{font-family:"Iowan Old Style",Palatino,Georgia,serif;font-size:1.5rem;margin:
   display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
 .star{color:var(--ochre)}
 .empty{display:none;padding:28px 14px;color:var(--muted);font-size:.88rem;text-align:center}
+.jsmsg{margin:0;padding:11px 12px;background:var(--ochre);color:#20180a;font-size:.82rem;font-weight:600}
 footer{padding:16px 12px 40px;color:var(--muted);font-size:.72rem;border-top:1px solid var(--line)}
 footer p{margin:0 0 6px}
 button:focus-visible,a:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
@@ -343,35 +344,25 @@ const listEl = document.getElementById('list');
 const emptyEl = document.getElementById('empty');
 const countEl = document.getElementById('count');
 
-/* seznam a značky postavíme jednou */
+/* Seznam už je v HTML (aby byl čitelný i bez skriptu) — jen si na něj navěsíme
+   obsluhu a doplníme značky do mapy. */
 (function build(){
-  let curDay = null;
-  P.forEach((p,i) => {
-    if(p.day !== curDay){
-      curDay = p.day;
-      const h = document.createElement('h2');
-      h.className = 'dayhead'; h.dataset.day = p.day;
-      h.innerHTML = esc(p.day) + '<span>' + esc(p.city) + '</span>';
-      listEl.appendChild(h);
-    }
-    const b = document.createElement('button');
-    b.className = 'row'; b.type = 'button';
-    b.innerHTML =
-      '<span class="dot" style="background:'+CATS[p.cat].c+'"></span>' +
-      '<span class="txt"><span class="nm">' + (p.top ? '<span class="star">★</span> ' : '') +
-      esc(p.name) + '</span><span class="sn">' + esc(p.city) + ' · ' + esc(CATS[p.cat].l) +
-      ' — ' + esc(p.desc.slice(0,110)) + '…</span></span>';
-    b.onclick = () => select(i, true);
-    listEl.appendChild(b);
+  document.querySelectorAll('.row').forEach(b => {
+    const i = +b.dataset.i;
     rowEls[i] = b;
+    b.addEventListener('click', () => select(i, true));
 
+    const p = P[i];
     const mk = document.createElement('div');
     mk.className = 'mk' + (p.top ? ' top' : '');
     mk.innerHTML = '<i style="background:'+CATS[p.cat].c+'"></i>';
-    mk.onclick = ev => { ev.stopPropagation(); select(i, false); };
+    mk.addEventListener('click', ev => { ev.stopPropagation(); select(i, false); });
     layer.appendChild(mk);
     marks[i] = {el:mk, p};
   });
+  if(rowEls.filter(Boolean).length !== P.length){
+    throw new Error('seznam v HTML neodpovídá datům');
+  }
 })();
 
 function esc(s){ const d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
@@ -482,6 +473,11 @@ addEventListener('resize', () => {
 apply();
 fit(shown());
 setTimeout(() => { const h=document.getElementById('hint'); if(h && !offlineShown) h.style.display='none'; }, 6000);
+
+/* rukojeť pro ověřovací skripty */
+window.__dbg = {P, marks, setView, fit, shown, state, apply, lon2x, lat2y, x2lon, y2lat,
+  get z(){return z}, get ox(){return ox}, get oy(){return oy},
+  get tx(){return tx}, get ty(){return ty}};
 """
 
 
@@ -518,6 +514,34 @@ def main():
     js = (JS.replace("__CATS__", json.dumps(cats_js, ensure_ascii=False))
             .replace("__POINTS__", json.dumps(rows, ensure_ascii=False, separators=(",", ":")))
             .replace("__CONF__", json.dumps(CONF_NOTE, ensure_ascii=False)))
+    # Když skript spadne, ať to stránka řekne — ne aby filtry jen tiše nereagovaly.
+    js = ("(function(){try{\n" + js + "\n}catch(e){\n"
+          "var b=document.getElementById('jserr');\n"
+          "if(b){b.style.display='block';"
+          "b.textContent='Interaktivní část se nespustila: '+e.message+"
+          "' — seznam níž funguje i tak.';}\n"
+          "console.error(e);\n}})();\n")
+
+    # Seznam vysázíme staticky do HTML, ať je dokument čitelný i bez skriptu.
+    list_html = []
+    cur_day = None
+    for i, p in enumerate(points):
+        if p["day"] != cur_day:
+            cur_day = p["day"]
+            list_html.append(
+                f'<h2 class="dayhead" data-day="{html.escape(p["day"])}">'
+                f'{html.escape(p["day"])}<span>{html.escape(p["city"])}</span></h2>')
+        snippet = p["desc"][:110]
+        star = '<span class="star">★</span> ' if p["top"] else ""
+        list_html.append(
+            f'<button class="row" type="button" data-i="{i}">'
+            f'<span class="dot" style="background:{SWATCH[p["cat"]]}"></span>'
+            f'<span class="txt"><span class="nm">{star}'
+            f'{html.escape(p["name"])}</span>'
+            f'<span class="sn">{html.escape(p["city"])} · '
+            f'{html.escape(CATEGORIES[p["cat"]][1])} — {html.escape(snippet)}…</span>'
+            f"</span></button>")
+    list_html = "\n".join(list_html)
 
     # filtry
     chips_day = "".join(
@@ -558,6 +582,10 @@ def main():
   <div class="bar2"><span class="count" id="count"></span><button id="reset" type="button">Zrušit filtry</button></div>
 </div>
 
+<noscript><p class="jsmsg">Tahle stránka potřebuje JavaScript kvůli mapě a filtrům.
+Seznam všech míst i tak najdeš níž.</p></noscript>
+<p class="jsmsg" id="jserr" style="display:none"></p>
+
 <div id="map">
   <div id="layer"></div>
   <div class="hint" id="hint">Táhni, dvěma prsty přibliž</div>
@@ -570,7 +598,7 @@ def main():
 </div>
 
 <div id="detail"></div>
-<div id="list"></div>
+<div id="list">{list_html}</div>
 <p class="empty" id="empty">Nic neodpovídá filtrům.</p>
 
 <footer>
